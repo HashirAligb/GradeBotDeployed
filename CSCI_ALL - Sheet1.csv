@@ -1,0 +1,1498 @@
+TERM,SUBJECT,NBR,COURSE NAME,SECTION,PROF,TOTAL,A+,A,A-,B+,B,B-,C+,C,C-,D+,D,F,W,INC/NA,AVG GPA
+FA24,CSCI,111,Intro Algorithmic Problem Solv,211,"AKINLAR, C",154,3,11,12,11,11,7,12,13,0,0,0,28,46,0,2.243
+FA24,CSCI,111,Intro Algorithmic Problem Solv,221,"AKINLAR, C",141,3,12,11,3,10,13,10,11,0,0,0,28,40,0,2.185
+FA24,CSCI,111,Intro Algorithmic Problem Solv,131,"CHYN, X",104,1,6,4,6,4,5,3,11,5,0,5,16,38,0,1.977
+FA24,CSCI,111,Intro Algorithmic Problem Solv,111,"CHYN, X",184,3,9,3,7,11,8,6,14,18,0,11,37,57,0,1.734
+FA24,CSCI,112,Intro Algori Prob Solving Java,221,"CONNOR, T",13,2,4,1,2,2,0,2,0,0,0,0,0,0,0,3.454
+FA24,CSCI,12,Intro Computers & Computation,711,"HUANG, X",31,5,4,3,4,2,2,1,2,2,0,0,0,6,0,3.256
+FA24,CSCI,211,Object-Oriented Program in C++,111,"WAXMAN, J",197,44,18,15,16,21,9,9,13,0,3,6,21,22,0,2.858
+FA24,CSCI,211,Object-Oriented Program in C++,121,"WAXMAN, J",108,12,13,4,5,9,5,4,16,0,0,12,16,10,2,2.344
+FA24,CSCI,211,Object-Oriented Program in C++,231,"ALAYEV, Y",19,0,0,0,1,0,0,0,2,0,0,1,3,11,1,1.186
+FA24,CSCI,212,Object-Oriented Prog in Java,121,"LORD, K",154,2,10,18,8,18,15,10,17,7,6,6,17,20,0,2.375
+FA24,CSCI,212,Object-Oriented Prog in Java,111,"LORD, K",159,4,6,11,7,11,10,9,22,3,13,13,26,24,0,1.952
+FA24,CSCI,212,Object-Oriented Prog in Java,231,"STEINBERG, O",94,0,6,5,2,4,4,8,3,1,1,3,20,34,3,1.795
+FA24,CSCI,220,Discrete Structures,133,"GOLDBERG, R",35,0,7,6,2,4,2,5,3,0,0,0,1,5,0,3.057
+FA24,CSCI,220,Discrete Structures,111,"GOLDBERG, R",34,0,5,4,4,5,5,2,7,0,0,0,1,1,0,2.882
+FA24,CSCI,220,Discrete Structures,221,"CESARETTI, P",34,0,5,1,2,6,6,3,3,0,0,0,4,4,0,2.58
+FA24,CSCI,220,Discrete Structures,222,"CESARETTI, P",34,0,4,3,2,4,2,3,9,0,0,0,6,1,0,2.303
+FA24,CSCI,220,Discrete Structures,132,"KONG, T",34,3,4,2,1,2,4,2,3,0,0,1,10,2,0,2.097
+FA24,CSCI,220,Discrete Structures,223,"STEINBERG, O",32,6,0,1,0,5,1,1,4,0,0,0,11,3,0,1.921
+FA24,CSCI,220,Discrete Structures,131,"KONG, T",19,0,1,1,1,0,2,3,0,0,0,0,6,5,0,1.664
+FA24,CSCI,240,Computer Org & Assembly Lang,131,"YEH, J",55,1,11,8,11,6,4,3,6,0,0,0,2,3,0,3.108
+FA24,CSCI,240,Computer Org & Assembly Lang,231,"YEH, J",55,1,12,5,9,6,7,2,3,0,0,0,6,4,0,2.896
+FA24,CSCI,240,Computer Org & Assembly Lang,232,"YEH, J",53,0,4,9,10,7,4,2,7,0,0,0,6,4,0,2.708
+FA24,CSCI,240,Computer Org & Assembly Lang,132,"BACI, N",40,1,3,0,6,5,0,4,6,3,0,0,2,10,0,2.57
+FA24,CSCI,240,Computer Org & Assembly Lang,221,"BACI, N",39,0,3,0,5,7,0,5,8,1,0,0,6,4,0,2.249
+FA24,CSCI,240,Computer Org & Assembly Lang,211,"BACI, N",37,0,4,0,3,4,0,4,8,1,0,0,5,8,0,2.234
+FA24,CSCI,240,Computer Org & Assembly Lang,111,"FLUTURE, S",45,4,2,0,2,3,2,4,1,0,0,2,7,18,0,2.156
+FA24,CSCI,313,Data Structures,131,"CESARETTI, P",35,0,4,3,3,1,8,1,5,0,0,0,4,6,0,2.548
+FA24,CSCI,313,Data Structures,231,"PHILLIPS, T",22,2,2,0,1,0,0,2,2,0,0,0,3,10,0,2.325
+FA24,CSCI,313,Data Structures,122,"SVADLENKA, J",32,1,0,0,3,0,6,3,11,0,0,0,4,4,0,2.107
+FA24,CSCI,313,Data Structures,212,"SMITH-THOMPSON, A",35,0,1,1,3,5,2,3,6,0,0,0,7,7,0,2.032
+FA24,CSCI,313,Data Structures,211,"SMITH-THOMPSON, A",33,0,0,3,3,3,5,3,2,0,0,0,11,3,0,1.813
+FA24,CSCI,313,Data Structures,121,"ROZOVSKAYA, A",32,1,2,0,0,4,2,3,2,0,0,1,16,1,0,1.332
+FA24,CSCI,316,Principles of Programming Lang,221,"SVADLENKA, J",32,1,3,2,0,3,2,3,5,1,1,1,7,3,0,2.024
+FA24,CSCI,316,Principles of Programming Lang,231,"SVADLENKA, J",35,0,2,4,1,2,3,1,8,0,0,0,10,4,0,1.887
+FA24,CSCI,316,Principles of Programming Lang,121,"KONG, T",38,1,2,2,3,4,1,2,4,0,0,0,16,3,0,1.617
+FA24,CSCI,316,Principles of Programming Lang,122,"KONG, T",38,1,4,1,3,1,3,1,3,0,0,1,16,4,0,1.588
+FA24,CSCI,316,Principles of Programming Lang,131,"SVITAK JR, J",21,0,0,0,0,0,1,1,1,0,1,6,3,8,0,1.1
+FA24,CSCI,316,Principles of Programming Lang,111,"SVITAK JR, J",28,0,0,0,0,0,0,0,3,3,2,8,4,8,0,1.085
+FA24,CSCI,320,Theory of Computation,111,"RYBA, A",125,2,31,2,4,23,1,6,35,0,0,0,0,21,0,2.963
+FA24,CSCI,320,Theory of Computation,131,"OBRENIC, B",150,4,7,4,4,10,11,34,23,0,0,0,47,6,0,1.777
+FA24,CSCI,323,Design & Analysis Algorithms,221,"LI, J",36,0,4,4,13,8,0,2,2,0,0,0,0,3,0,3.221
+FA24,CSCI,323,Design & Analysis Algorithms,212,"LI, J",36,0,1,9,10,6,5,2,1,0,0,0,0,2,0,3.188
+FA24,CSCI,323,Design & Analysis Algorithms,222,"PHILLIPS, T",18,0,2,2,2,1,0,0,1,0,0,0,2,8,0,2.7
+FA24,CSCI,323,Design & Analysis Algorithms,211,"SMITH-THOMPSON, A",32,0,1,3,2,5,6,3,5,0,0,0,3,3,1,2.493
+FA24,CSCI,323,Design & Analysis Algorithms,131,"CESARETTI, P",32,0,3,1,4,3,3,3,8,0,0,0,3,4,0,2.461
+FA24,CSCI,323,Design & Analysis Algorithms,111,"BROWN, T",27,1,3,2,1,5,1,0,3,1,0,0,9,1,0,2.004
+FA24,CSCI,323,Design & Analysis Algorithms,112,"MITCHELL, T",24,0,1,1,0,1,3,2,1,0,0,0,7,8,0,1.588
+FA24,CSCI,325,Machine Learning,212,"TSAI, C",40,0,5,4,7,5,6,1,2,0,0,0,3,7,0,2.891
+FA24,CSCI,331,Database Systems,231,"STEINBERG, O",32,0,1,4,5,5,3,3,5,1,2,1,0,2,0,2.687
+FA24,CSCI,331,Database Systems,111,"CHYN, X",35,0,3,3,2,5,4,4,8,0,0,0,4,2,0,2.445
+FA24,CSCI,331,Database Systems,131,"SVADLENKA, J",32,0,3,2,3,1,3,1,7,0,0,0,5,7,0,2.268
+FA24,CSCI,331,Database Systems,211,"SY, B",28,0,0,2,3,1,2,4,4,2,0,1,4,5,0,2.057
+FA24,CSCI,331,Database Systems,121,"OBRENIC, B",66,4,2,2,4,10,2,6,16,0,0,0,17,3,0,1.997
+FA24,CSCI,334,Data Mining and Warehousing,222,"SY, B",24,0,0,2,4,4,3,4,0,0,0,0,1,6,0,2.772
+FA24,CSCI,335,Information Org and Retrieval,112,"GOLDBERG, R",44,0,4,5,12,14,4,2,2,0,0,0,0,1,0,3.151
+FA24,CSCI,340,Operating Systems Principles,121,"CHYN, X",34,0,3,3,4,8,3,4,5,1,0,0,2,1,0,2.706
+FA24,CSCI,340,Operating Systems Principles,131,"TELANG, G",31,0,4,0,6,3,4,3,7,0,0,0,2,2,0,2.638
+FA24,CSCI,340,Operating Systems Principles,132,"UPADHYAY, V",35,0,1,0,1,3,4,0,5,0,0,0,3,18,0,2.182
+FA24,CSCI,340,Operating Systems Principles,133,"UPADHYAY, V",17,0,0,3,1,0,0,0,3,0,0,0,3,7,0,2.04
+FA24,CSCI,340,Operating Systems Principles,112,"FLUTURE, S",32,1,0,0,2,1,3,4,4,0,0,0,5,12,0,1.945
+FA24,CSCI,340,Operating Systems Principles,222,"RAHMAN, M",36,0,3,3,2,2,4,1,1,0,0,0,13,7,0,1.752
+FA24,CSCI,340,Operating Systems Principles,111,"FLUTURE, S",32,0,1,1,1,2,2,2,3,0,0,0,13,7,0,1.32
+FA24,CSCI,340,Operating Systems Principles,221,"SVITAK JR, J",36,0,0,0,1,0,1,3,4,4,6,8,7,2,0,1.279
+FA24,CSCI,343,Computer Architecture,131,"UPADHYAY, V",41,1,2,2,8,3,1,3,6,0,0,0,1,14,0,2.83
+FA24,CSCI,343,Computer Architecture,231,"TELANG, G",38,0,6,0,7,5,7,5,2,0,0,0,6,0,0,2.539
+FA24,CSCI,343,Computer Architecture,232,"TELANG, G",36,0,6,0,4,5,3,4,4,0,0,0,6,4,0,2.422
+FA24,CSCI,343,Computer Architecture,112,"SMITH-THOMPSON, A",38,0,5,0,1,2,2,5,7,0,0,0,6,9,1,2.15
+FA24,CSCI,343,Computer Architecture,211,"FLUTURE, S",40,2,2,3,2,0,3,6,4,0,0,0,9,9,0,2.052
+FA24,CSCI,343,Computer Architecture,111,"SMITH-THOMPSON, A",38,0,5,0,2,1,6,3,8,0,0,0,9,4,0,2.021
+FA24,CSCI,343,Computer Architecture,212,"FLUTURE, S",40,1,3,0,3,4,2,5,2,0,0,0,10,9,1,1.96
+FA24,CSCI,344,Distributed Systems,131,"TELANG, G",30,0,5,0,1,3,5,6,4,0,0,0,0,6,0,2.817
+FA24,CSCI,348,Data Communications,221,"AKINLAR, C",40,0,5,2,3,5,8,5,5,0,0,0,2,5,0,2.726
+FA24,CSCI,355,Internet and Web Technologies,211,"FRIED, M",58,2,11,7,7,9,7,6,2,0,0,0,3,4,0,3.05
+FA24,CSCI,355,Internet and Web Technologies,221,"SVITAK JR, J",39,0,1,2,0,5,3,8,2,3,4,3,3,5,0,2.065
+FA24,CSCI,355,Internet and Web Technologies,231,"LAW, R",37,1,1,2,0,5,3,5,3,0,0,0,13,4,0,1.697
+FA24,CSCI,355,Internet and Web Technologies,611,"LAW, R",31,2,2,1,0,3,0,1,1,0,0,0,17,4,0,1.222
+FA24,CSCI,355,Internet and Web Technologies,232,"LAW, R",30,1,1,1,1,2,0,2,0,0,0,0,17,5,0,1.024
+FA24,CSCI,361,Numerical Methods,111,"BROWN, T",42,1,4,3,0,3,4,2,6,2,0,1,13,3,0,1.844
+FA24,CSCI,363,Artificial Intelligence,211,"GRYAK, J",30,1,2,1,2,3,4,1,3,0,0,0,6,7,0,2.191
+FA24,CSCI,366,Natural Language Processing,132,"ROZOVSKAYA, A",43,1,1,0,1,4,0,2,3,0,0,1,20,10,0,1.058
+FA24,CSCI,370,Software Engineering,221,"TSAI, C",30,2,2,7,4,3,6,0,4,0,0,0,1,1,0,3.045
+FA24,CSCI,370,Software Engineering,232,"GREENBERG, A",62,2,6,7,11,15,5,8,5,0,1,0,1,1,0,2.99
+FA24,CSCI,370,Software Engineering,222,"TSAI, C",17,1,2,3,0,0,0,2,3,0,0,0,6,0,0,1.982
+FA24,CSCI,370,Software Engineering,131,"ABREU, A",22,0,0,1,1,2,1,3,6,0,2,1,3,2,0,1.91
+FA24,CSCI,381,VT: Special Topics in Comp Sci,133,"KAHROBAEI, D",49,1,48,0,0,0,0,0,0,0,0,0,0,0,0,4
+FA24,CSCI,381,VT: Special Topics in Comp Sci,224,"PHILLIPS, T",28,4,1,3,3,1,0,3,1,0,0,0,0,12,0,3.306
+FA24,CSCI,381,VT: Special Topics in Comp Sci,214,"HELLER, P",20,0,2,6,3,0,2,1,3,0,0,0,0,3,0,3.165
+FA24,CSCI,381,VT: Special Topics in Comp Sci,231,"RODAY, R",50,3,6,5,7,14,7,1,2,0,0,1,2,2,0,3.038
+FA24,CSCI,381,VT: Special Topics in Comp Sci,121,"WAXMAN, J",39,7,5,3,3,6,3,4,4,0,1,0,3,0,0,2.913
+FA24,CSCI,381,VT: Special Topics in Comp Sci,213,"SY, B",14,0,1,1,2,2,1,2,2,0,0,0,2,1,0,2.431
+FA24,CSCI,381,VT: Special Topics in Comp Sci,221,"RAHMAN, M",42,2,0,0,3,4,6,4,11,0,4,2,1,5,0,2.284
+FA24,CSCI,3913,VT: Honors Problems Comp Sci,60,"MITCHELL, T",1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,4
+FA24,CSCI,3913,VT: Honors Problems Comp Sci,61,"GRYAK, J",1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,4
+FA24,CSCI,3953,Research Projects,60,"KAHROBAEI, D",1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3.7
+FA24,CSCI,3981,Internship,60,"LORD, K",1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,4
+FA24,CSCI,48,Spreadsheet Programming,211,"FRIED, M",88,0,23,15,11,8,8,13,5,0,0,0,0,5,0,3.245
+FA24,CSCI,48,Spreadsheet Programming,131,"JAGDEO, M",115,4,5,5,13,14,10,9,1,15,11,0,16,12,0,2.222
+FA24,CSCI,612,Advanced Programming in Java,231,"STEINBERG, O",1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,3
+FA24,CSCI,640,Comp Org & Assembly Lang,232,"YEH, J",2,0,0,0,0,0,1,0,1,0,0,0,0,0,0,2.35
+FA24,CSCI,655,Internet and Web Technologies,232,"LAW, R",1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,3
+FA24,CSCI,700,Algorithms I,111,"BROWN, T",1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,4
+FA24,CSCI,700,Algorithms I,212,"LI, J",2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,3.7
+FA24,CSCI,700,Algorithms I,221,"LI, J",4,0,0,1,1,2,0,0,0,0,0,0,0,0,0,3.25
+FA24,CSCI,711,Database Systems,121,"OBRENIC, B",8,2,1,0,1,1,0,0,2,0,0,0,1,0,0,2.788
+FA24,CSCI,715,Distributed Computing,131,"TELANG, G",15,0,3,0,4,0,5,0,2,0,0,0,0,1,0,3.05
+FA24,CSCI,744,Comp Architecture & Networks,232,"TELANG, G",1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,4
+FA24,CSCI,744,Comp Architecture & Networks,111,"SMITH-THOMPSON, A",2,0,1,0,0,0,0,0,0,0,0,0,0,1,0,4
+FA24,CSCI,744,Comp Architecture & Networks,131,"UPADHYAY, V",4,0,1,1,0,0,0,0,1,0,0,0,0,1,0,3.233
+FA24,CSCI,744,Comp Architecture & Networks,112,"SMITH-THOMPSON, A",2,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+FA24,CSCI,748,Computer Networks,221,"AKINLAR, C",4,1,1,0,1,0,0,1,0,0,0,0,0,0,0,3.4
+FA24,CSCI,761,Numerical Methods,111,"BROWN, T",3,0,2,0,0,0,1,0,0,0,0,0,0,0,0,3.567
+FA24,CSCI,780,Special Topics in Computer Sci,133,"KAHROBAEI, D",6,3,3,0,0,0,0,0,0,0,0,0,0,0,0,4
+FA24,CSCI,780,Special Topics in Computer Sci,121,"WAXMAN, J",6,3,1,0,1,0,1,0,0,0,0,0,0,0,0,3.667
+FA24,CSCI,780,Special Topics in Computer Sci,112,"GOLDBERG, R",5,0,2,1,1,1,0,0,0,0,0,0,0,0,0,3.6
+FA24,CSCI,780,Special Topics in Computer Sci,132,"ROZOVSKAYA, A",2,0,1,0,0,0,1,0,0,0,0,0,0,0,0,3.35
+FA24,CSCI,780,Special Topics in Computer Sci,211,"GRYAK, J",3,0,0,1,1,1,0,0,0,0,0,0,0,0,0,3.333
+FA24,CSCI,780,Special Topics in Computer Sci,222,"SY, B",2,0,0,1,0,0,1,0,0,0,0,0,0,0,0,3.2
+FA24,CSCI,780,Special Topics in Computer Sci,213,"SY, B",2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,3
+FA24,CSCI,780,Special Topics in Computer Sci,221,"RAHMAN, M",1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2.7
+FA24,CSCI,780,Special Topics in Computer Sci,212,"TSAI, C",4,0,0,1,0,1,0,1,0,0,0,0,1,0,0,2.25
+FA24,CSCI,780,Special Topics in Computer Sci,224,"PHILLIPS, T",1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+FA24,CSCI,85,Database App Programming,211,"HELLER, P",12,0,0,0,2,1,2,0,1,0,0,0,1,5,0,2.429
+,,,,,,,,,,,,,,,,,,,,,
+TERM,SUBJECT,NBR,COURSE NAME,SECTION,PROF,TOTAL,A+,A,A-,B+,B,B-,C+,C,C-,D,F,W,INC/NA,AVG GPA,
+Spring 2024,CSCI,12,Intro Computers & Computation,711,"HUANG, X",33,10,3,2,4,0,2,1,1,0,0,0,10,0,3.578,
+Spring 2024,CSCI,12,Intro Computers & Computation,711A,"HUANG, X",33,0,0,0,0,0,0,0,0,0,0,0,0,33,0,
+Spring 2024,CSCI,48,Spreadsheet Programming,131,"JAGDEO, M",100,4,10,7,8,4,7,7,2,5,13,7,26,0,2.443,
+Spring 2024,CSCI,48,Spreadsheet Programming,131A,"JAGDEO, M",39,0,0,0,0,0,0,0,0,0,0,0,0,39,0,
+Spring 2024,CSCI,48,Spreadsheet Programming,131B,"JAGDEO, M",30,0,0,0,0,0,0,0,0,0,0,0,0,30,0,
+Spring 2024,CSCI,48,Spreadsheet Programming,131C,"DEMIRCI, G",31,0,0,0,0,0,0,0,0,0,0,0,0,31,0,
+Spring 2024,CSCI,48,Spreadsheet Programming,211,"FRIED, M",88,0,18,13,21,15,3,2,0,1,1,3,11,0,3.244,
+Spring 2024,CSCI,48,Spreadsheet Programming,211,"LANDAU, G",88,0,18,13,21,15,3,2,0,1,1,3,11,0,3.244,
+Spring 2024,CSCI,48,Spreadsheet Programming,211A,"LANDAU, G",25,0,0,0,0,0,0,0,0,0,0,0,0,25,0,
+Spring 2024,CSCI,48,Spreadsheet Programming,211B,"LANDAU, G",25,0,0,0,0,0,0,0,0,0,0,0,0,25,0,
+Spring 2024,CSCI,48,Spreadsheet Programming,211C,"LANDAU, G",38,0,0,0,0,0,0,0,0,0,0,0,0,38,0,
+Spring 2024,CSCI,85,Database App Programming,131,"HILL, D",17,2,2,3,0,2,0,1,1,1,2,0,3,0,2.936,
+Spring 2024,CSCI,90,Topics in Computing,132,"CONNOR, T",17,5,7,0,2,1,0,0,1,0,1,0,0,0,3.565,
+Spring 2024,CSCI,111,Intro Algorithmic Problem Solv,111,"CHYN, X",175,0,5,12,5,11,6,8,11,12,4,26,69,1,1.949,
+Spring 2024,CSCI,111,Intro Algorithmic Problem Solv,111B,"BOATENG, J",25,0,0,0,0,0,0,0,0,0,0,0,0,25,0,
+Spring 2024,CSCI,111,Intro Algorithmic Problem Solv,111C,"BOATENG, J",25,0,0,0,0,0,0,0,0,0,0,0,0,25,0,
+Spring 2024,CSCI,111,Intro Algorithmic Problem Solv,111E,"WANG, Y",38,0,0,0,0,0,0,0,0,0,0,0,0,38,0,
+Spring 2024,CSCI,111,Intro Algorithmic Problem Solv,111F,"YANG, K",25,0,0,0,0,0,0,0,0,0,0,0,0,25,0,
+Spring 2024,CSCI,111,Intro Algorithmic Problem Solv,111G,"WANG, Y",24,0,0,0,0,0,0,0,0,0,0,0,0,24,0,
+Spring 2024,CSCI,111,Intro Algorithmic Problem Solv,111K,"YANG, K",38,0,0,0,0,0,0,0,0,0,0,0,0,38,0,
+Spring 2024,CSCI,111,Intro Algorithmic Problem Solv,131,"CHYN, X",116,3,8,3,4,11,7,5,11,3,2,6,51,0,2.552,
+Spring 2024,CSCI,111,Intro Algorithmic Problem Solv,131A,"GAO, T",22,0,0,0,0,0,0,0,0,0,0,0,0,22,0,
+Spring 2024,CSCI,111,Intro Algorithmic Problem Solv,131B,"GAO, T",23,0,0,0,0,0,0,0,0,0,0,0,0,23,0,
+Spring 2024,CSCI,111,Intro Algorithmic Problem Solv,131C,"SCHICK, M",24,0,0,0,0,0,0,0,0,0,0,0,0,24,0,
+Spring 2024,CSCI,111,Intro Algorithmic Problem Solv,131D,"GAO, T",23,0,0,0,0,0,0,0,0,0,0,0,0,23,0,
+Spring 2024,CSCI,111,Intro Algorithmic Problem Solv,131E,"ZHAO, A",24,0,0,0,0,0,0,0,0,0,0,0,0,24,0,
+Spring 2024,CSCI,111,Intro Algorithmic Problem Solv,221,"AKINLAR, C",162,3,7,10,12,12,13,9,12,0,0,8,76,0,2.702,
+Spring 2024,CSCI,111,Intro Algorithmic Problem Solv,221A,"TSE, C",25,0,0,0,0,0,0,0,0,0,0,0,0,25,0,
+Spring 2024,CSCI,111,Intro Algorithmic Problem Solv,221B,"TSE, C",19,0,0,0,0,0,0,0,0,0,0,0,0,19,0,
+Spring 2024,CSCI,111,Intro Algorithmic Problem Solv,221C,"TSE, C",38,0,0,0,0,0,0,0,0,0,0,0,0,38,0,
+Spring 2024,CSCI,111,Intro Algorithmic Problem Solv,221D,"WU, S",25,0,0,0,0,0,0,0,0,0,0,0,0,25,0,
+Spring 2024,CSCI,111,Intro Algorithmic Problem Solv,221E,"WU, S",25,0,0,0,0,0,0,0,0,0,0,0,0,25,0,
+Spring 2024,CSCI,111,Intro Algorithmic Problem Solv,221F,"ZHAO, A",30,0,0,0,0,0,0,0,0,0,0,0,0,30,0,
+Spring 2024,CSCI,211,Object-Oriented Program in C++,111,"WAXMAN, J",220,28,11,21,15,17,22,13,24,0,17,23,27,0,2.558,
+Spring 2024,CSCI,211,Object-Oriented Program in C++,111A,"GOMES, R",38,0,0,0,0,0,0,0,0,0,0,0,0,38,0,
+Spring 2024,CSCI,211,Object-Oriented Program in C++,111B,"GOMES, R",24,0,0,0,0,0,0,0,0,0,0,0,0,24,0,
+Spring 2024,CSCI,211,Object-Oriented Program in C++,111C,"WOLF-SONKIN, M",25,0,0,0,0,0,0,0,0,0,0,0,0,25,0,
+Spring 2024,CSCI,211,Object-Oriented Program in C++,111D,"GOMES, R",24,0,0,0,0,0,0,0,0,0,0,0,0,24,0,
+Spring 2024,CSCI,211,Object-Oriented Program in C++,111E,"ZHOU, L",24,0,0,0,0,0,0,0,0,0,0,0,0,24,0,
+Spring 2024,CSCI,211,Object-Oriented Program in C++,111F,"CAMPBELL, A",30,0,0,0,0,0,0,0,0,0,0,0,0,30,0,
+Spring 2024,CSCI,211,Object-Oriented Program in C++,111G,"ZHOU, L",31,0,0,0,0,0,0,0,0,0,0,0,0,31,0,
+Spring 2024,CSCI,211,Object-Oriented Program in C++,111H,"ZHOU, L",24,0,0,0,0,0,0,0,0,0,0,0,0,24,0,
+Spring 2024,CSCI,211,Object-Oriented Program in C++,121,"WAXMAN, J",172,17,10,20,10,10,14,8,22,0,9,28,24,0,2.393,
+Spring 2024,CSCI,211,Object-Oriented Program in C++,121C,"WANG, Y",25,0,0,0,0,0,0,0,0,0,0,0,0,25,0,
+Spring 2024,CSCI,211,Object-Oriented Program in C++,121D,"WOLF-SONKIN, M",20,0,0,0,0,0,0,0,0,0,0,0,0,20,0,
+Spring 2024,CSCI,211,Object-Oriented Program in C++,121E,"ABRAHAM, K",25,0,0,0,0,0,0,0,0,0,0,0,0,25,0,
+Spring 2024,CSCI,211,Object-Oriented Program in C++,121F,"ABRAHAM, K",24,0,0,0,0,0,0,0,0,0,0,0,0,24,0,
+Spring 2024,CSCI,211,Object-Oriented Program in C++,121J,"ZHOU, L",24,0,0,0,0,0,0,0,0,0,0,0,0,24,0,
+Spring 2024,CSCI,211,Object-Oriented Program in C++,121K,"BOURNIAS, T",24,0,0,0,0,0,0,0,0,0,0,0,0,24,0,
+Spring 2024,CSCI,211,Object-Oriented Program in C++,121L,"SU, X",30,0,0,0,0,0,0,0,0,0,0,0,0,30,0,
+Spring 2024,CSCI,211,Object-Oriented Program in C++,231,"ALAYEV, Y",20,0,0,0,2,0,1,1,2,3,2,2,7,0,1.746,
+Spring 2024,CSCI,211,Object-Oriented Program in C++,231,"GREENBERG, A",20,0,0,0,2,0,1,1,2,3,2,2,7,0,1.746,
+Spring 2024,CSCI,211,Object-Oriented Program in C++,231B,"GREENBERG, A",20,0,0,0,0,0,0,0,0,0,0,0,0,20,0,
+Spring 2024,CSCI,212,Object-Oriented Prog in Java,111,"CAMPBELL, A",164,0,8,8,7,18,10,11,19,7,19,8,48,0,2.26,
+Spring 2024,CSCI,212,Object-Oriented Prog in Java,111,"GOMES, R",164,0,8,8,7,18,10,11,19,7,19,8,48,0,2.26,
+Spring 2024,CSCI,212,Object-Oriented Prog in Java,111,"LORD, K",164,0,8,8,7,18,10,11,19,7,19,8,48,0,2.26,
+Spring 2024,CSCI,212,Object-Oriented Prog in Java,111,"LOWY, Z",164,0,8,8,7,18,10,11,19,7,19,8,48,0,2.26,
+Spring 2024,CSCI,212,Object-Oriented Prog in Java,111,"TAO, X",164,0,8,8,7,18,10,11,19,7,19,8,48,0,2.26,
+Spring 2024,CSCI,212,Object-Oriented Prog in Java,111,"XU, X",164,0,8,8,7,18,10,11,19,7,19,8,48,0,2.26,
+Spring 2024,CSCI,212,Object-Oriented Prog in Java,111A,"LOWY, Z",26,0,0,0,0,0,0,0,0,0,0,0,0,26,0,
+Spring 2024,CSCI,212,Object-Oriented Prog in Java,111B,"XU, X",30,0,0,0,0,0,0,0,0,0,0,0,0,30,0,
+Spring 2024,CSCI,212,Object-Oriented Prog in Java,111C,"XU, X",30,0,0,0,0,0,0,0,0,0,0,0,0,30,0,
+Spring 2024,CSCI,212,Object-Oriented Prog in Java,111D,"TAO, X",25,0,0,0,0,0,0,0,0,0,0,0,0,25,0,
+Spring 2024,CSCI,212,Object-Oriented Prog in Java,111E,"GOMES, R",28,0,0,0,0,0,0,0,0,0,0,0,0,28,0,
+Spring 2024,CSCI,212,Object-Oriented Prog in Java,111F,"CAMPBELL, A",25,0,0,0,0,0,0,0,0,0,0,0,0,25,0,
+Spring 2024,CSCI,212,Object-Oriented Prog in Java,121,"CAMPBELL, A",141,0,6,3,5,2,7,9,11,8,18,26,44,1,1.587,
+Spring 2024,CSCI,212,Object-Oriented Prog in Java,121,"LORD, K",141,0,6,3,5,2,7,9,11,8,18,26,44,1,1.587,
+Spring 2024,CSCI,212,Object-Oriented Prog in Java,121,"PATEL, N",141,0,6,3,5,2,7,9,11,8,18,26,44,1,1.587,
+Spring 2024,CSCI,212,Object-Oriented Prog in Java,121,"SENDROWICZ, M",141,0,6,3,5,2,7,9,11,8,18,26,44,1,1.587,
+Spring 2024,CSCI,212,Object-Oriented Prog in Java,121,"STEINBERG, O",141,0,6,3,5,2,7,9,11,8,18,26,44,1,1.587,
+Spring 2024,CSCI,212,Object-Oriented Prog in Java,121,"WU, S",141,0,6,3,5,2,7,9,11,8,18,26,44,1,1.587,
+Spring 2024,CSCI,212,Object-Oriented Prog in Java,121,"XU, X",141,0,6,3,5,2,7,9,11,8,18,26,44,1,1.587,
+Spring 2024,CSCI,212,Object-Oriented Prog in Java,121A,"XU, X",30,0,0,0,0,0,0,0,0,0,0,0,0,30,0,
+Spring 2024,CSCI,212,Object-Oriented Prog in Java,121B,"SENDROWICZ, M",28,0,0,0,0,0,0,0,0,0,0,0,0,28,0,
+Spring 2024,CSCI,212,Object-Oriented Prog in Java,121C,"WU, S",28,0,0,0,0,0,0,0,0,0,0,0,0,28,0,
+Spring 2024,CSCI,212,Object-Oriented Prog in Java,121E,"STEINBERG, O",31,0,0,0,0,0,0,0,0,0,0,0,0,31,0,
+Spring 2024,CSCI,212,Object-Oriented Prog in Java,121F,"PATEL, N",24,0,0,0,0,0,0,0,0,0,0,0,0,24,0,
+Spring 2024,CSCI,212,Object-Oriented Prog in Java,231,"STEINBERG, O",109,1,3,10,4,4,2,4,3,2,2,10,63,1,2.316,
+Spring 2024,CSCI,212,Object-Oriented Prog in Java,231A,"WANG, Y",28,0,0,0,0,0,0,0,0,0,0,0,0,28,0,
+Spring 2024,CSCI,212,Object-Oriented Prog in Java,231B,"WOLF-SONKIN, M",24,0,0,0,0,0,0,0,0,0,0,0,0,24,0,
+Spring 2024,CSCI,212,Object-Oriented Prog in Java,231D,"SENDROWICZ, M",30,0,0,0,0,0,0,0,0,0,0,0,0,30,0,
+Spring 2024,CSCI,212,Object-Oriented Prog in Java,231E,"PATEL, N",28,0,0,0,0,0,0,0,0,0,0,0,0,28,0,
+Spring 2024,CSCI,220,Discrete Structures,111,"GOLDBERG, R",33,0,4,5,6,4,2,4,3,0,0,0,5,0,3.104,
+Spring 2024,CSCI,220,Discrete Structures,121,"KAHROBAEI, D",32,2,9,5,4,6,2,0,1,0,0,0,3,0,3.486,
+Spring 2024,CSCI,220,Discrete Structures,122,"KAHROBAEI, D",35,3,6,9,3,2,3,0,2,3,0,1,3,0,3.2,
+Spring 2024,CSCI,220,Discrete Structures,131,"ROZOVSKAYA, A",24,0,1,2,2,1,4,2,1,0,0,6,5,0,2.021,
+Spring 2024,CSCI,220,Discrete Structures,132,"KONG, T",34,2,3,0,2,2,5,2,4,0,3,8,3,0,1.99,
+Spring 2024,CSCI,220,Discrete Structures,221,"GAVVA, S",34,1,13,3,2,3,5,0,4,0,0,0,3,0,3.361,
+Spring 2024,CSCI,220,Discrete Structures,222,"TELANG, G",34,0,2,1,3,2,0,2,3,0,0,4,17,0,2.247,
+Spring 2024,CSCI,240,Computer Org & Assembly Lang,111,"TAO, X",42,0,1,0,7,4,2,2,2,0,0,9,15,0,1.967,
+Spring 2024,CSCI,240,Computer Org & Assembly Lang,131,"YEH, J",42,0,6,9,8,5,3,5,2,0,0,3,1,0,2.983,
+Spring 2024,CSCI,240,Computer Org & Assembly Lang,211,"GAVVA, S",34,0,11,1,3,8,2,0,1,0,0,0,8,0,3.423,
+Spring 2024,CSCI,240,Computer Org & Assembly Lang,221,"FLUTURE, S",48,5,0,1,3,0,5,2,0,0,0,14,15,1,1.723,
+Spring 2024,CSCI,240,Computer Org & Assembly Lang,222,"TELANG, G",34,1,2,1,2,3,2,5,2,0,0,8,8,0,2.008,
+Spring 2024,CSCI,240,Computer Org & Assembly Lang,231,"YEH, J",42,0,2,7,9,8,3,3,3,0,0,3,4,0,2.858,
+Spring 2024,CSCI,240,Computer Org & Assembly Lang,232,"YEH, J",42,0,2,6,10,7,5,3,0,0,0,3,6,0,2.906,
+Spring 2024,CSCI,313,Data Structures,111,"SVITAK, J",22,0,0,0,1,4,3,0,2,4,1,1,6,0,2.2,
+Spring 2024,CSCI,313,Data Structures,121,"SVITAK, J",23,0,0,1,1,0,2,0,5,1,6,1,6,0,1.771,
+Spring 2024,CSCI,313,Data Structures,131,"SVADLENKA, J",16,1,1,1,3,2,0,2,0,0,0,4,2,0,2.3,
+Spring 2024,CSCI,313,Data Structures,211,"AKINLAR, C",32,2,5,4,0,5,5,4,3,0,0,2,2,0,2.883,
+Spring 2024,CSCI,313,Data Structures,212,"AKINLAR, C",35,2,4,3,7,5,6,4,3,0,0,0,1,0,3.076,
+Spring 2024,CSCI,313,Data Structures,222,"LI, J",37,0,4,10,5,5,4,6,1,0,0,1,1,0,3.086,
+Spring 2024,CSCI,313,Data Structures,231,"PHILLIPS, T",27,0,3,2,0,0,0,2,1,0,0,6,13,0,1.857,
+Spring 2024,CSCI,316,Principles of Programming Lang,121,"KONG, T",36,1,5,1,6,2,3,3,1,0,1,5,8,0,2.554,
+Spring 2024,CSCI,316,Principles of Programming Lang,122,"KONG, T",36,3,4,2,1,3,3,1,2,0,0,7,10,0,2.388,
+Spring 2024,CSCI,316,Principles of Programming Lang,211,"TAO, X",32,0,1,0,7,4,4,9,2,0,0,4,1,0,2.406,
+Spring 2024,CSCI,316,Principles of Programming Lang,221,"SMITH-THOMPSON, A",32,0,5,2,4,4,1,4,11,0,0,0,1,0,2.79,
+Spring 2024,CSCI,316,Principles of Programming Lang,222,"SVITAK, J",34,0,0,0,1,0,4,8,2,2,6,3,8,0,1.765,
+Spring 2024,CSCI,316,Principles of Programming Lang,231,"SVITAK, J",41,0,0,0,0,2,2,5,5,3,11,2,11,0,1.633,
+Spring 2024,CSCI,320,Theory of Computation,121,"OBRENIC, B",86,4,6,4,5,10,7,9,22,0,0,7,12,0,2.499,
+Spring 2024,CSCI,320,Theory of Computation,131,"OBRENIC, B",111,2,4,7,2,20,4,15,19,0,1,20,17,0,2.136,
+Spring 2024,CSCI,320,Theory of Computation,221,"BOKLAN, K",43,0,1,0,0,0,1,0,8,0,0,5,28,0,1.513,
+Spring 2024,CSCI,323,Design & Analysis Algorithms,112,"MITCHELL, T",33,1,0,1,4,3,1,1,3,0,0,10,9,0,1.704,
+Spring 2024,CSCI,323,Design & Analysis Algorithms,131,"KAHROBAEI, D",34,2,21,8,0,1,1,0,0,0,0,1,0,0,3.744,
+Spring 2024,CSCI,323,Design & Analysis Algorithms,211,"SMITH-THOMPSON, A",33,0,1,0,3,4,3,1,3,0,0,3,14,1,2.35,
+Spring 2024,CSCI,323,Design & Analysis Algorithms,212,"SMITH-THOMPSON, A",34,0,1,1,0,7,3,2,7,0,0,3,8,2,2.308,
+Spring 2024,CSCI,323,Design & Analysis Algorithms,221,"AKINLAR, C",34,1,3,3,4,3,3,3,4,0,0,3,7,0,2.678,
+Spring 2024,CSCI,323,Design & Analysis Algorithms,222,"PHILLIPS, T",19,2,2,0,1,0,0,0,1,0,0,5,8,0,1.936,
+Spring 2024,CSCI,331,Database Systems,121,"STEINBERG, O",39,3,1,3,1,7,8,3,3,1,3,4,2,0,2.449,
+Spring 2024,CSCI,331,Database Systems,131,"LEAVITT, D",39,1,3,1,3,5,4,2,4,0,2,1,12,1,2.692,
+Spring 2024,CSCI,331,Database Systems,211,"HELLER, P",39,0,1,1,2,4,3,4,7,0,0,2,15,0,2.4,
+Spring 2024,CSCI,331,Database Systems,221,"SY, B",10,0,1,2,0,1,1,1,0,0,1,0,3,0,2.914,
+Spring 2024,CSCI,331,Database Systems,222,"SVADLENKA, J",19,0,1,3,2,3,1,1,2,0,0,1,5,0,2.836,
+Spring 2024,CSCI,331,Database Systems,231,"SVADLENKA, J",26,1,2,1,4,2,3,2,1,0,0,5,5,0,2.362,
+Spring 2024,CSCI,340,Operating Systems Principles,111,"SMITH-THOMPSON, A",32,1,3,2,3,4,5,3,7,0,0,3,0,1,2.571,
+Spring 2024,CSCI,340,Operating Systems Principles,112,"SMITH-THOMPSON, A",32,1,3,0,0,6,2,1,10,0,0,1,5,3,2.571,
+Spring 2024,CSCI,340,Operating Systems Principles,121,"SVADLENKA, J",32,2,1,3,0,2,1,5,2,0,0,6,10,0,2.15,
+Spring 2024,CSCI,340,Operating Systems Principles,131,"SVITAK, J",21,0,0,0,0,1,2,4,0,2,5,2,5,0,1.625,
+Spring 2024,CSCI,340,Operating Systems Principles,132,"UPADHYAY, V",35,0,2,1,0,3,1,3,4,0,0,4,17,0,2.128,
+Spring 2024,CSCI,340,Operating Systems Principles,211,"FLUTURE, S",35,0,0,2,2,1,1,3,6,0,0,5,15,0,1.93,
+Spring 2024,CSCI,340,Operating Systems Principles,212,"FLUTURE, S",37,0,1,1,2,1,3,4,7,0,0,5,13,0,2.025,
+Spring 2024,CSCI,340,Operating Systems Principles,221,"RAHMAN, M",39,1,0,1,0,2,4,9,6,0,0,8,8,0,1.845,
+Spring 2024,CSCI,343,Computer Architecture,111,"FLUTURE, S",35,1,3,2,4,1,0,4,1,0,0,4,14,1,2.54,
+Spring 2024,CSCI,343,Computer Architecture,112,"FLUTURE, S",34,3,6,0,1,3,2,2,0,0,0,5,12,0,2.65,
+Spring 2024,CSCI,343,Computer Architecture,131,"TELANG, G",33,1,3,0,1,2,1,2,3,0,0,7,13,0,1.93,
+Spring 2024,CSCI,343,Computer Architecture,132,"TELANG, G",29,0,1,2,1,2,3,1,3,0,0,4,12,0,2.182,
+Spring 2024,CSCI,343,Computer Architecture,211,"TAO, X",63,0,2,8,12,0,9,11,11,0,0,7,3,0,2.48,
+Spring 2024,CSCI,343,Computer Architecture,221,"GAVVA, S",40,1,11,5,4,9,5,3,0,0,0,0,2,0,3.345,
+Spring 2024,CSCI,343,Computer Architecture,231,"GAVVA, S",40,1,8,9,3,3,7,2,1,0,0,0,6,0,3.344,
+Spring 2024,CSCI,343,Computer Architecture,232,"UPADHYAY, V",35,1,0,1,3,0,2,0,6,0,0,5,17,0,1.944,
+Spring 2024,CSCI,352,Cryptography,232,"BOKLAN, K",31,0,1,1,0,1,0,0,1,0,0,3,24,0,1.814,
+Spring 2024,CSCI,355,Internet and Web Technologies,211,"FRIED, M",58,3,6,9,4,9,6,12,5,1,1,0,2,0,2.964,
+Spring 2024,CSCI,355,Internet and Web Technologies,231,"LAW, R",33,2,4,4,1,2,0,5,2,0,0,3,10,0,2.765,
+Spring 2024,CSCI,355,Internet and Web Technologies,232,"LAW, R",33,0,0,4,4,2,1,1,5,0,0,5,11,0,2.227,
+Spring 2024,CSCI,355,Internet and Web Technologies,611,"LAW, R",34,2,1,1,2,3,2,1,6,0,0,5,11,0,2.217,
+Spring 2024,CSCI,361,Numerical Methods,111,"MITCHELL, T",34,1,0,0,0,1,0,2,2,0,0,2,26,0,1.95,
+Spring 2024,CSCI,363,Artificial Intelligence,225,"GRYAK, J",34,0,1,1,2,4,5,3,6,0,0,2,10,0,2.446,
+Spring 2024,CSCI,366,Natural Language Processing,132,"ROZOVSKAYA, A",34,0,1,2,2,3,1,1,1,0,0,5,18,0,2.125,
+Spring 2024,CSCI,367,Digital Image Processing,211,"TSAI, C",33,0,2,3,3,5,0,4,2,0,0,0,14,0,3.011,
+Spring 2024,CSCI,370,Software Engineering,111,"GOLDBERG, R",32,0,4,4,3,7,3,3,3,0,0,1,4,0,2.954,
+Spring 2024,CSCI,370,Software Engineering,131,"ABREU, A",32,0,4,3,4,4,0,0,6,1,0,3,7,0,2.64,
+Spring 2024,CSCI,370,Software Engineering,133,"ABREU, A",35,0,2,2,5,4,1,2,4,0,0,11,4,0,1.91,
+Spring 2024,CSCI,370,Software Engineering,221,"TSAI, C",18,0,3,1,3,2,3,1,1,0,0,0,4,0,3.143,
+Spring 2024,CSCI,370,Software Engineering,231,"GREENBERG, A",30,1,4,0,1,13,0,6,3,2,0,0,0,0,2.85,
+Spring 2024,CSCI,370,Software Engineering,232,"GREENBERG, A",30,0,4,0,1,11,1,8,3,2,0,0,0,0,2.76,
+Spring 2024,CSCI,381,VT: Special Topics in Comp Sci,112,"BROWN, T",33,0,5,0,2,7,0,8,4,0,0,3,4,0,2.552,
+Spring 2024,CSCI,381,VT: Special Topics in Comp Sci,113,"KAHROBAEI, D",34,4,30,0,0,0,0,0,0,0,0,0,0,0,4,
+Spring 2024,CSCI,381,VT: Special Topics in Comp Sci,121,"WAXMAN, J",34,11,5,4,0,0,0,0,7,0,0,6,0,1,2.812,
+Spring 2024,CSCI,381,VT: Special Topics in Comp Sci,131,"GOLDBERG, R",20,0,4,4,6,2,0,1,1,0,0,0,2,0,3.383,
+Spring 2024,CSCI,381,VT: Special Topics in Comp Sci,212,"HELLER, P",30,1,7,2,6,7,2,0,1,0,0,0,4,0,3.369,
+Spring 2024,CSCI,381,VT: Special Topics in Comp Sci,214,"SY, B",30,0,2,3,6,4,4,2,2,0,0,0,7,0,3.057,
+Spring 2024,CSCI,381,VT: Special Topics in Comp Sci,224,"PHILLIPS, T",34,3,3,4,2,4,1,1,2,0,0,2,12,0,3.018,
+Spring 2024,CSCI,390,Honors Readings in Comp Sci,60,"GOSWAMI, M",13,0,7,5,1,0,0,0,0,0,0,0,0,0,3.831,
+Spring 2024,CSCI,722,Computability and Complexity,131,"GOLDBERG, R",13,0,3,3,2,2,1,0,0,0,0,0,2,0,3.491,
+,,,,,,,,,,,,,,,,,,,,,
+TERM,SUBJECT,NBR,COURSE NAME,SECTION,PROF,TOTAL,A+,A,A-,B+,B,B-,C+,C,C-,D,F,W,INC/NA,AVG GPA,
+F2023,CSCI,12,Intro Computers & Computation,711,"HUANG, X",30,6,1,5,1,3,2,1,0,3,0,0,8,0,3.255,
+F2023,CSCI,12,Intro Computers & Computation,711A,"HUANG, X",31,0,0,0,0,0,0,0,0,0,0,0,0,31,0,
+F2023,CSCI,48,Spreadsheet Programming,211,"FRIED, M",120,1,22,16,14,7,10,26,5,1,0,3,15,0,3.018,
+F2023,CSCI,48,Spreadsheet Programming,211,"KELLER, C",120,1,22,16,14,7,10,26,5,1,0,3,15,0,3.018,
+F2023,CSCI,48,Spreadsheet Programming,211,"LANDAU, G",120,1,22,16,14,7,10,26,5,1,0,3,15,0,3.018,
+F2023,CSCI,48,Spreadsheet Programming,131,"JAGDEO, M",102,9,14,3,6,14,9,4,7,7,2,9,16,0,2.694,
+F2023,CSCI,48,Spreadsheet Programming,131,"WOLF-SONKIN, M",102,9,14,3,6,14,9,4,7,7,2,9,16,0,2.694,
+F2023,CSCI,48,Spreadsheet Programming,131A,"JAGDEO, M",39,0,0,0,0,0,0,0,0,0,0,0,0,39,0,
+F2023,CSCI,48,Spreadsheet Programming,131B,"JAGDEO, M",39,0,0,0,0,0,0,0,0,0,0,0,0,39,0,
+F2023,CSCI,48,Spreadsheet Programming,131C,"WOLF-SONKIN, M",24,0,0,0,0,0,0,0,0,0,0,0,0,24,0,
+F2023,CSCI,48,Spreadsheet Programming,211A,"KELLER, C",32,0,0,0,0,0,0,0,0,0,0,0,0,32,0,
+F2023,CSCI,48,Spreadsheet Programming,211B,"LANDAU, G",39,0,0,0,0,0,0,0,0,0,0,0,0,39,0,
+F2023,CSCI,48,Spreadsheet Programming,211C,"LANDAU, G",25,0,0,0,0,0,0,0,0,0,0,0,0,25,0,
+F2023,CSCI,48,Spreadsheet Programming,211D,"LANDAU, G",24,0,0,0,0,0,0,0,0,0,0,0,0,24,0,
+F2023,CSCI,111,Intro Algorithmic Problem Solv,111,"BACI, N",254,0,52,15,8,52,11,9,16,5,2,11,55,2,2.977,
+F2023,CSCI,111,Intro Algorithmic Problem Solv,111,"BOATENG, J",254,0,52,15,8,52,11,9,16,5,2,11,55,2,2.977,
+F2023,CSCI,111,Intro Algorithmic Problem Solv,111,"GOMES, R",254,0,52,15,8,52,11,9,16,5,2,11,55,2,2.977,
+F2023,CSCI,111,Intro Algorithmic Problem Solv,111,"RYBA, A",254,0,52,15,8,52,11,9,16,5,2,11,55,2,2.977,
+F2023,CSCI,111,Intro Algorithmic Problem Solv,111,"SVITAK, J",254,0,52,15,8,52,11,9,16,5,2,11,55,2,2.977,
+F2023,CSCI,111,Intro Algorithmic Problem Solv,111,"TSE, C",254,0,52,15,8,52,11,9,16,5,2,11,55,2,2.977,
+F2023,CSCI,111,Intro Algorithmic Problem Solv,111,"WANG, Y",254,0,52,15,8,52,11,9,16,5,2,11,55,2,2.977,
+F2023,CSCI,111,Intro Algorithmic Problem Solv,111,"WOLF-SONKIN, M",254,0,52,15,8,52,11,9,16,5,2,11,55,2,2.977,
+F2023,CSCI,111,Intro Algorithmic Problem Solv,111,"ZHAO, A",254,0,52,15,8,52,11,9,16,5,2,11,55,2,2.977,
+F2023,CSCI,111,Intro Algorithmic Problem Solv,231,"STEINBERG, O",126,22,4,1,3,4,4,4,4,2,8,6,52,0,2.726,
+F2023,CSCI,111,Intro Algorithmic Problem Solv,231,"SU, X",126,22,4,1,3,4,4,4,4,2,8,6,52,0,2.726,
+F2023,CSCI,111,Intro Algorithmic Problem Solv,231,"TSE, C",126,22,4,1,3,4,4,4,4,2,8,6,52,0,2.726,
+F2023,CSCI,111,Intro Algorithmic Problem Solv,231,"ZHAO, A",126,22,4,1,3,4,4,4,4,2,8,6,52,0,2.726,
+F2023,CSCI,111,Intro Algorithmic Problem Solv,221,"CHYN, X",252,1,14,13,18,37,13,11,16,9,4,20,64,0,2.501,
+F2023,CSCI,111,Intro Algorithmic Problem Solv,221,"FRIED, M",252,1,14,13,18,37,13,11,16,9,4,20,64,0,2.501,
+F2023,CSCI,111,Intro Algorithmic Problem Solv,221,"GOMES, R",252,1,14,13,18,37,13,11,16,9,4,20,64,0,2.501,
+F2023,CSCI,111,Intro Algorithmic Problem Solv,221,"SVITAK, J",252,1,14,13,18,37,13,11,16,9,4,20,64,0,2.501,
+F2023,CSCI,111,Intro Algorithmic Problem Solv,221,"WU, S",252,1,14,13,18,37,13,11,16,9,4,20,64,0,2.501,
+F2023,CSCI,111,Intro Algorithmic Problem Solv,221,"XU, X",252,1,14,13,18,37,13,11,16,9,4,20,64,0,2.501,
+F2023,CSCI,111,Intro Algorithmic Problem Solv,221,"YANG, K",252,1,14,13,18,37,13,11,16,9,4,20,64,0,2.501,
+F2023,CSCI,111,Intro Algorithmic Problem Solv,211,"BOATENG, J",164,1,6,12,8,15,10,5,12,8,4,9,53,0,2.488,
+F2023,CSCI,111,Intro Algorithmic Problem Solv,211,"CHYN, X",164,1,6,12,8,15,10,5,12,8,4,9,53,0,2.488,
+F2023,CSCI,111,Intro Algorithmic Problem Solv,211,"SVITAK, J",164,1,6,12,8,15,10,5,12,8,4,9,53,0,2.488,
+F2023,CSCI,111,Intro Algorithmic Problem Solv,211,"WU, S",164,1,6,12,8,15,10,5,12,8,4,9,53,0,2.488,
+F2023,CSCI,111,Intro Algorithmic Problem Solv,211,"XU, X",164,1,6,12,8,15,10,5,12,8,4,9,53,0,2.488,
+F2023,CSCI,111,Intro Algorithmic Problem Solv,111A,"SVITAK, J",39,0,0,0,0,0,0,0,0,0,0,0,0,39,0,
+F2023,CSCI,111,Intro Algorithmic Problem Solv,111B,"GOMES, R",20,0,0,0,0,0,0,0,0,0,0,0,0,20,0,
+F2023,CSCI,111,Intro Algorithmic Problem Solv,111C,"BOATENG, J",20,0,0,0,0,0,0,0,0,0,0,0,0,20,0,
+F2023,CSCI,111,Intro Algorithmic Problem Solv,111D,"TSE, C",30,0,0,0,0,0,0,0,0,0,0,0,0,30,0,
+F2023,CSCI,111,Intro Algorithmic Problem Solv,111E,"BACI, N",24,0,0,0,0,0,0,0,0,0,0,0,0,24,0,
+F2023,CSCI,111,Intro Algorithmic Problem Solv,111F,"ZHAO, A",40,0,0,0,0,0,0,0,0,0,0,0,0,40,0,
+F2023,CSCI,111,Intro Algorithmic Problem Solv,111G,"WOLF-SONKIN, M",32,0,0,0,0,0,0,0,0,0,0,0,0,32,0,
+F2023,CSCI,111,Intro Algorithmic Problem Solv,111H,"TSE, C",25,0,0,0,0,0,0,0,0,0,0,0,0,25,0,
+F2023,CSCI,111,Intro Algorithmic Problem Solv,111J,"WANG, Y",24,0,0,0,0,0,0,0,0,0,0,0,0,24,0,
+F2023,CSCI,111,Intro Algorithmic Problem Solv,211A,"WU, S",25,0,0,0,0,0,0,0,0,0,0,0,0,25,0,
+F2023,CSCI,111,Intro Algorithmic Problem Solv,211B,"WU, S",39,0,0,0,0,0,0,0,0,0,0,0,0,39,0,
+F2023,CSCI,111,Intro Algorithmic Problem Solv,211C,"XU, X",39,0,0,0,0,0,0,0,0,0,0,0,0,39,0,
+F2023,CSCI,111,Intro Algorithmic Problem Solv,211F,"SVITAK, J",23,0,0,0,0,0,0,0,0,0,0,0,0,23,0,
+F2023,CSCI,111,Intro Algorithmic Problem Solv,211G,"BOATENG, J",38,0,0,0,0,0,0,0,0,0,0,0,0,38,0,
+F2023,CSCI,111,Intro Algorithmic Problem Solv,221B,"XU, X",39,0,0,0,0,0,0,0,0,0,0,0,0,39,0,
+F2023,CSCI,111,Intro Algorithmic Problem Solv,221C,"SVITAK, J",39,0,0,0,0,0,0,0,0,0,0,0,0,39,0,
+F2023,CSCI,111,Intro Algorithmic Problem Solv,221D,"YANG, K",40,0,0,0,0,0,0,0,0,0,0,0,0,40,0,
+F2023,CSCI,111,Intro Algorithmic Problem Solv,221E,"GOMES, R",32,0,0,0,0,0,0,0,0,0,0,0,0,32,0,
+F2023,CSCI,111,Intro Algorithmic Problem Solv,221F,"WU, S",25,0,0,0,0,0,0,0,0,0,0,0,0,25,0,
+F2023,CSCI,111,Intro Algorithmic Problem Solv,221G,"XU, X",32,0,0,0,0,0,0,0,0,0,0,0,0,32,0,
+F2023,CSCI,111,Intro Algorithmic Problem Solv,221J,"FRIED, M",20,0,0,0,0,0,0,0,0,0,0,0,0,20,0,
+F2023,CSCI,111,Intro Algorithmic Problem Solv,221K,"WU, S",25,0,0,0,0,0,0,0,0,0,0,0,0,25,0,
+F2023,CSCI,111,Intro Algorithmic Problem Solv,231A,"TSE, C",22,0,0,0,0,0,0,0,0,0,0,0,0,22,0,
+F2023,CSCI,111,Intro Algorithmic Problem Solv,231B,"TSE, C",29,0,0,0,0,0,0,0,0,0,0,0,0,29,0,
+F2023,CSCI,111,Intro Algorithmic Problem Solv,231C,"ZHAO, A",39,0,0,0,0,0,0,0,0,0,0,0,0,39,0,
+F2023,CSCI,111,Intro Algorithmic Problem Solv,231D,"SU, X",37,0,0,0,0,0,0,0,0,0,0,0,0,37,0,
+F2023,CSCI,112,Intro Algori Prob Solving Java,231,"CONNOR, T",15,1,9,0,1,4,0,0,0,0,0,0,0,0,3.687,
+F2023,CSCI,112,Intro Algori Prob Solving Java,231A,"CONNOR, T",15,0,0,0,0,0,0,0,0,0,0,0,0,15,0,
+F2023,CSCI,211,Object-Oriented Program in C++,121,"ABRAHAM, K",132,21,10,7,5,11,3,7,14,0,14,15,25,0,2.482,
+F2023,CSCI,211,Object-Oriented Program in C++,121,"FANG, F",132,21,10,7,5,11,3,7,14,0,14,15,25,0,2.482,
+F2023,CSCI,211,Object-Oriented Program in C++,121,"TAO, X",132,21,10,7,5,11,3,7,14,0,14,15,25,0,2.482,
+F2023,CSCI,211,Object-Oriented Program in C++,121,"WAXMAN, J",132,21,10,7,5,11,3,7,14,0,14,15,25,0,2.482,
+F2023,CSCI,211,Object-Oriented Program in C++,121,"ZHOU, L",132,21,10,7,5,11,3,7,14,0,14,15,25,0,2.482,
+F2023,CSCI,211,Object-Oriented Program in C++,221,"CHYN, X",106,1,8,8,9,16,7,14,6,0,0,16,21,0,2.428,
+F2023,CSCI,211,Object-Oriented Program in C++,221,"GOMES, R",106,1,8,8,9,16,7,14,6,0,0,16,21,0,2.428,
+F2023,CSCI,211,Object-Oriented Program in C++,221,"WANG, Y",106,1,8,8,9,16,7,14,6,0,0,16,21,0,2.428,
+F2023,CSCI,211,Object-Oriented Program in C++,122,"ABRAHAM, K",93,14,6,3,5,2,6,3,8,0,15,14,16,1,2.207,
+F2023,CSCI,211,Object-Oriented Program in C++,122,"CAMPBELL, A",93,14,6,3,5,2,6,3,8,0,15,14,16,1,2.207,
+F2023,CSCI,211,Object-Oriented Program in C++,122,"WAXMAN, J",93,14,6,3,5,2,6,3,8,0,15,14,16,1,2.207,
+F2023,CSCI,211,Object-Oriented Program in C++,122,"ZHOU, L",93,14,6,3,5,2,6,3,8,0,15,14,16,1,2.207,
+F2023,CSCI,211,Object-Oriented Program in C++,231,"ALAYEV, Y",15,0,1,0,0,0,1,0,1,3,2,2,5,0,1.58,
+F2023,CSCI,211,Object-Oriented Program in C++,231,"WOLF-SONKIN, M",15,0,1,0,0,0,1,0,1,3,2,2,5,0,1.58,
+F2023,CSCI,211,Object-Oriented Program in C++,121A,"FANG, F",20,0,0,0,0,0,0,0,0,0,0,0,0,20,0,
+F2023,CSCI,211,Object-Oriented Program in C++,121B,"ABRAHAM, K",39,0,0,0,0,0,0,0,0,0,0,0,0,39,0,
+F2023,CSCI,211,Object-Oriented Program in C++,121C,"ZHOU, L",27,0,0,0,0,0,0,0,0,0,0,0,0,27,0,
+F2023,CSCI,211,Object-Oriented Program in C++,121D,"ZHOU, L",23,0,0,0,0,0,0,0,0,0,0,0,0,23,0,
+F2023,CSCI,211,Object-Oriented Program in C++,121F,"TAO, X",23,0,0,0,0,0,0,0,0,0,0,0,0,23,0,
+F2023,CSCI,211,Object-Oriented Program in C++,122B,"ABRAHAM, K",27,0,0,0,0,0,0,0,0,0,0,0,0,27,0,
+F2023,CSCI,211,Object-Oriented Program in C++,122C,"ZHOU, L",11,0,0,0,0,0,0,0,0,0,0,0,0,11,0,
+F2023,CSCI,211,Object-Oriented Program in C++,122D,"ZHOU, L",20,0,0,0,0,0,0,0,0,0,0,0,0,20,0,
+F2023,CSCI,211,Object-Oriented Program in C++,122E,"CAMPBELL, A",35,0,0,0,0,0,0,0,0,0,0,0,0,35,0,
+F2023,CSCI,211,Object-Oriented Program in C++,221A,"WANG, Y",24,0,0,0,0,0,0,0,0,0,0,0,0,24,0,
+F2023,CSCI,211,Object-Oriented Program in C++,221B,"WANG, Y",22,0,0,0,0,0,0,0,0,0,0,0,0,22,0,
+F2023,CSCI,211,Object-Oriented Program in C++,221C,"GOMES, R",32,0,0,0,0,0,0,0,0,0,0,0,0,32,0,
+F2023,CSCI,211,Object-Oriented Program in C++,221D,"GOMES, R",28,0,0,0,0,0,0,0,0,0,0,0,0,28,0,
+F2023,CSCI,211,Object-Oriented Program in C++,231A,"WOLF-SONKIN, M",16,0,0,0,0,0,0,0,0,0,0,0,0,16,0,
+F2023,CSCI,212,Object-Oriented Prog in Java,211,"AKINLAR, C",108,1,11,6,11,15,12,10,8,0,0,13,21,0,2.562,
+F2023,CSCI,212,Object-Oriented Prog in Java,211,"GAO, T",108,1,11,6,11,15,12,10,8,0,0,13,21,0,2.562,
+F2023,CSCI,212,Object-Oriented Prog in Java,211,"PATEL, N",108,1,11,6,11,15,12,10,8,0,0,13,21,0,2.562,
+F2023,CSCI,212,Object-Oriented Prog in Java,211,"SVITAK, J",108,1,11,6,11,15,12,10,8,0,0,13,21,0,2.562,
+F2023,CSCI,212,Object-Oriented Prog in Java,122,"GAVVA, S",111,2,10,11,4,7,4,8,17,8,10,11,18,0,2.279,
+F2023,CSCI,212,Object-Oriented Prog in Java,122,"LORD, K",111,2,10,11,4,7,4,8,17,8,10,11,18,0,2.279,
+F2023,CSCI,212,Object-Oriented Prog in Java,122,"WOLF-SONKIN, M",111,2,10,11,4,7,4,8,17,8,10,11,18,0,2.279,
+F2023,CSCI,212,Object-Oriented Prog in Java,122,"XU, X",111,2,10,11,4,7,4,8,17,8,10,11,18,0,2.279,
+F2023,CSCI,212,Object-Oriented Prog in Java,121,"BACI, N",134,5,8,6,8,16,13,13,13,4,14,15,19,0,2.264,
+F2023,CSCI,212,Object-Oriented Prog in Java,121,"CAMPBELL, A",134,5,8,6,8,16,13,13,13,4,14,15,19,0,2.264,
+F2023,CSCI,212,Object-Oriented Prog in Java,121,"LORD, K",134,5,8,6,8,16,13,13,13,4,14,15,19,0,2.264,
+F2023,CSCI,212,Object-Oriented Prog in Java,121,"LOWY, Z",134,5,8,6,8,16,13,13,13,4,14,15,19,0,2.264,
+F2023,CSCI,212,Object-Oriented Prog in Java,121,"TAO, X",134,5,8,6,8,16,13,13,13,4,14,15,19,0,2.264,
+F2023,CSCI,212,Object-Oriented Prog in Java,231,"MENA, J",47,0,6,1,3,2,2,1,0,0,1,11,20,0,1.937,
+F2023,CSCI,212,Object-Oriented Prog in Java,231,"PATEL, N",47,0,6,1,3,2,2,1,0,0,1,11,20,0,1.937,
+F2023,CSCI,212,Object-Oriented Prog in Java,231,"STEINBERG, O",47,0,6,1,3,2,2,1,0,0,1,11,20,0,1.937,
+F2023,CSCI,212,Object-Oriented Prog in Java,121A,"LOWY, Z",22,0,0,0,0,0,0,0,0,0,0,0,0,22,0,
+F2023,CSCI,212,Object-Oriented Prog in Java,121B,"TAO, X",20,0,0,0,0,0,0,0,0,0,0,0,0,20,0,
+F2023,CSCI,212,Object-Oriented Prog in Java,121C,"TAO, X",21,0,0,0,0,0,0,0,0,0,0,0,0,21,0,
+F2023,CSCI,212,Object-Oriented Prog in Java,121D,"BACI, N",35,0,0,0,0,0,0,0,0,0,0,0,0,35,0,
+F2023,CSCI,212,Object-Oriented Prog in Java,121E,"CAMPBELL, A",36,0,0,0,0,0,0,0,0,0,0,0,0,36,0,
+F2023,CSCI,212,Object-Oriented Prog in Java,122A,"XU, X",11,0,0,0,0,0,0,0,0,0,0,0,0,11,0,
+F2023,CSCI,212,Object-Oriented Prog in Java,122B,"WOLF-SONKIN, M",25,0,0,0,0,0,0,0,0,0,0,0,0,25,0,
+F2023,CSCI,212,Object-Oriented Prog in Java,122C,"GAVVA, S",24,0,0,0,0,0,0,0,0,0,0,0,0,24,0,
+F2023,CSCI,212,Object-Oriented Prog in Java,122D,"GAVVA, S",24,0,0,0,0,0,0,0,0,0,0,0,0,24,0,
+F2023,CSCI,212,Object-Oriented Prog in Java,122F,"GAVVA, S",27,0,0,0,0,0,0,0,0,0,0,0,0,27,0,
+F2023,CSCI,212,Object-Oriented Prog in Java,211A,"SVITAK, J",25,0,0,0,0,0,0,0,0,0,0,0,0,25,0,
+F2023,CSCI,212,Object-Oriented Prog in Java,211B,"SVITAK, J",21,0,0,0,0,0,0,0,0,0,0,0,0,21,0,
+F2023,CSCI,212,Object-Oriented Prog in Java,211C,"PATEL, N",36,0,0,0,0,0,0,0,0,0,0,0,0,36,0,
+F2023,CSCI,212,Object-Oriented Prog in Java,211D,"GAO, T",26,0,0,0,0,0,0,0,0,0,0,0,0,26,0,
+F2023,CSCI,212,Object-Oriented Prog in Java,231A,"MENA, J",18,0,0,0,0,0,0,0,0,0,0,0,0,18,0,
+F2023,CSCI,212,Object-Oriented Prog in Java,231B,"PATEL, N",29,0,0,0,0,0,0,0,0,0,0,0,0,29,0,
+F2023,CSCI,220,Discrete Structures,111,"GOLDBERG, R",31,0,7,6,2,5,4,1,1,0,0,1,4,0,3.219,
+F2023,CSCI,220,Discrete Structures,121,"KAHROBAEI, D",32,1,9,2,2,7,2,0,5,2,0,1,1,0,3.026,
+F2023,CSCI,220,Discrete Structures,221,"TELANG, G",34,0,1,4,3,6,0,8,5,0,0,4,3,0,2.423,
+F2023,CSCI,220,Discrete Structures,211,"TELANG, G",33,0,3,0,0,7,0,0,16,0,0,4,3,0,2.167,
+F2023,CSCI,220,Discrete Structures,112,"TAO, X",32,0,2,3,4,4,2,3,2,4,0,8,0,0,2.106,
+F2023,CSCI,220,Discrete Structures,131,"KONG, T",36,0,6,2,3,0,1,5,2,0,3,10,4,0,1.953,
+F2023,CSCI,220,Discrete Structures,113,"MITCHELL, T",35,1,1,2,2,0,1,0,0,3,10,3,12,0,1.73,
+F2023,CSCI,240,Computer Org & Assembly Lang,232,"YEH, J",47,1,5,2,14,11,6,1,4,0,0,2,1,0,2.98,
+F2023,CSCI,240,Computer Org & Assembly Lang,231,"YEH, J",50,0,2,8,6,12,13,2,5,0,0,1,1,0,2.92,
+F2023,CSCI,240,Computer Org & Assembly Lang,121,"LI, J",49,2,3,11,3,5,2,6,3,0,0,10,4,0,2.462,
+F2023,CSCI,240,Computer Org & Assembly Lang,131,"GAVVA, S",39,0,4,3,2,8,5,1,2,0,0,9,5,0,2.279,
+F2023,CSCI,240,Computer Org & Assembly Lang,211,"TELANG, G",39,0,3,0,0,5,3,1,4,0,0,8,15,0,1.892,
+F2023,CSCI,240,Computer Org & Assembly Lang,133,"FLUTURE, S",75,3,3,3,0,4,1,5,9,0,1,21,23,2,1.606,
+F2023,CSCI,313,Data Structures,131,"AKINLAR, C",32,0,6,3,2,3,3,2,5,0,0,3,5,0,2.719,
+F2023,CSCI,313,Data Structures,121,"GAVVA, S",32,0,5,3,3,4,7,1,3,0,1,3,2,0,2.707,
+F2023,CSCI,313,Data Structures,222,"TAO, X",32,0,0,3,2,6,5,4,4,3,0,5,0,0,2.234,
+F2023,CSCI,313,Data Structures,211,"STEINBERG, O",32,5,2,3,2,3,1,2,2,0,0,11,1,0,2.129,
+F2023,CSCI,313,Data Structures,231,"STEINBERG, O",32,3,1,1,3,3,2,2,8,0,0,9,0,0,2.019,
+F2023,CSCI,313,Data Structures,221,"TSAI, C",25,0,0,0,1,1,1,1,1,0,0,4,16,0,1.478,
+F2023,CSCI,316,Principles of Programming Lang,123,"TAO, X",48,0,1,3,8,7,6,7,6,4,0,6,0,0,2.367,
+F2023,CSCI,316,Principles of Programming Lang,122,"TAO, X",40,0,2,2,2,9,5,5,5,2,0,5,3,0,2.362,
+F2023,CSCI,316,Principles of Programming Lang,131,"KONG, T",48,0,5,2,2,2,2,1,7,0,1,11,15,0,1.9,
+F2023,CSCI,316,Principles of Programming Lang,121,"KONG, T",47,0,5,3,2,3,4,2,1,0,0,14,13,0,1.885,
+F2023,CSCI,316,Principles of Programming Lang,231,"SVITAK, J",29,0,0,0,2,1,3,3,3,4,5,2,6,0,1.843,
+F2023,CSCI,316,Principles of Programming Lang,221,"SVITAK, J",44,0,0,0,0,4,1,2,2,6,12,7,10,0,1.338,
+F2023,CSCI,320,Theory of Computation,121,"OBRENIC, B",80,5,6,4,3,7,9,13,19,0,0,11,3,0,2.362,
+F2023,CSCI,320,Theory of Computation,122,"OBRENIC, B",116,7,12,10,0,7,5,10,22,0,0,20,23,0,2.306,
+F2023,CSCI,320,Theory of Computation,231,"BOKLAN, K",54,0,2,0,0,2,0,0,3,0,0,12,35,0,1.053,
+F2023,CSCI,323,Design & Analysis Algorithms,112,"KAHROBAEI, D",30,0,22,4,0,1,0,0,1,2,0,0,0,0,3.707,
+F2023,CSCI,323,Design & Analysis Algorithms,231,"PHILLIPS, T",26,5,2,3,0,1,1,1,0,0,0,1,12,0,3.364,
+F2023,CSCI,323,Design & Analysis Algorithms,123,"AKINLAR, C",34,1,1,5,6,4,3,0,4,0,0,1,9,0,2.976,
+F2023,CSCI,323,Design & Analysis Algorithms,221,"AKINLAR, C",35,1,3,5,4,5,3,1,3,0,0,5,5,0,2.637,
+F2023,CSCI,323,Design & Analysis Algorithms,211,"SMITH-THOMPSON, A",30,1,3,0,0,2,1,3,10,0,0,2,7,1,2.345,
+F2023,CSCI,323,Design & Analysis Algorithms,111,"BROWN, T",30,2,2,1,2,1,0,0,7,1,0,5,9,0,2.143,
+F2023,CSCI,325,Machine Learning,212,"TSAI, C",19,1,1,1,2,0,1,0,0,0,0,2,11,0,2.625,
+F2023,CSCI,331,Database Systems,221,"CHYN, X",39,0,4,4,6,10,2,2,8,0,0,2,1,0,2.805,
+F2023,CSCI,331,Database Systems,131,"SVADLENKA, J",37,0,4,5,3,4,8,2,3,0,0,3,5,0,2.769,
+F2023,CSCI,331,Database Systems,211,"HELLER, P",39,2,6,1,1,0,5,4,7,0,0,2,11,0,2.704,
+F2023,CSCI,331,Database Systems,132,"LEAVITT, D",39,0,3,2,1,7,5,4,4,0,4,4,5,0,2.306,
+F2023,CSCI,331,Database Systems,111,"OBRENIC, B",68,1,1,0,4,8,11,8,10,0,0,10,15,0,2.138,
+F2023,CSCI,334,Data Mining and Warehousing,221,"SY, B",14,0,0,1,2,1,2,1,0,0,0,1,6,0,2.625,
+F2023,CSCI,335,Information Org and Retrieval,113,"GOLDBERG, R",30,0,6,4,6,6,4,2,1,0,0,1,0,0,3.133,
+F2023,CSCI,340,Operating Systems Principles,211,"SMITH-THOMPSON, A",35,1,4,0,3,5,5,3,9,0,0,2,3,0,2.603,
+F2023,CSCI,340,Operating Systems Principles,222,"SVADLENKA, J",39,1,2,1,5,3,3,3,5,0,0,4,12,0,2.452,
+F2023,CSCI,340,Operating Systems Principles,131,"UPADHYAY, V",39,0,2,2,2,5,0,2,6,0,0,3,17,0,2.436,
+F2023,CSCI,340,Operating Systems Principles,221,"SVADLENKA, J",39,1,5,1,0,5,4,3,6,0,0,5,9,0,2.413,
+F2023,CSCI,340,Operating Systems Principles,112,"FLUTURE, S",37,1,3,2,0,4,7,1,4,0,0,5,10,0,2.393,
+F2023,CSCI,340,Operating Systems Principles,213,"FLUTURE, S",35,1,2,0,1,2,4,3,2,0,0,6,14,0,2.048,
+F2023,CSCI,340,Operating Systems Principles,212,"RAHMAN, M",37,0,1,1,2,3,3,2,7,0,0,7,10,1,1.923,
+F2023,CSCI,343,Computer Architecture,132,"UPADHYAY, V",42,1,3,2,4,6,1,3,3,0,0,1,18,0,2.925,
+F2023,CSCI,343,Computer Architecture,212,"FLUTURE, S",44,1,3,2,2,2,2,2,5,0,0,3,20,2,2.545,
+F2023,CSCI,343,Computer Architecture,211,"FLUTURE, S",44,1,2,3,2,4,1,2,4,0,0,5,19,1,2.375,
+F2023,CSCI,343,Computer Architecture,221,"RAHMAN, M",38,0,2,0,2,6,0,3,3,0,0,5,17,0,2.167,
+F2023,CSCI,343,Computer Architecture,112,"SMITH-THOMPSON, A",38,2,2,1,2,1,2,3,11,0,0,7,7,0,2.052,
+F2023,CSCI,343,Computer Architecture,111,"SMITH-THOMPSON, A",37,0,2,1,0,4,0,5,10,0,0,6,7,2,1.971,
+F2023,CSCI,343,Computer Architecture,131,"TELANG, G",38,1,3,2,0,5,2,0,6,0,0,14,5,0,1.691,
+F2023,CSCI,344,Distributed Systems,211,"LI, J",24,0,0,6,4,3,3,2,1,0,0,0,5,0,3.111,
+F2023,CSCI,355,Internet and Web Technologies,211,"FRIED, M",35,0,6,5,6,7,2,3,2,2,2,0,0,0,3,
+F2023,CSCI,355,Internet and Web Technologies,131,"LAW, R",25,1,1,7,1,1,1,1,2,0,0,2,8,0,2.894,
+F2023,CSCI,355,Internet and Web Technologies,132,"LAW, R",30,2,5,2,1,2,0,1,0,0,0,6,11,0,2.474,
+F2023,CSCI,355,Internet and Web Technologies,611,"LAW, R",36,2,3,1,3,1,6,0,4,0,1,6,9,0,2.289,
+F2023,CSCI,361,Numerical Methods,112,"MITCHELL, T",24,0,1,0,0,2,0,0,2,0,0,6,13,0,1.273,
+F2023,CSCI,363,Artificial Intelligence,222,"GRYAK, J",31,1,0,2,2,6,0,1,5,0,0,4,10,0,2.3,
+F2023,CSCI,366,Natural Language Processing,132,"ROZOVSKAYA, A",29,0,2,2,1,1,1,0,2,0,0,1,19,0,2.84,
+F2023,CSCI,370,Software Engineering,231,"GREENBERG, A",32,2,5,1,7,12,1,0,2,0,0,1,1,0,3.145,
+F2023,CSCI,370,Software Engineering,232,"GREENBERG, A",32,0,6,1,4,15,1,0,4,0,0,1,0,0,3.019,
+F2023,CSCI,370,Software Engineering,131,"ABREU, A",38,0,8,2,3,5,2,2,3,0,2,3,8,0,2.743,
+F2023,CSCI,370,Software Engineering,212,"TSAI, C",33,0,1,5,3,2,2,6,1,0,0,3,10,0,2.591,
+F2023,CSCI,370,Software Engineering,132,"ABREU, A",38,0,0,0,2,6,5,1,8,2,1,4,9,0,2.097,
+F2023,CSCI,381,VT: Special Topics in Comp Sci,122,"KAHROBAEI, D",30,9,19,0,0,0,0,0,0,0,0,0,2,0,4,
+F2023,CSCI,381,VT: Special Topics in Comp Sci,231,"RODAY, R",36,13,12,2,4,2,1,0,0,0,0,0,2,0,3.803,
+F2023,CSCI,381,VT: Special Topics in Comp Sci,225,"PHILLIPS, T",15,2,4,0,0,1,0,2,0,0,0,0,6,0,3.511,
+F2023,CSCI,381,VT: Special Topics in Comp Sci,215,"HELLER, P",29,1,1,5,8,5,2,2,0,0,0,0,5,0,3.246,
+F2023,CSCI,381,VT: Special Topics in Comp Sci,130,"GOLDBERG, R",20,0,3,4,7,2,1,1,2,0,0,0,0,0,3.245,
+F2023,CSCI,381,VT: Special Topics in Comp Sci,121,"WAXMAN, J",41,16,4,1,1,3,1,4,3,2,0,2,2,2,3.17,
+F2023,CSCI,381,VT: Special Topics in Comp Sci,224,"PHILLIPS, T",15,0,0,0,0,3,2,0,0,0,0,0,10,0,2.88,
+F2023,CSCI,381,VT: Special Topics in Comp Sci,214,"SY, B",19,0,2,1,1,4,4,2,0,0,0,1,4,0,2.827,
+F2023,CSCI,381,VT: Special Topics in Comp Sci,223,"GRYAK, J",30,1,0,0,0,1,1,1,1,0,0,2,23,0,2,
+F2023,CSCI,390,Honors Readings in Comp Sci,60,"GOSWAMI, M",14,0,11,1,1,1,0,0,0,0,0,0,0,0,3.857,
+F2023,CSCI,715,Distributed Computing,211,"LI, J",15,2,3,2,4,2,0,1,0,0,0,1,0,0,3.26,
+,,,,,,,,,,,,,,,,,,,,,
+TERM,SUBJECT,NBR,COURSE NAME,SECTION,PROF,TOTAL,A+,A,A-,B+,B,B-,C+,C,C-,D,F,W,INC/NA,AVG GPA,
+S2023,CSCI,12,Intro Computers & Computation,41,"HUANG, X",38,1,3,4,2,6,4,4,3,0,1,0,10,0,2.943,
+S2023,CSCI,12,Intro Computers & Computation,41A,"HUANG, X",39,0,0,0,0,0,0,0,0,0,0,0,0,39,0,
+S2023,CSCI,48,Spreadsheet Programming,11,"FRIED, M",94,12,16,7,12,11,4,5,4,5,7,3,8,0,2.98,
+S2023,CSCI,48,Spreadsheet Programming,32,"JAGDEO, M",78,5,12,10,10,7,7,2,4,3,4,8,6,0,2.772,
+S2023,CSCI,48,Spreadsheet Programming,11B,"DEMIRCI, G",25,0,0,0,0,0,0,0,0,0,0,0,0,25,0,
+S2023,CSCI,48,Spreadsheet Programming,11C,"LANDAU, G",25,0,0,0,0,0,0,0,0,0,0,0,0,25,0,
+S2023,CSCI,48,Spreadsheet Programming,11D,"LANDAU, G",24,0,0,0,0,0,0,0,0,0,0,0,0,24,0,
+S2023,CSCI,48,Spreadsheet Programming,11E,"LANDAU, G",20,0,0,0,0,0,0,0,0,0,0,0,0,20,0,
+S2023,CSCI,48,Spreadsheet Programming,32B,"JAGDEO, M",39,0,0,0,0,0,0,0,0,0,0,0,0,39,0,
+S2023,CSCI,48,Spreadsheet Programming,32D,"TSE, C",39,0,0,0,0,0,0,0,0,0,0,0,0,39,0,
+S2023,CSCI,85,Database App Programming,11,"HILL, D",34,1,4,3,4,1,2,3,0,1,4,5,4,0,2.332,
+S2023,CSCI,90,Topics in Computing,31,"CONNOR, T",13,2,11,0,0,0,0,0,0,0,0,0,0,0,4,
+S2023,CSCI,111,Intro Algorithmic Problem Solv,33,"TSE, C",136,0,9,7,2,5,16,13,8,0,0,15,57,3,2.301,
+S2023,CSCI,111,Intro Algorithmic Problem Solv,22,"CHYN, X",163,2,12,4,8,15,9,9,13,3,3,21,62,0,2.235,
+S2023,CSCI,111,Intro Algorithmic Problem Solv,11,"CHYN, X",236,1,7,7,11,21,12,22,10,15,19,29,82,0,1.979,
+S2023,CSCI,111,Intro Algorithmic Problem Solv,11A,"XU, X",32,0,0,0,0,0,0,0,0,0,0,0,0,32,0,
+S2023,CSCI,111,Intro Algorithmic Problem Solv,11B,"WU, S",25,0,0,0,0,0,0,0,0,0,0,0,0,25,0,
+S2023,CSCI,111,Intro Algorithmic Problem Solv,11C,"BOATENG, J",25,0,0,0,0,0,0,0,0,0,0,0,0,25,0,
+S2023,CSCI,111,Intro Algorithmic Problem Solv,11D,"BACI, N",46,0,0,0,0,0,0,0,0,0,0,0,0,46,0,
+S2023,CSCI,111,Intro Algorithmic Problem Solv,11E,"SVITAK, J",32,0,0,0,0,0,0,0,0,0,0,0,0,32,0,
+S2023,CSCI,111,Intro Algorithmic Problem Solv,11F,"XU, X",32,0,0,0,0,0,0,0,0,0,0,0,0,32,0,
+S2023,CSCI,111,Intro Algorithmic Problem Solv,11G,"GOMES, R",24,0,0,0,0,0,0,0,0,0,0,0,0,24,0,
+S2023,CSCI,111,Intro Algorithmic Problem Solv,11H,"GOMES, R",20,0,0,0,0,0,0,0,0,0,0,0,0,20,0,
+S2023,CSCI,111,Intro Algorithmic Problem Solv,22A,"SVITAK, J",24,0,0,0,0,0,0,0,0,0,0,0,0,24,0,
+S2023,CSCI,111,Intro Algorithmic Problem Solv,22B,"WU, S",25,0,0,0,0,0,0,0,0,0,0,0,0,25,0,
+S2023,CSCI,111,Intro Algorithmic Problem Solv,22C,"TSE, C",25,0,0,0,0,0,0,0,0,0,0,0,0,25,0,
+S2023,CSCI,111,Intro Algorithmic Problem Solv,22D,"YANG, K",50,0,0,0,0,0,0,0,0,0,0,0,0,50,0,
+S2023,CSCI,111,Intro Algorithmic Problem Solv,22F,"TSE, C",39,0,0,0,0,0,0,0,0,0,0,0,0,39,0,
+S2023,CSCI,111,Intro Algorithmic Problem Solv,33A,"WU, S",24,0,0,0,0,0,0,0,0,0,0,0,0,24,0,
+S2023,CSCI,111,Intro Algorithmic Problem Solv,33B,"YANG, K",36,0,0,0,0,0,0,0,0,0,0,0,0,36,0,
+S2023,CSCI,111,Intro Algorithmic Problem Solv,33D,"STEINBERG, O",22,0,0,0,0,0,0,0,0,0,0,0,0,22,0,
+S2023,CSCI,111,Intro Algorithmic Problem Solv,33E,"STEINBERG, O",26,0,0,0,0,0,0,0,0,0,0,0,0,26,0,
+S2023,CSCI,111,Intro Algorithmic Problem Solv,33F,"TAO, X",29,0,0,0,0,0,0,0,0,0,0,0,0,29,0,
+S2023,CSCI,211,Object-Oriented Program in C++,22,"WAXMAN, J",143,13,8,9,3,16,17,9,16,0,8,21,22,0,2.348,
+S2023,CSCI,211,Object-Oriented Program in C++,21,"WAXMAN, J",211,18,7,6,10,17,30,8,28,0,18,33,36,0,2.169,
+S2023,CSCI,211,Object-Oriented Program in C++,33,"ALAYEV, Y",12,0,0,0,1,0,0,1,0,2,3,1,4,0,1.5,
+S2023,CSCI,211,Object-Oriented Program in C++,21A,"ZHAI, F",19,0,0,0,0,0,0,0,0,0,0,0,0,19,0,
+S2023,CSCI,211,Object-Oriented Program in C++,21B,"BACI, N",24,0,0,0,0,0,0,0,0,0,0,0,0,24,0,
+S2023,CSCI,211,Object-Oriented Program in C++,21C,"ABRAHAM, K",38,0,0,0,0,0,0,0,0,0,0,0,0,38,0,
+S2023,CSCI,211,Object-Oriented Program in C++,21D,"ZHOU, L",24,0,0,0,0,0,0,0,0,0,0,0,0,24,0,
+S2023,CSCI,211,Object-Oriented Program in C++,21E,"ZHOU, L",32,0,0,0,0,0,0,0,0,0,0,0,0,32,0,
+S2023,CSCI,211,Object-Oriented Program in C++,21F,"CAMPBELL, A",36,0,0,0,0,0,0,0,0,0,0,0,0,36,0,
+S2023,CSCI,211,Object-Oriented Program in C++,21G,"FANG, F",38,0,0,0,0,0,0,0,0,0,0,0,0,38,0,
+S2023,CSCI,211,Object-Oriented Program in C++,22A,"ABRAHAM, K",16,0,0,0,0,0,0,0,0,0,0,0,0,16,0,
+S2023,CSCI,211,Object-Oriented Program in C++,22B,"TSE, C",35,0,0,0,0,0,0,0,0,0,0,0,0,35,0,
+S2023,CSCI,211,Object-Oriented Program in C++,22C,"ZHOU, L",24,0,0,0,0,0,0,0,0,0,0,0,0,24,0,
+S2023,CSCI,211,Object-Oriented Program in C++,22D,"ZHOU, L",16,0,0,0,0,0,0,0,0,0,0,0,0,16,0,
+S2023,CSCI,211,Object-Oriented Program in C++,22E,"BACI, N",23,0,0,0,0,0,0,0,0,0,0,0,0,23,0,
+S2023,CSCI,211,Object-Oriented Program in C++,22F,"CHIN, K",13,0,0,0,0,0,0,0,0,0,0,0,0,13,0,
+S2023,CSCI,211,Object-Oriented Program in C++,22G,"TSE, C",16,0,0,0,0,0,0,0,0,0,0,0,0,16,0,
+S2023,CSCI,211,Object-Oriented Program in C++,33B,"CHIN, K",12,0,0,0,0,0,0,0,0,0,0,0,0,12,0,
+S2023,CSCI,212,Object-Oriented Prog in Java,11,"LORD, K",150,11,11,10,11,16,6,11,8,6,9,11,40,0,2.6,
+S2023,CSCI,212,Object-Oriented Prog in Java,33,"STEINBERG, O",85,1,7,8,10,1,4,5,4,1,3,11,29,1,2.411,
+S2023,CSCI,212,Object-Oriented Prog in Java,22,"LORD, K",165,3,11,10,12,13,12,9,13,7,11,21,43,0,2.243,
+S2023,CSCI,212,Object-Oriented Prog in Java,11A,"XU, X",28,0,0,0,0,0,0,0,0,0,0,0,0,28,0,
+S2023,CSCI,212,Object-Oriented Prog in Java,11B,"STEINBERG, O",24,0,0,0,0,0,0,0,0,0,0,0,0,24,0,
+S2023,CSCI,212,Object-Oriented Prog in Java,11C,"TAO, X",25,0,0,0,0,0,0,0,0,0,0,0,0,25,0,
+S2023,CSCI,212,Object-Oriented Prog in Java,11D,"PATEL, N",41,0,0,0,0,0,0,0,0,0,0,0,0,41,0,
+S2023,CSCI,212,Object-Oriented Prog in Java,11E,"BACI, N",32,0,0,0,0,0,0,0,0,0,0,0,0,32,0,
+S2023,CSCI,212,Object-Oriented Prog in Java,22A,"LI, Z",32,0,0,0,0,0,0,0,0,0,0,0,0,32,0,
+S2023,CSCI,212,Object-Oriented Prog in Java,22B,"PATEL, N",35,0,0,0,0,0,0,0,0,0,0,0,0,35,0,
+S2023,CSCI,212,Object-Oriented Prog in Java,22C,"SMITH-THOMPSON, A",21,0,0,0,0,0,0,0,0,0,0,0,0,21,0,
+S2023,CSCI,212,Object-Oriented Prog in Java,22D,"WU, S",31,0,0,0,0,0,0,0,0,0,0,0,0,31,0,
+S2023,CSCI,212,Object-Oriented Prog in Java,22E,"ZHAI, F",23,0,0,0,0,0,0,0,0,0,0,0,0,23,0,
+S2023,CSCI,212,Object-Oriented Prog in Java,22F,"SMITH-THOMPSON, A",23,0,0,0,0,0,0,0,0,0,0,0,0,23,0,
+S2023,CSCI,212,Object-Oriented Prog in Java,33A,"PATEL, N",38,0,0,0,0,0,0,0,0,0,0,0,0,38,0,
+S2023,CSCI,212,Object-Oriented Prog in Java,33B,"WANG, Y",29,0,0,0,0,0,0,0,0,0,0,0,0,29,0,
+S2023,CSCI,212,Object-Oriented Prog in Java,33D,"WU, J",18,0,0,0,0,0,0,0,0,0,0,0,0,18,0,
+S2023,CSCI,220,Discrete Structures,12,"KAHROBAEI, D",35,4,10,6,1,3,1,0,0,2,0,0,7,0,3.578,
+S2023,CSCI,220,Discrete Structures,21,"KAHROBAEI, D",35,4,11,3,4,4,0,1,1,0,0,1,6,0,3.469,
+S2023,CSCI,220,Discrete Structures,35,"TAO, X",30,0,2,5,2,4,7,2,2,2,1,0,3,0,2.852,
+S2023,CSCI,220,Discrete Structures,34,"KONG, T",22,3,3,1,2,1,1,0,1,0,4,3,2,1,2.421,
+S2023,CSCI,220,Discrete Structures,17,"GRYAK, J",35,1,1,1,0,4,6,11,3,0,0,3,5,0,2.373,
+S2023,CSCI,220,Discrete Structures,16,"GRYAK, J",27,2,1,0,0,1,5,2,4,0,0,5,7,0,2.055,
+S2023,CSCI,220,Discrete Structures,23,"KONG, T",23,0,1,1,0,0,0,4,3,0,0,3,10,0,1.908,
+S2023,CSCI,240,Computer Org & Assembly Lang,35,"YEH, J",40,3,7,9,1,2,3,4,2,1,0,4,4,0,2.933,
+S2023,CSCI,240,Computer Org & Assembly Lang,33,"YEH, J",40,3,1,5,5,7,1,3,3,3,0,3,6,0,2.726,
+S2023,CSCI,240,Computer Org & Assembly Lang,36,"YEH, J",40,2,5,6,1,5,4,3,2,3,0,4,5,0,2.723,
+S2023,CSCI,240,Computer Org & Assembly Lang,22,"TAO, X",32,0,3,2,5,6,2,2,6,2,0,2,2,0,2.643,
+S2023,CSCI,240,Computer Org & Assembly Lang,24,"TAO, X",32,0,1,1,3,5,4,3,6,1,0,2,6,0,2.462,
+S2023,CSCI,240,Computer Org & Assembly Lang,11,"FLUTURE, S",64,1,3,1,0,1,4,8,2,0,0,10,34,0,1.863,
+S2023,CSCI,313,Data Structures,32,"TAO, X",32,0,3,3,4,7,1,4,3,0,0,6,1,0,2.426,
+S2023,CSCI,313,Data Structures,25,"MITCHELL, T",20,0,1,1,0,2,2,2,2,3,1,0,6,0,2.414,
+S2023,CSCI,313,Data Structures,37,"STEINBERG, O",32,1,0,2,3,5,8,2,4,0,0,5,2,0,2.35,
+S2023,CSCI,313,Data Structures,26,"MITCHELL, T",27,1,1,3,2,0,5,0,1,4,1,3,6,0,2.333,
+S2023,CSCI,313,Data Structures,24,"MITCHELL, T",25,1,2,1,3,1,2,1,1,1,0,5,7,0,2.222,
+S2023,CSCI,313,Data Structures,21,"SVADLENKA, J",14,2,0,0,1,0,1,0,2,0,1,2,5,0,2.111,
+S2023,CSCI,313,Data Structures,13,"STEINBERG, O",32,1,6,4,2,0,2,1,3,0,0,11,2,0,2.103,
+S2023,CSCI,316,Principles of Programming Lang,11,"SMITH-THOMPSON, A",33,3,1,3,0,3,3,6,5,0,2,1,5,1,2.593,
+S2023,CSCI,316,Principles of Programming Lang,33,"KONG, T",51,1,4,0,2,6,10,4,3,0,1,10,10,0,2.141,
+S2023,CSCI,316,Principles of Programming Lang,14,"SMITH-THOMPSON, A",33,0,0,0,1,5,1,5,12,1,3,2,3,0,2.04,
+S2023,CSCI,316,Principles of Programming Lang,12,"SMITH-THOMPSON, A",33,0,1,2,1,3,0,7,6,0,4,5,2,2,1.924,
+S2023,CSCI,316,Principles of Programming Lang,36,"SVITAK, J",31,0,1,1,1,1,2,0,2,3,8,2,10,0,1.738,
+S2023,CSCI,316,Principles of Programming Lang,25,"SVITAK, J",53,0,0,0,1,1,2,3,5,5,18,4,13,0,1.413,
+S2023,CSCI,320,Theory of Computation,21,"OBRENIC, B",79,11,6,3,4,15,4,6,7,0,1,10,12,0,2.64,
+S2023,CSCI,320,Theory of Computation,22,"OBRENIC, B",108,6,7,3,1,15,10,6,21,0,2,11,26,0,2.393,
+S2023,CSCI,320,Theory of Computation,33,"BOKLAN, K",44,0,1,0,0,0,0,0,4,0,0,10,29,0,0.8,
+S2023,CSCI,323,Design & Analysis Algorithms,13,"KAHROBAEI, D",35,6,14,3,1,2,1,0,2,0,0,0,6,0,3.693,
+S2023,CSCI,323,Design & Analysis Algorithms,36,"PHILLIPS, T",27,3,1,1,3,4,0,0,2,0,0,4,9,0,2.533,
+S2023,CSCI,323,Design & Analysis Algorithms,25,"PHILLIPS, T",26,3,2,2,2,2,1,0,1,0,0,5,8,0,2.483,
+S2023,CSCI,323,Design & Analysis Algorithms,22,"CHYN, X",35,0,1,3,3,5,3,2,5,0,0,5,8,0,2.322,
+S2023,CSCI,323,Design & Analysis Algorithms,11,"BROWN, T",30,1,1,1,0,2,1,1,8,0,0,9,6,0,1.613,
+S2023,CSCI,331,Database Systems,25,"SY, B",24,0,1,1,2,3,2,0,1,2,0,0,12,0,2.842,
+S2023,CSCI,331,Database Systems,31,"OBRENIC, B",60,3,1,2,4,6,5,6,13,0,0,3,17,0,2.509,
+S2023,CSCI,331,Database Systems,26,"CHYN, X",31,1,3,2,1,5,3,4,4,0,0,4,4,0,2.481,
+S2023,CSCI,331,Database Systems,32,"LEAVITT, D",36,0,3,2,1,7,1,4,9,0,4,1,4,0,2.425,
+S2023,CSCI,331,Database Systems,13,"HELLER, P",38,0,2,0,4,1,2,3,6,0,0,3,17,0,2.31,
+S2023,CSCI,335,Information Org and Retrieval,32,"GOLDBERG, R",32,0,3,2,3,9,6,4,2,0,1,0,2,0,2.89,
+S2023,CSCI,340,Operating Systems Principles,25,"SVADLENKA, J",37,1,3,4,3,3,1,1,7,0,1,1,11,1,2.788,
+S2023,CSCI,340,Operating Systems Principles,11,"FLUTURE, S",35,1,2,1,1,2,5,3,6,0,0,0,13,1,2.733,
+S2023,CSCI,340,Operating Systems Principles,13,"SMITH-THOMPSON, A",35,3,2,1,0,6,7,2,8,0,0,1,4,1,2.707,
+S2023,CSCI,340,Operating Systems Principles,26,"SVADLENKA, J",27,2,0,2,2,1,2,1,2,0,3,0,12,0,2.647,
+S2023,CSCI,340,Operating Systems Principles,12,"FLUTURE, S",35,1,0,3,0,1,3,6,4,0,0,2,14,1,2.4,
+S2023,CSCI,340,Operating Systems Principles,37,"SVADLENKA, J",31,1,2,1,1,1,0,1,2,0,1,4,15,2,2.093,
+S2023,CSCI,340,Operating Systems Principles,24,"RAHMAN, M",37,0,0,1,0,1,6,5,13,0,0,6,5,0,1.888,
+S2023,CSCI,343,Computer Architecture,22,"FLUTURE, S",33,4,5,1,3,0,0,3,2,0,0,0,15,0,3.361,
+S2023,CSCI,343,Computer Architecture,35,"UPADHYAY, V",35,3,5,1,1,4,3,2,7,0,0,1,8,0,2.878,
+S2023,CSCI,343,Computer Architecture,11,"FLUTURE, S",42,1,1,3,4,3,4,3,2,0,0,1,20,0,2.864,
+S2023,CSCI,343,Computer Architecture,36,"UPADHYAY, V",34,1,6,0,1,6,2,2,4,0,0,4,8,0,2.588,
+S2023,CSCI,343,Computer Architecture,27,"SVITAK, J",35,0,1,1,0,2,3,2,7,4,6,2,7,0,1.9,
+S2023,CSCI,343,Computer Architecture,34,"SVITAK, J",34,0,1,0,1,4,0,2,4,2,9,1,10,0,1.846,
+S2023,CSCI,348,Data Communications,15,"RAHMAN, M",32,0,1,1,2,2,1,8,6,0,0,1,10,0,2.427,
+S2023,CSCI,352,Cryptography,28,"BOKLAN, K",17,0,0,0,0,2,1,0,1,0,0,1,12,0,2.14,
+S2023,CSCI,355,Internet and Web Technologies,11,"FRIED, M",40,0,9,2,4,6,4,4,3,2,3,1,2,0,2.816,
+S2023,CSCI,355,Internet and Web Technologies,33,"LAW, R",31,1,2,5,2,1,2,3,3,0,0,4,8,0,2.539,
+S2023,CSCI,355,Internet and Web Technologies,44,"LAW, R",36,2,3,1,1,1,3,1,1,0,3,6,14,0,2.064,
+S2023,CSCI,355,Internet and Web Technologies,32,"LAW, R",31,2,2,1,2,0,1,2,4,0,0,11,6,0,1.664,
+S2023,CSCI,370,Software Engineering,11,"GOLDBERG, R",33,0,5,3,3,5,2,6,1,0,0,1,7,0,2.969,
+S2023,CSCI,370,Software Engineering,46,"GREENBERG, A",34,1,5,3,4,8,1,6,5,0,0,1,0,0,2.906,
+S2023,CSCI,370,Software Engineering,32,"GREENBERG, A",32,0,4,2,7,4,3,6,3,0,0,1,1,1,2.88,
+S2023,CSCI,370,Software Engineering,15,"TSAI, C",16,0,0,1,2,0,0,1,2,0,0,0,10,0,2.767,
+S2023,CSCI,370,Software Engineering,33,"GREENBERG, A",32,0,3,4,6,5,2,2,3,0,0,4,2,1,2.676,
+S2023,CSCI,370,Software Engineering,34,"ABREU, A",35,0,0,2,4,6,5,3,5,0,1,5,4,0,2.258,
+S2023,CSCI,370,Software Engineering,37,"ABREU, A",35,0,0,0,3,2,4,5,7,1,5,3,5,0,1.963,
+S2023,CSCI,381,VT: Special Topics in Comp Sci,30,"RODAY, R",36,6,11,10,5,3,1,0,0,0,0,0,0,0,3.7,
+S2023,CSCI,381,VT: Special Topics in Comp Sci,23,"LI, J",32,0,5,5,7,4,4,2,2,0,0,1,2,0,3.1,
+S2023,CSCI,381,VT: Special Topics in Comp Sci,13,"GOLDBERG, R",35,0,3,3,9,3,9,4,1,0,0,1,2,0,2.948,
+S2023,CSCI,381,VT: Special Topics in Comp Sci,24,"PHILLIPS, T",26,3,3,2,2,2,3,2,2,0,0,2,5,0,2.89,
+S2023,CSCI,381,VT: Special Topics in Comp Sci,21,"ROZOVSKAYA, A",31,1,1,1,2,2,1,2,2,0,0,1,18,0,2.738,
+S2023,CSCI,381,VT: Special Topics in Comp Sci,22,"TSAI, C",16,0,1,4,0,1,0,1,3,0,0,1,5,0,2.736,
+S2023,CSCI,381,VT: Special Topics in Comp Sci,26,"CESARETTI, P",20,0,0,2,4,1,1,4,4,0,0,0,4,0,2.719,
+S2023,CSCI,381,VT: Special Topics in Comp Sci,51,"WAXMAN, J",40,5,1,4,4,1,1,0,5,0,6,6,7,0,2.233,
+S2023,CSCI,381,VT: Special Topics in Comp Sci,27,"ROZOVSKAYA, A",35,0,2,0,1,2,3,3,2,0,0,6,16,0,1.911,
+S2023,CSCI,381,VT: Special Topics in Comp Sci,14,"BROWN, T",21,0,0,0,1,3,0,0,6,0,0,6,5,0,1.519,
+S2023,CSCI,390,Honors Readings in Comp Sci,60,"GOSWAMI, M",14,3,8,1,1,0,0,0,0,0,0,0,1,0,3.923,
+,,,,,,,,,,,,,,,,,,,,,
+TERM,SUBJECT,NBR,COURSE NAME,SECTION,PROF,TOTAL,A+,A,A-,B+,B,B-,C+,C,C-,D,F,W,INC/NA,AVG GPA,
+F2022,CSCI,12,Intro Computers & Computation,21,"WAXMAN, J",58,0,2,7,5,14,6,2,2,1,3,5,10,0,2.594,
+F2022,CSCI,12,Intro Computers & Computation,21B,"HUANG, X",28,0,0,0,0,0,0,0,0,0,0,0,0,28,0,
+F2022,CSCI,12,Intro Computers & Computation,21C,"HUANG, X",31,0,0,0,0,0,0,0,0,0,0,0,0,31,0,
+F2022,CSCI,48,Spreadsheet Programming,11,"FRIED, M",131,19,10,23,28,17,12,4,1,0,1,1,12,0,3.354,
+F2022,CSCI,48,Spreadsheet Programming,32,"JAGDEO, M",94,7,14,15,9,11,6,1,1,0,7,7,14,0,2.945,
+F2022,CSCI,48,Spreadsheet Programming,11A,"KELLER, C",20,0,0,0,0,0,0,0,0,0,0,0,0,20,0,
+F2022,CSCI,48,Spreadsheet Programming,11B,"DEMIRCI, G",35,0,0,0,0,0,0,0,0,0,0,0,0,35,0,
+F2022,CSCI,48,Spreadsheet Programming,11C,"LANDAU, G",25,0,0,0,0,0,0,0,0,0,0,0,0,25,0,
+F2022,CSCI,48,Spreadsheet Programming,11D,"LANDAU, G",31,0,0,0,0,0,0,0,0,0,0,0,0,31,0,
+F2022,CSCI,48,Spreadsheet Programming,11E,"LANDAU, G",20,0,0,0,0,0,0,0,0,0,0,0,0,20,0,
+F2022,CSCI,48,Spreadsheet Programming,32A,"JAGDEO, M",17,0,0,0,0,0,0,0,0,0,0,0,0,17,0,
+F2022,CSCI,48,Spreadsheet Programming,32B,"JAGDEO, M",30,0,0,0,0,0,0,0,0,0,0,0,0,30,0,
+F2022,CSCI,48,Spreadsheet Programming,32D,"TSE, C",27,0,0,0,0,0,0,0,0,0,0,0,0,27,0,
+F2022,CSCI,48,Spreadsheet Programming,32F,"TSE, C",22,0,0,0,0,0,0,0,0,0,0,0,0,22,0,
+F2022,CSCI,100,Information and Intelligence,32,"CASTRO, R",40,0,8,4,5,5,3,0,4,2,0,3,6,0,2.876,
+F2022,CSCI,111,Intro Algorithmic Problem Solv,11,"SCHLEY, R",236,10,30,14,8,22,8,17,25,8,13,22,49,0,2.494,
+F2022,CSCI,111,Intro Algorithmic Problem Solv,33,"CHYN, X",239,0,19,10,8,39,14,11,8,0,23,26,75,0,2.269,
+F2022,CSCI,111,Intro Algorithmic Problem Solv,22,"CHYN, X",240,0,21,11,7,28,22,7,13,0,23,26,68,2,2.255,
+F2022,CSCI,111,Intro Algorithmic Problem Solv,11A,"XU, X",40,0,0,0,0,0,0,0,0,0,0,0,0,40,0,
+F2022,CSCI,111,Intro Algorithmic Problem Solv,11B,"WU, S",31,0,0,0,0,0,0,0,0,0,0,0,0,31,0,
+F2022,CSCI,111,Intro Algorithmic Problem Solv,11C,"TAO, X",40,0,0,0,0,0,0,0,0,0,0,0,0,40,0,
+F2022,CSCI,111,Intro Algorithmic Problem Solv,11D,"TSE, C",24,0,0,0,0,0,0,0,0,0,0,0,0,24,0,
+F2022,CSCI,111,Intro Algorithmic Problem Solv,11E,"XU, X",24,0,0,0,0,0,0,0,0,0,0,0,0,24,0,
+F2022,CSCI,111,Intro Algorithmic Problem Solv,11F,"TAO, X",39,0,0,0,0,0,0,0,0,0,0,0,0,39,0,
+F2022,CSCI,111,Intro Algorithmic Problem Solv,11G,"CESARETTI, P",39,0,0,0,0,0,0,0,0,0,0,0,0,39,0,
+F2022,CSCI,111,Intro Algorithmic Problem Solv,22A,"SCHLEY, R",40,0,0,0,0,0,0,0,0,0,0,0,0,40,0,
+F2022,CSCI,111,Intro Algorithmic Problem Solv,22B,"WU, S",39,0,0,0,0,0,0,0,0,0,0,0,0,39,0,
+F2022,CSCI,111,Intro Algorithmic Problem Solv,22C,"LIM, V",39,0,0,0,0,0,0,0,0,0,0,0,0,39,0,
+F2022,CSCI,111,Intro Algorithmic Problem Solv,22D,"YANG, K",41,0,0,0,0,0,0,0,0,0,0,0,0,41,0,
+F2022,CSCI,111,Intro Algorithmic Problem Solv,22E,"TAO, X",39,0,0,0,0,0,0,0,0,0,0,0,0,39,0,
+F2022,CSCI,111,Intro Algorithmic Problem Solv,22G,"CESARETTI, P",42,0,0,0,0,0,0,0,0,0,0,0,0,42,0,
+F2022,CSCI,111,Intro Algorithmic Problem Solv,33A,"WU, S",32,0,0,0,0,0,0,0,0,0,0,0,0,32,0,
+F2022,CSCI,111,Intro Algorithmic Problem Solv,33B,"YANG, K",54,0,0,0,0,0,0,0,0,0,0,0,0,54,0,
+F2022,CSCI,111,Intro Algorithmic Problem Solv,33C,"KANG, Y",39,0,0,0,0,0,0,0,0,0,0,0,0,39,0,
+F2022,CSCI,111,Intro Algorithmic Problem Solv,33D,"TSE, C",24,0,0,0,0,0,0,0,0,0,0,0,0,24,0,
+F2022,CSCI,111,Intro Algorithmic Problem Solv,33E,"CESARETTI, P",39,0,0,0,0,0,0,0,0,0,0,0,0,39,0,
+F2022,CSCI,111,Intro Algorithmic Problem Solv,33F,"TSE, C",51,0,0,0,0,0,0,0,0,0,0,0,0,51,0,
+F2022,CSCI,112,Intro Algori Prob Solving Java,31,"CONNOR, T",13,6,2,1,1,1,1,0,0,0,0,0,1,0,3.725,
+F2022,CSCI,112,Intro Algori Prob Solving Java,31A,"CONNOR, T",13,0,0,0,0,0,0,0,0,0,0,0,0,13,0,
+F2022,CSCI,211,Object-Oriented Program in C++,21,"WAXMAN, J",150,9,9,7,7,10,10,4,16,0,15,30,32,1,2.002,
+F2022,CSCI,211,Object-Oriented Program in C++,22,"WAXMAN, J",105,5,5,4,3,4,11,2,9,0,15,25,22,0,1.735,
+F2022,CSCI,211,Object-Oriented Program in C++,33,"ALAYEV, Y",16,0,1,0,0,0,0,0,1,0,1,2,11,0,1.4,
+F2022,CSCI,211,Object-Oriented Program in C++,21A,"TSE, C",24,0,0,0,0,0,0,0,0,0,0,0,0,24,0,
+F2022,CSCI,211,Object-Oriented Program in C++,21B,"BACI, N",37,0,0,0,0,0,0,0,0,0,0,0,0,37,0,
+F2022,CSCI,211,Object-Oriented Program in C++,21C,"ABRAHAM, K",39,0,0,0,0,0,0,0,0,0,0,0,0,39,0,
+F2022,CSCI,211,Object-Oriented Program in C++,21D,"ZHOU, L",25,0,0,0,0,0,0,0,0,0,0,0,0,25,0,
+F2022,CSCI,211,Object-Oriented Program in C++,21E,"ZHOU, L",25,0,0,0,0,0,0,0,0,0,0,0,0,25,0,
+F2022,CSCI,211,Object-Oriented Program in C++,22A,"ABRAHAM, K",25,0,0,0,0,0,0,0,0,0,0,0,0,25,0,
+F2022,CSCI,211,Object-Oriented Program in C++,22B,"CAMPBELL, A",30,0,0,0,0,0,0,0,0,0,0,0,0,30,0,
+F2022,CSCI,211,Object-Oriented Program in C++,22C,"ZHOU, L",16,0,0,0,0,0,0,0,0,0,0,0,0,16,0,
+F2022,CSCI,211,Object-Oriented Program in C++,22D,"ZHOU, L",20,0,0,0,0,0,0,0,0,0,0,0,0,20,0,
+F2022,CSCI,211,Object-Oriented Program in C++,22E,"BACI, N",14,0,0,0,0,0,0,0,0,0,0,0,0,14,0,
+F2022,CSCI,211,Object-Oriented Program in C++,33B,"KANG, Y",16,0,0,0,0,0,0,0,0,0,0,0,0,16,0,
+F2022,CSCI,212,Object-Oriented Prog in Java,33,"TSE, C",36,1,6,1,3,3,0,3,5,0,0,3,11,0,2.7,
+F2022,CSCI,212,Object-Oriented Prog in Java,11,"LORD, K",161,5,6,11,11,13,13,10,12,9,9,21,39,0,2.22,
+F2022,CSCI,212,Object-Oriented Prog in Java,22,"LORD, K",127,7,12,5,7,11,7,4,6,3,12,24,29,0,2.12,
+F2022,CSCI,212,Object-Oriented Prog in Java,11A,"LI, Z",24,0,0,0,0,0,0,0,0,0,0,0,0,24,0,
+F2022,CSCI,212,Object-Oriented Prog in Java,11B,"ZHAI, F",39,0,0,0,0,0,0,0,0,0,0,0,0,39,0,
+F2022,CSCI,212,Object-Oriented Prog in Java,11C,"LIM, V",25,0,0,0,0,0,0,0,0,0,0,0,0,25,0,
+F2022,CSCI,212,Object-Oriented Prog in Java,11D,"PATEL, N",42,0,0,0,0,0,0,0,0,0,0,0,0,42,0,
+F2022,CSCI,212,Object-Oriented Prog in Java,11E,"BACI, N",31,0,0,0,0,0,0,0,0,0,0,0,0,31,0,
+F2022,CSCI,212,Object-Oriented Prog in Java,22A,"LI, Z",31,0,0,0,0,0,0,0,0,0,0,0,0,31,0,
+F2022,CSCI,212,Object-Oriented Prog in Java,22B,"YUAN, K",40,0,0,0,0,0,0,0,0,0,0,0,0,40,0,
+F2022,CSCI,212,Object-Oriented Prog in Java,22C,"LIM, V",25,0,0,0,0,0,0,0,0,0,0,0,0,25,0,
+F2022,CSCI,212,Object-Oriented Prog in Java,22D,"ZHAI, F",31,0,0,0,0,0,0,0,0,0,0,0,0,31,0,
+F2022,CSCI,212,Object-Oriented Prog in Java,33A,"PATEL, N",37,0,0,0,0,0,0,0,0,0,0,0,0,37,0,
+F2022,CSCI,220,Discrete Structures,14,"KAHROBAEI, D",39,0,18,3,3,2,2,0,5,4,0,0,2,0,3.276,
+F2022,CSCI,220,Discrete Structures,15,"KAHROBAEI, D",42,0,14,3,1,3,2,0,5,5,0,3,6,0,2.869,
+F2022,CSCI,220,Discrete Structures,22,"CHYN, X",88,0,8,4,8,6,12,7,11,0,1,13,17,0,2.324,
+F2022,CSCI,220,Discrete Structures,11,"CHYN, X",58,1,6,2,4,9,7,3,11,0,0,12,3,0,2.244,
+F2022,CSCI,220,Discrete Structures,33,"CESARETTI, P",30,0,3,3,1,2,1,2,4,0,0,7,7,0,2.074,
+F2022,CSCI,240,Computer Org & Assembly Lang,35,"YEH, J",45,2,7,3,4,7,7,3,3,3,0,2,4,0,2.883,
+F2022,CSCI,240,Computer Org & Assembly Lang,36,"YEH, J",45,5,1,5,3,7,4,1,3,6,0,1,8,1,2.853,
+F2022,CSCI,240,Computer Org & Assembly Lang,33,"YEH, J",45,0,4,3,4,5,5,7,2,4,0,4,7,0,2.518,
+F2022,CSCI,240,Computer Org & Assembly Lang,11,"SVITAK, J",31,0,2,0,3,3,2,2,4,2,2,2,8,0,2.286,
+F2022,CSCI,240,Computer Org & Assembly Lang,22,"SVITAK, J",26,0,2,3,1,3,0,1,4,0,4,2,6,0,2.285,
+F2022,CSCI,240,Computer Org & Assembly Lang,27,"SVITAK, J",37,0,4,4,1,4,0,1,3,2,5,4,9,0,2.243,
+F2022,CSCI,313,Data Structures,21,"TAO, X",39,9,6,2,8,5,3,0,0,0,0,4,2,0,3.159,
+F2022,CSCI,313,Data Structures,25,"TAO, X",36,0,5,1,6,16,1,0,1,0,0,1,5,0,3.103,
+F2022,CSCI,313,Data Structures,28,"TAO, X",24,2,2,2,1,6,1,0,0,0,0,6,4,0,2.37,
+F2022,CSCI,313,Data Structures,12,"TSAI, C",10,1,0,0,1,0,0,0,1,0,0,1,6,0,2.325,
+F2022,CSCI,313,Data Structures,37,"STEINBERG, O",31,3,2,0,4,1,3,3,3,3,6,2,1,0,2.277,
+F2022,CSCI,313,Data Structures,13,"SMITH-THOMPSON, A",29,3,3,0,0,1,0,1,6,0,0,5,8,1,2.174,
+F2022,CSCI,313,Data Structures,36,"STEINBERG, O",42,2,1,2,1,4,4,2,8,4,4,5,5,0,2.078,
+F2022,CSCI,313,Data Structures,14,"SMITH-THOMPSON, A",25,0,2,0,0,1,1,1,6,0,0,3,11,0,2,
+F2022,CSCI,316,Principles of Programming Lang,24,"SMITH-THOMPSON, A",35,0,5,0,2,9,6,4,6,0,0,0,1,2,2.844,
+F2022,CSCI,316,Principles of Programming Lang,21,"KONG, T",35,3,6,1,3,3,3,1,4,0,1,4,5,1,2.69,
+F2022,CSCI,316,Principles of Programming Lang,32,"KONG, T",35,1,1,3,3,4,3,1,3,0,1,5,9,1,2.336,
+F2022,CSCI,316,Principles of Programming Lang,25,"SVITAK, J",28,0,0,1,0,5,1,1,3,2,7,2,6,0,1.823,
+F2022,CSCI,316,Principles of Programming Lang,36,"SVITAK, J",30,0,0,0,2,1,1,2,4,2,6,3,9,0,1.633,
+F2022,CSCI,316,Principles of Programming Lang,33,"KONG, T",61,0,5,0,2,4,3,3,4,0,2,23,13,2,1.383,
+F2022,CSCI,320,Theory of Computation,12,"OBRENIC, B",86,2,11,2,7,11,10,7,12,0,0,15,9,0,2.371,
+F2022,CSCI,320,Theory of Computation,24,"BOKLAN, K",37,1,2,0,0,0,0,0,2,0,0,2,30,0,2.286,
+F2022,CSCI,320,Theory of Computation,11,"OBRENIC, B",109,0,6,0,4,19,9,6,19,0,1,24,21,0,1.947,
+F2022,CSCI,320,Theory of Computation,33,"BOKLAN, K",28,0,1,0,0,0,1,0,3,0,0,4,19,0,1.411,
+F2022,CSCI,323,Design & Analysis Algorithms,13,"TAO, X",30,7,5,7,3,3,1,0,2,0,0,0,2,0,3.554,
+F2022,CSCI,323,Design & Analysis Algorithms,36,"PHILLIPS, T",18,1,0,4,1,0,1,1,3,0,0,1,6,0,2.758,
+F2022,CSCI,323,Design & Analysis Algorithms,25,"PHILLIPS, T",25,2,2,1,0,2,2,0,1,0,0,4,11,0,2.364,
+F2022,CSCI,323,Design & Analysis Algorithms,11,"BROWN, T",30,0,0,1,3,4,8,1,6,0,0,5,2,0,2.196,
+F2022,CSCI,323,Design & Analysis Algorithms,22,"GOSWAMI, M",61,1,5,6,2,5,1,6,7,0,0,13,15,0,2.137,
+F2022,CSCI,331,Database Systems,24,"STEINBERG, O",35,4,4,3,4,6,3,3,4,3,1,0,0,0,2.954,
+F2022,CSCI,331,Database Systems,23,"STEINBERG, O",31,1,2,4,6,3,4,3,1,3,1,0,3,0,2.907,
+F2022,CSCI,331,Database Systems,15,"HELLER, P",29,0,1,1,1,0,1,2,5,0,0,1,17,0,2.358,
+F2022,CSCI,331,Database Systems,32,"LEAVITT, D",39,1,4,4,3,2,4,1,4,0,1,7,8,0,2.348,
+F2022,CSCI,331,Database Systems,11,"OBRENIC, B",83,3,3,0,2,6,9,7,29,0,1,13,10,0,2.027,
+F2022,CSCI,334,Data Mining and Warehousing,15,"SY, B",13,0,1,2,0,2,0,1,1,0,0,0,6,0,3.1,
+F2022,CSCI,335,Information Org and Retrieval,12,"GOLDBERG, R",33,0,4,4,4,5,3,2,5,0,0,1,5,0,2.918,
+F2022,CSCI,340,Operating Systems Principles,26,"SVADLENKA, J",33,2,3,1,1,3,3,2,1,1,0,0,14,2,3.082,
+F2022,CSCI,340,Operating Systems Principles,37,"SVADLENKA, J",22,1,2,0,3,2,1,0,3,0,1,0,9,0,2.892,
+F2022,CSCI,340,Operating Systems Principles,25,"SVADLENKA, J",37,1,3,3,2,1,5,4,1,1,1,2,13,0,2.671,
+F2022,CSCI,340,Operating Systems Principles,24,"SVADLENKA, J",29,2,2,1,3,3,2,1,1,0,2,2,10,0,2.647,
+F2022,CSCI,340,Operating Systems Principles,12,"FLUTURE, S",37,0,0,4,4,3,7,6,3,0,0,2,8,0,2.61,
+F2022,CSCI,340,Operating Systems Principles,23,"SVADLENKA, J",33,2,0,1,0,2,3,3,2,2,4,1,13,0,2.205,
+F2022,CSCI,340,Operating Systems Principles,11,"FLUTURE, S",37,0,1,2,0,0,4,5,7,0,0,3,13,2,2.168,
+F2022,CSCI,343,Computer Architecture,23,"RAHMAN, M",34,2,2,6,3,9,5,5,1,0,0,1,0,0,3.003,
+F2022,CSCI,343,Computer Architecture,22,"FLUTURE, S",31,2,4,0,0,2,1,2,2,0,0,2,16,0,2.753,
+F2022,CSCI,343,Computer Architecture,11,"FLUTURE, S",70,1,9,2,3,1,4,5,2,0,0,5,38,0,2.706,
+F2022,CSCI,343,Computer Architecture,15,"SMITH-THOMPSON, A",32,3,4,4,4,2,1,1,3,0,0,6,3,1,2.607,
+F2022,CSCI,343,Computer Architecture,36,"UPADHYAY, V",32,0,2,2,1,1,0,2,10,0,0,1,13,0,2.437,
+F2022,CSCI,343,Computer Architecture,14,"SMITH-THOMPSON, A",32,2,3,4,2,3,0,0,5,0,0,8,5,0,2.237,
+F2022,CSCI,343,Computer Architecture,38,"UPADHYAY, V",32,1,0,1,1,1,0,4,8,0,0,9,7,0,1.568,
+F2022,CSCI,344,Distributed Systems,16,"FLUTURE, S",22,1,1,0,0,1,2,2,3,0,0,1,10,1,2.455,
+F2022,CSCI,348,Data Communications,25,"RAHMAN, M",26,0,2,5,3,6,3,1,4,0,0,1,1,0,2.912,
+F2022,CSCI,355,Internet and Web Technologies,11,"FRIED, M",45,0,8,5,10,7,9,4,0,0,0,0,2,0,3.209,
+F2022,CSCI,355,Internet and Web Technologies,32,"LAW, R",24,2,2,1,1,4,1,3,3,0,0,1,6,0,2.811,
+F2022,CSCI,355,Internet and Web Technologies,34,"LAW, R",22,2,1,2,2,2,0,1,1,0,0,5,5,1,2.269,
+F2022,CSCI,355,Internet and Web Technologies,33,"LAW, R",33,2,2,1,2,2,1,1,2,0,0,10,10,0,1.796,
+F2022,CSCI,370,Software Engineering,33,"GREENBERG, A",29,1,8,0,5,9,0,1,0,1,0,0,4,0,3.34,
+F2022,CSCI,370,Software Engineering,46,"GREENBERG, A",35,0,10,0,7,11,1,1,3,0,1,0,1,0,3.179,
+F2022,CSCI,370,Software Engineering,32,"GREENBERG, A",30,1,5,1,5,6,1,5,4,0,0,1,1,0,2.91,
+F2022,CSCI,370,Software Engineering,34,"ABREU, A",32,0,3,1,5,5,6,4,1,0,1,5,1,0,2.439,
+F2022,CSCI,370,Software Engineering,37,"ABREU, A",21,0,1,0,2,2,0,2,1,3,5,1,4,0,1.959,
+F2022,CSCI,381,VT: Special Topics in Comp Sci,24,"PHILLIPS, T",16,2,4,4,0,0,1,1,0,0,0,1,3,0,3.369,
+F2022,CSCI,381,VT: Special Topics in Comp Sci,18,"HELLER, P",33,1,8,0,7,2,5,2,1,0,0,0,7,0,3.277,
+F2022,CSCI,381,VT: Special Topics in Comp Sci,30,"RODAY, R",39,2,7,7,3,7,4,1,4,0,0,0,4,0,3.254,
+F2022,CSCI,381,VT: Special Topics in Comp Sci,51,"WAXMAN, J",30,11,3,3,1,1,1,1,3,0,0,2,4,0,3.246,
+F2022,CSCI,381,VT: Special Topics in Comp Sci,39,"GOLDBERG, R",32,0,5,3,4,7,2,3,3,0,0,0,5,0,3.096,
+F2022,CSCI,381,VT: Special Topics in Comp Sci,13,"GOLDBERG, R",33,0,10,2,3,0,4,3,6,0,1,0,4,0,3.034,
+F2022,CSCI,381,VT: Special Topics in Comp Sci,17,"TSAI, C",16,0,1,0,0,3,1,1,0,0,0,1,9,0,2.571,
+F2022,CSCI,381,VT: Special Topics in Comp Sci,27,"ROZOVSKAYA, A",20,0,1,0,2,3,0,2,6,0,0,1,5,0,2.413,
+F2022,CSCI,381,VT: Special Topics in Comp Sci,26,"GRYAK, J",29,0,1,1,0,4,4,0,3,0,0,3,13,0,2.281,
+F2022,CSCI,381,VT: Special Topics in Comp Sci,21,"ROZOVSKAYA, A",29,0,1,1,5,1,3,1,3,0,0,5,9,0,2.18,
+F2022,CSCI,381,VT: Special Topics in Comp Sci,14,"BROWN, T",27,0,0,0,2,2,4,1,12,0,0,3,3,0,2.071,
+,,,,,,,,,,,,,,,,,,,,,
+TERM,SUBJECT,NBR,COURSE NAME,SECTION,PROF,TOTAL,A+,A,A-,B+,B,B-,C+,C,C-,D,F,W,INC/NA,AVG GPA,
+Spring 2022,CSCI,12,Intro Computers & Computation,21,"WAXMAN, J",48,2,3,2,4,5,4,3,4,1,0,2,18,0,2.767,
+Spring 2022,CSCI,12,Intro Computers & Computation,21B,"HUANG, X",20,0,0,0,0,0,0,0,0,0,0,0,0,20,0,
+Spring 2022,CSCI,12,Intro Computers & Computation,21C,"HUANG, X",29,0,0,0,0,0,0,0,0,0,0,0,0,29,0,
+Spring 2022,CSCI,48,Spreadsheet Programming,11,"FRIED, M",127,0,34,12,15,17,15,12,7,6,0,1,8,0,3.136,
+Spring 2022,CSCI,48,Spreadsheet Programming,32,"JAGDEO, M",92,4,18,8,15,11,7,3,5,2,2,7,10,0,2.943,
+Spring 2022,CSCI,48,Spreadsheet Programming,11A,"FRIED, M",35,0,0,0,0,0,0,0,0,0,0,0,0,35,0,
+Spring 2022,CSCI,48,Spreadsheet Programming,11B,"FRIED, M",24,0,0,0,0,0,0,0,0,0,0,0,0,24,0,
+Spring 2022,CSCI,48,Spreadsheet Programming,11C,"LANDAU, G",22,0,0,0,0,0,0,0,0,0,0,0,0,22,0,
+Spring 2022,CSCI,48,Spreadsheet Programming,11D,"LANDAU, G",24,0,0,0,0,0,0,0,0,0,0,0,0,24,0,
+Spring 2022,CSCI,48,Spreadsheet Programming,11E,"LANDAU, G",22,0,0,0,0,0,0,0,0,0,0,0,0,22,0,
+Spring 2022,CSCI,48,Spreadsheet Programming,32A,"JAGDEO, M",25,0,0,0,0,0,0,0,0,0,0,0,0,25,0,
+Spring 2022,CSCI,48,Spreadsheet Programming,32C,"KELLER, C",12,0,0,0,0,0,0,0,0,0,0,0,0,12,0,
+Spring 2022,CSCI,48,Spreadsheet Programming,32D,"CASTILLO, E",24,0,0,0,0,0,0,0,0,0,0,0,0,24,0,
+Spring 2022,CSCI,48,Spreadsheet Programming,32F,"CASTILLO, E",23,0,0,0,0,0,0,0,0,0,0,0,0,23,0,
+Spring 2022,CSCI,90,Topics in Computing,31,"CONNOR, T",11,1,6,1,3,0,0,0,0,0,0,0,0,0,3.782,
+Spring 2022,CSCI,100,Information and Intelligence,32,"CASTRO, R",28,2,2,4,1,7,2,1,3,2,0,2,2,0,2.777,
+Spring 2022,CSCI,111,Intro Algorithmic Problem Solv,22,"CHYN, X",107,1,6,7,3,12,4,4,20,0,15,7,27,0,2.213,
+Spring 2022,CSCI,111,Intro Algorithmic Problem Solv,33,"TSE, C",79,4,4,3,2,5,2,3,9,0,0,15,31,0,2.021,
+Spring 2022,CSCI,111,Intro Algorithmic Problem Solv,11,"SCHLEY, R",138,4,6,6,14,7,2,10,7,20,5,26,31,0,1.97,
+Spring 2022,CSCI,111,Intro Algorithmic Problem Solv,11A,"MAGOULIS, M",24,0,0,0,0,0,0,0,0,0,0,0,0,24,0,
+Spring 2022,CSCI,111,Intro Algorithmic Problem Solv,11B,"WU, S",28,0,0,0,0,0,0,0,0,0,0,0,0,28,0,
+Spring 2022,CSCI,111,Intro Algorithmic Problem Solv,11C,"TSE, C",34,0,0,0,0,0,0,0,0,0,0,0,0,34,0,
+Spring 2022,CSCI,111,Intro Algorithmic Problem Solv,11D,"TSE, C",24,0,0,0,0,0,0,0,0,0,0,0,0,24,0,
+Spring 2022,CSCI,111,Intro Algorithmic Problem Solv,11F,"MAGOULIS, M",28,0,0,0,0,0,0,0,0,0,0,0,0,28,0,
+Spring 2022,CSCI,111,Intro Algorithmic Problem Solv,22A,"SCHLEY, R",29,0,0,0,0,0,0,0,0,0,0,0,0,29,0,
+Spring 2022,CSCI,111,Intro Algorithmic Problem Solv,22B,"MAGOULIS, M",24,0,0,0,0,0,0,0,0,0,0,0,0,24,0,
+Spring 2022,CSCI,111,Intro Algorithmic Problem Solv,22C,"LIM, V",24,0,0,0,0,0,0,0,0,0,0,0,0,24,0,
+Spring 2022,CSCI,111,Intro Algorithmic Problem Solv,22D,"YANG, K",30,0,0,0,0,0,0,0,0,0,0,0,0,30,0,
+Spring 2022,CSCI,111,Intro Algorithmic Problem Solv,33A,"WU, S",14,0,0,0,0,0,0,0,0,0,0,0,0,14,0,
+Spring 2022,CSCI,111,Intro Algorithmic Problem Solv,33B,"YANG, K",24,0,0,0,0,0,0,0,0,0,0,0,0,24,0,
+Spring 2022,CSCI,111,Intro Algorithmic Problem Solv,33D,"TSE, C",24,0,0,0,0,0,0,0,0,0,0,0,0,24,0,
+Spring 2022,CSCI,111,Intro Algorithmic Problem Solv,33E,"TSE, C",17,0,0,0,0,0,0,0,0,0,0,0,0,17,0,
+Spring 2022,CSCI,211,Object-Oriented Program in C++,22,"WAXMAN, J",124,23,5,2,3,8,6,4,13,0,12,18,29,1,2.305,
+Spring 2022,CSCI,211,Object-Oriented Program in C++,33,"ALAYEV, Y",48,1,1,2,2,1,1,3,3,0,1,4,29,0,2.189,
+Spring 2022,CSCI,211,Object-Oriented Program in C++,21,"WAXMAN, J",127,20,2,3,2,7,6,3,15,0,16,40,13,0,1.718,
+Spring 2022,CSCI,211,Object-Oriented Program in C++,21A,"PATEL, N",31,0,0,0,0,0,0,0,0,0,0,0,0,31,0,
+Spring 2022,CSCI,211,Object-Oriented Program in C++,21B,"LANDAU, G",24,0,0,0,0,0,0,0,0,0,0,0,0,24,0,
+Spring 2022,CSCI,211,Object-Oriented Program in C++,21C,"ABRAHAM, K",24,0,0,0,0,0,0,0,0,0,0,0,0,24,0,
+Spring 2022,CSCI,211,Object-Oriented Program in C++,21D,"ZHOU, L",24,0,0,0,0,0,0,0,0,0,0,0,0,24,0,
+Spring 2022,CSCI,211,Object-Oriented Program in C++,21E,"CHO, E",24,0,0,0,0,0,0,0,0,0,0,0,0,24,0,
+Spring 2022,CSCI,211,Object-Oriented Program in C++,22A,"PATEL, N",36,0,0,0,0,0,0,0,0,0,0,0,0,36,0,
+Spring 2022,CSCI,211,Object-Oriented Program in C++,22B,"TSE, C",34,0,0,0,0,0,0,0,0,0,0,0,0,34,0,
+Spring 2022,CSCI,211,Object-Oriented Program in C++,22D,"ZHOU, L",23,0,0,0,0,0,0,0,0,0,0,0,0,23,0,
+Spring 2022,CSCI,211,Object-Oriented Program in C++,22E,"MAGOULIS, M",31,0,0,0,0,0,0,0,0,0,0,0,0,31,0,
+Spring 2022,CSCI,211,Object-Oriented Program in C++,33A,"PATEL, N",48,0,0,0,0,0,0,0,0,0,0,0,0,48,0,
+Spring 2022,CSCI,212,Object-Oriented Prog in Java,11,"LORD, K",144,10,13,11,12,7,6,13,12,8,5,13,34,0,2.564,
+Spring 2022,CSCI,212,Object-Oriented Prog in Java,22,"LORD, K",100,3,12,6,6,12,5,2,6,0,6,14,28,0,2.418,
+Spring 2022,CSCI,212,Object-Oriented Prog in Java,33,"TSE, C",44,3,5,1,3,2,3,1,5,0,1,10,10,0,2.147,
+Spring 2022,CSCI,212,Object-Oriented Prog in Java,11A,"LI, Z",29,0,0,0,0,0,0,0,0,0,0,0,0,29,0,
+Spring 2022,CSCI,212,Object-Oriented Prog in Java,11B,"KANG, Y",32,0,0,0,0,0,0,0,0,0,0,0,0,32,0,
+Spring 2022,CSCI,212,Object-Oriented Prog in Java,11C,"ZHOU, L",34,0,0,0,0,0,0,0,0,0,0,0,0,34,0,
+Spring 2022,CSCI,212,Object-Oriented Prog in Java,11D,"ENGEL, K",24,0,0,0,0,0,0,0,0,0,0,0,0,24,0,
+Spring 2022,CSCI,212,Object-Oriented Prog in Java,11E,"ZHAO, Y",25,0,0,0,0,0,0,0,0,0,0,0,0,25,0,
+Spring 2022,CSCI,212,Object-Oriented Prog in Java,22A,"ZHOU, L",39,0,0,0,0,0,0,0,0,0,0,0,0,39,0,
+Spring 2022,CSCI,212,Object-Oriented Prog in Java,22B,"KANG, Y",30,0,0,0,0,0,0,0,0,0,0,0,0,30,0,
+Spring 2022,CSCI,212,Object-Oriented Prog in Java,22D,"ZHAO, Y",31,0,0,0,0,0,0,0,0,0,0,0,0,31,0,
+Spring 2022,CSCI,212,Object-Oriented Prog in Java,33A,"PATEL, N",23,0,0,0,0,0,0,0,0,0,0,0,0,23,0,
+Spring 2022,CSCI,212,Object-Oriented Prog in Java,33B,"LIM, V",22,0,0,0,0,0,0,0,0,0,0,0,0,22,0,
+Spring 2022,CSCI,220,Discrete Structures,22,"CHYN, X",95,2,15,14,5,10,7,5,12,0,0,3,22,0,3.023,
+Spring 2022,CSCI,220,Discrete Structures,11,"CHYN, X",61,2,4,4,7,7,3,6,7,0,0,2,19,0,2.829,
+Spring 2022,CSCI,220,Discrete Structures,34,"WU, S",30,1,4,1,1,4,2,5,4,0,0,6,2,0,2.282,
+Spring 2022,CSCI,220,Discrete Structures,33,"CESARETTI, P",30,0,2,3,1,1,0,2,9,0,0,5,7,0,2.087,
+Spring 2022,CSCI,240,Computer Org & Assembly Lang,32,"FRARY, N",34,0,6,3,4,6,0,5,3,0,3,0,4,0,2.893,
+Spring 2022,CSCI,240,Computer Org & Assembly Lang,31,"FRARY, N",35,3,5,3,7,0,0,3,2,0,2,3,7,0,2.825,
+Spring 2022,CSCI,240,Computer Org & Assembly Lang,35,"YEH, J",54,2,4,5,6,6,5,4,4,4,0,4,9,0,2.677,
+Spring 2022,CSCI,240,Computer Org & Assembly Lang,36,"YEH, J",54,0,6,5,8,6,5,4,2,3,0,7,8,0,2.58,
+Spring 2022,CSCI,240,Computer Org & Assembly Lang,14,"FLUTURE, S",35,2,3,0,0,3,3,0,4,1,0,3,16,0,2.463,
+Spring 2022,CSCI,240,Computer Org & Assembly Lang,33,"YEH, J",52,0,4,3,11,3,1,10,4,1,0,9,6,0,2.343,
+Spring 2022,CSCI,313,Data Structures,21,"ROZOVSKAYA, A",38,0,6,2,2,2,6,0,5,0,0,7,8,0,2.34,
+Spring 2022,CSCI,313,Data Structures,37,"STEINBERG, O",30,2,0,2,0,6,0,1,7,2,2,3,5,0,2.204,
+Spring 2022,CSCI,313,Data Structures,25,"STEINBERG, O",38,1,1,3,1,3,4,5,2,3,6,5,4,0,2.024,
+Spring 2022,CSCI,313,Data Structures,26,"STEINBERG, O",38,3,1,0,0,2,4,2,5,1,6,8,6,0,1.722,
+Spring 2022,CSCI,313,Data Structures,22,"STEINBERG, O",38,0,0,2,2,5,1,2,5,2,4,9,6,0,1.678,
+Spring 2022,CSCI,313,Data Structures,24,"SMITH-THOMPSON, A",32,0,2,0,2,2,0,0,4,0,0,8,14,0,1.589,
+Spring 2022,CSCI,313,Data Structures,33,"STEINBERG, O",37,1,3,1,2,1,1,1,0,2,6,12,7,0,1.457,
+Spring 2022,CSCI,316,Principles of Programming Lang,21,"KONG, T",35,1,6,2,1,2,5,2,5,0,0,2,9,0,2.8,
+Spring 2022,CSCI,316,Principles of Programming Lang,33,"KONG, T",88,4,7,7,6,6,7,6,6,0,2,23,13,1,2.086,
+Spring 2022,CSCI,316,Principles of Programming Lang,24,"SVITAK, J",31,0,1,0,0,2,6,4,2,2,5,3,6,0,1.912,
+Spring 2022,CSCI,316,Principles of Programming Lang,32,"KONG, T",35,0,2,0,3,1,6,5,3,0,0,10,4,1,1.82,
+Spring 2022,CSCI,316,Principles of Programming Lang,36,"SVITAK, J",22,0,1,0,0,0,0,2,5,3,5,0,6,0,1.794,
+Spring 2022,CSCI,316,Principles of Programming Lang,25,"SVITAK, J",17,0,0,1,1,0,1,2,2,1,3,2,4,0,1.769,
+Spring 2022,CSCI,320,Theory of Computation,12,"OBRENIC, B",86,6,4,6,0,10,7,7,17,0,0,12,17,0,2.336,
+Spring 2022,CSCI,320,Theory of Computation,11,"OBRENIC, B",88,8,1,3,3,12,4,2,16,0,0,14,25,0,2.229,
+Spring 2022,CSCI,320,Theory of Computation,33,"BOKLAN, K",83,0,2,0,0,5,2,0,6,0,0,17,51,0,1.263,
+Spring 2022,CSCI,323,Design & Analysis Algorithms,22,"CHYN, X",30,0,6,1,1,2,3,3,4,0,0,0,10,0,3,
+Spring 2022,CSCI,323,Design & Analysis Algorithms,11,"BROWN, T",30,0,2,0,4,5,5,3,6,1,2,0,2,0,2.582,
+Spring 2022,CSCI,323,Design & Analysis Algorithms,14,"SMITH-THOMPSON, A",30,0,2,0,3,1,3,3,6,0,0,3,7,2,2.281,
+Spring 2022,CSCI,323,Design & Analysis Algorithms,13,"SMITH-THOMPSON, A",30,0,1,2,1,3,2,0,9,0,0,5,7,0,2.048,
+Spring 2022,CSCI,323,Design & Analysis Algorithms,25,"PHILLIPS, T",15,2,0,0,0,0,0,2,1,0,0,6,4,0,1.327,
+Spring 2022,CSCI,331,Database Systems,13,"HELLER, P",30,2,1,3,4,2,3,0,3,0,0,1,11,0,2.968,
+Spring 2022,CSCI,331,Database Systems,16,"SY, B",21,0,2,2,1,3,0,2,3,0,0,0,8,0,2.946,
+Spring 2022,CSCI,331,Database Systems,32,"LEAVITT, D",30,0,5,1,2,5,2,4,3,0,0,1,7,0,2.865,
+Spring 2022,CSCI,331,Database Systems,15,"HELLER, P",30,0,0,1,2,8,4,2,8,0,0,1,4,0,2.527,
+Spring 2022,CSCI,331,Database Systems,11,"OBRENIC, B",76,2,12,0,2,6,4,6,21,0,0,12,11,0,2.265,
+Spring 2022,CSCI,331,Database Systems,14,"SY, B",13,0,0,0,2,0,1,1,1,2,1,1,4,0,2,
+Spring 2022,CSCI,334,Data Mining and Warehousing,15,"SY, B",27,0,1,0,1,2,4,2,2,1,0,0,14,0,2.646,
+Spring 2022,CSCI,335,Information Org and Retrieval,12,"GOLDBERG, R",51,0,3,5,8,6,10,4,6,0,0,2,7,0,2.798,
+Spring 2022,CSCI,340,Operating Systems Principles,12,"FLUTURE, S",38,2,0,1,3,1,6,3,5,0,0,2,14,1,2.509,
+Spring 2022,CSCI,340,Operating Systems Principles,11,"FLUTURE, S",33,1,2,2,1,0,5,5,5,0,0,3,9,0,2.404,
+Spring 2022,CSCI,340,Operating Systems Principles,38,"UPADHYAY, V",38,0,1,2,2,0,6,3,4,0,0,3,17,0,2.338,
+Spring 2022,CSCI,340,Operating Systems Principles,23,"SVADLENKA, J",38,0,1,4,2,4,2,1,2,1,6,2,9,4,2.272,
+Spring 2022,CSCI,340,Operating Systems Principles,37,"SVADLENKA, J",38,0,1,4,2,1,1,2,1,2,5,2,16,1,2.195,
+Spring 2022,CSCI,340,Operating Systems Principles,24,"SVADLENKA, J",38,0,1,1,2,1,1,1,4,1,4,2,18,2,2,
+Spring 2022,CSCI,340,Operating Systems Principles,25,"SVADLENKA, J",38,1,2,1,3,0,2,0,2,0,2,7,18,0,1.85,
+Spring 2022,CSCI,340,Operating Systems Principles,26,"SVADLENKA, J",38,1,0,0,1,1,4,2,1,2,4,8,12,2,1.463,
+Spring 2022,CSCI,343,Computer Architecture,26,"SVITAK, J",34,0,1,1,4,3,3,8,3,2,0,0,9,0,2.632,
+Spring 2022,CSCI,343,Computer Architecture,15,"SMITH-THOMPSON, A",35,2,3,2,1,1,0,2,10,0,0,4,10,0,2.332,
+Spring 2022,CSCI,343,Computer Architecture,38,"UPADHYAY, V",32,1,2,1,2,0,7,3,2,0,0,5,9,0,2.265,
+Spring 2022,CSCI,343,Computer Architecture,23,"RAHMAN, M",35,0,3,2,2,2,0,4,4,3,4,2,9,0,2.242,
+Spring 2022,CSCI,343,Computer Architecture,11,"FLUTURE, S",34,2,1,0,0,0,2,2,2,0,0,3,22,0,2.167,
+Spring 2022,CSCI,343,Computer Architecture,37,"SVITAK, J",30,0,1,0,2,1,3,4,4,2,1,4,8,0,1.968,
+Spring 2022,CSCI,343,Computer Architecture,14,"SMITH-THOMPSON, A",35,0,1,0,3,3,2,2,6,0,0,9,9,0,1.727,
+Spring 2022,CSCI,343,Computer Architecture,22,"FLUTURE, S",35,1,1,0,1,2,1,0,2,0,0,7,19,1,1.6,
+Spring 2022,CSCI,348,Data Communications,25,"RAHMAN, M",35,1,7,3,4,2,0,5,4,0,0,2,7,0,2.921,
+Spring 2022,CSCI,355,Internet and Web Technologies,11,"FRIED, M",52,0,8,5,11,7,2,12,3,1,0,2,1,0,2.912,
+Spring 2022,CSCI,355,Internet and Web Technologies,32,"LAW, R",35,2,7,2,2,1,0,2,1,0,3,7,8,0,2.319,
+Spring 2022,CSCI,355,Internet and Web Technologies,34,"LAW, R",35,2,2,2,3,4,1,2,1,0,1,7,9,1,2.224,
+Spring 2022,CSCI,355,Internet and Web Technologies,33,"LAW, R",28,2,4,1,1,1,0,0,3,0,0,10,6,0,1.818,
+Spring 2022,CSCI,355,Internet and Web Technologies,36,"LAW, R",29,2,2,0,1,1,2,2,1,0,0,8,10,0,1.805,
+Spring 2022,CSCI,355,Internet and Web Technologies,35,"LAW, R",35,3,2,1,0,1,3,3,3,0,0,12,7,0,1.704,
+Spring 2022,CSCI,370,Software Engineering,46,"GREENBERG, A",30,1,7,0,6,6,1,3,5,0,0,0,1,0,3.083,
+Spring 2022,CSCI,370,Software Engineering,57,"ABREU, A",30,0,4,4,6,3,1,3,5,0,1,1,2,0,2.864,
+Spring 2022,CSCI,370,Software Engineering,32,"ABREU, A",30,0,2,3,3,7,3,3,5,1,0,1,2,0,2.739,
+Spring 2022,CSCI,370,Software Engineering,33,"ABREU, A",30,0,2,3,2,8,4,2,2,0,1,2,4,0,2.696,
+Spring 2022,CSCI,370,Software Engineering,11,"TSAI, C",14,0,0,0,4,3,0,3,0,0,0,3,1,0,2.238,
+Spring 2022,CSCI,370,Software Engineering,34,"ABREU, A",21,0,1,1,2,2,1,3,4,0,4,1,2,0,2.205,
+Spring 2022,CSCI,381,VT: Special Topics in Comp Sci,30,"RODAY, R",48,6,11,11,5,6,5,2,0,0,0,0,2,0,3.507,
+Spring 2022,CSCI,381,VT: Special Topics in Comp Sci,16,"LI, J",35,0,6,6,7,6,4,0,1,0,0,1,4,0,3.229,
+Spring 2022,CSCI,381,VT: Special Topics in Comp Sci,13,"GOLDBERG, R",51,0,6,8,8,7,5,3,4,0,0,0,10,0,3.156,
+Spring 2022,CSCI,381,VT: Special Topics in Comp Sci,17,"LI, J",35,1,5,3,11,6,4,3,1,0,0,1,0,0,3.117,
+Spring 2022,CSCI,381,VT: Special Topics in Comp Sci,24,"PHILLIPS, T",23,5,2,1,1,1,3,0,0,0,0,2,8,0,3.073,
+Spring 2022,CSCI,381,VT: Special Topics in Comp Sci,51,"WAXMAN, J",30,6,2,1,2,3,1,0,4,0,2,0,9,0,3.048,
+Spring 2022,CSCI,381,VT: Special Topics in Comp Sci,39,"GOLDBERG, R",49,0,7,6,7,10,5,3,6,0,0,1,4,0,3.016,
+Spring 2022,CSCI,381,VT: Special Topics in Comp Sci,31,"PANG, C",48,0,3,6,10,7,2,8,7,0,0,1,4,0,2.864,
+Spring 2022,CSCI,381,VT: Special Topics in Comp Sci,22,"TSAI, C",19,0,0,0,2,2,0,4,4,0,0,1,6,0,2.292,
+Spring 2022,CSCI,381,VT: Special Topics in Comp Sci,14,"BROWN, T",25,0,1,0,0,4,2,1,11,0,1,2,3,0,2.123,
+Spring 2022,CSCI,381,VT: Special Topics in Comp Sci,21,"ROZOVSKAYA, A",33,1,2,2,1,3,0,6,1,0,0,7,10,0,2.065,
+,,,,,,,,,,,,,,,,,,,,,
+TERM,SUBJECT,NBR,COURSE NAME,SECTION,PROF,TOTAL,A+,A,A-,B+,B,B-,C+,C,C-,D,F,W,INC/NA,AVG GPA,
+F2021,CSCI,12,Intro Computers & Computation,21,"WAXMAN, J",81,3,9,10,4,10,3,2,5,3,2,3,25,0,2.926,
+F2021,CSCI,12,Intro Computers & Computation,21A,"HUANG, X",15,0,0,0,0,0,0,0,0,0,0,0,0,15,0,
+F2021,CSCI,12,Intro Computers & Computation,21B,"HUANG, X",31,0,0,0,0,0,0,0,0,0,0,0,0,31,0,
+F2021,CSCI,12,Intro Computers & Computation,21C,"HUANG, X",35,0,0,0,0,0,0,0,0,0,0,0,0,35,0,
+F2021,CSCI,48,Spreadsheet Programming,11,"FRIED, M",210,2,39,35,33,22,17,15,5,9,5,10,18,0,3.016,
+F2021,CSCI,48,Spreadsheet Programming,32,"JAGDEO, M",167,4,11,29,15,22,7,7,8,9,16,17,21,0,2.518,
+F2021,CSCI,48,Spreadsheet Programming,11A,"FRIED, M",42,0,0,0,0,0,0,0,0,0,0,0,0,42,0,
+F2021,CSCI,48,Spreadsheet Programming,11B,"FRIED, M",42,0,0,0,0,0,0,0,0,0,0,0,0,42,0,
+F2021,CSCI,48,Spreadsheet Programming,11C,"LANDAU, G",42,0,0,0,0,0,0,0,0,0,0,0,0,42,0,
+F2021,CSCI,48,Spreadsheet Programming,11D,"LANDAU, G",42,0,0,0,0,0,0,0,0,0,0,0,0,42,0,
+F2021,CSCI,48,Spreadsheet Programming,11E,"KELLER, C",42,0,0,0,0,0,0,0,0,0,0,0,0,42,0,
+F2021,CSCI,48,Spreadsheet Programming,32A,"JAGDEO, M",42,0,0,0,0,0,0,0,0,0,0,0,0,42,0,
+F2021,CSCI,48,Spreadsheet Programming,32B,"JAGDEO, M",42,0,0,0,0,0,0,0,0,0,0,0,0,42,0,
+F2021,CSCI,48,Spreadsheet Programming,32C,"CASTILLO, E",42,0,0,0,0,0,0,0,0,0,0,0,0,42,0,
+F2021,CSCI,48,Spreadsheet Programming,32D,"CASTILLO, E",42,0,0,0,0,0,0,0,0,0,0,0,0,42,0,
+F2021,CSCI,100,Information and Intelligence,31,"CASTRO, R",30,3,3,5,2,2,2,1,3,1,1,1,5,1,2.979,
+F2021,CSCI,111,Intro Algorithmic Problem Solv,33,"CHYN, X",114,1,9,9,9,12,9,7,9,8,0,8,29,0,2.605,
+F2021,CSCI,111,Intro Algorithmic Problem Solv,11,"SCHLEY, R",180,4,12,8,25,9,9,23,5,13,7,11,50,0,2.535,
+F2021,CSCI,111,Intro Algorithmic Problem Solv,22,"CHYN, X",116,2,7,9,5,4,13,10,11,2,3,16,26,0,2.248,
+F2021,CSCI,111,Intro Algorithmic Problem Solv,11B,"MAGOULIS, M",45,0,0,0,0,0,0,0,0,0,0,0,0,45,0,
+F2021,CSCI,111,Intro Algorithmic Problem Solv,11C,"TSE, C",45,0,0,0,0,0,0,0,0,0,0,0,0,45,0,
+F2021,CSCI,111,Intro Algorithmic Problem Solv,11D,"TSE, C",45,0,0,0,0,0,0,0,0,0,0,0,0,45,0,
+F2021,CSCI,111,Intro Algorithmic Problem Solv,11FY,"MAGOULIS, M",45,0,0,0,0,0,0,0,0,0,0,0,0,45,0,
+F2021,CSCI,111,Intro Algorithmic Problem Solv,22A,"SCHLEY, R",39,0,0,0,0,0,0,0,0,0,0,0,0,39,0,
+F2021,CSCI,111,Intro Algorithmic Problem Solv,22B,"TSE, C",39,0,0,0,0,0,0,0,0,0,0,0,0,39,0,
+F2021,CSCI,111,Intro Algorithmic Problem Solv,22C,"TSE, C",38,0,0,0,0,0,0,0,0,0,0,0,0,38,0,
+F2021,CSCI,111,Intro Algorithmic Problem Solv,33A,"YANG, K",39,0,0,0,0,0,0,0,0,0,0,0,0,39,0,
+F2021,CSCI,111,Intro Algorithmic Problem Solv,33B,"YANG, K",38,0,0,0,0,0,0,0,0,0,0,0,0,38,0,
+F2021,CSCI,111,Intro Algorithmic Problem Solv,33C,"TSE, C",37,0,0,0,0,0,0,0,0,0,0,0,0,37,0,
+F2021,CSCI,112,Intro Algori Prob Solving Java,31,"CONNOR, T",18,0,7,3,1,2,0,1,3,1,0,0,0,0,3.244,
+F2021,CSCI,112,Intro Algori Prob Solving Java,31A,"CONNOR, T",18,0,0,0,0,0,0,0,0,0,0,0,0,18,0,
+F2021,CSCI,211,Object-Oriented Program in C++,21,"WAXMAN, J",191,5,7,9,11,22,14,6,22,0,6,32,56,0,2.128,
+F2021,CSCI,211,Object-Oriented Program in C++,22,"WAXMAN, J",71,1,1,7,3,8,0,3,11,0,6,10,19,2,2.054,
+F2021,CSCI,211,Object-Oriented Program in C++,33,"ALAYEV, Y",45,0,1,0,3,0,2,0,7,0,3,9,19,0,1.452,
+F2021,CSCI,211,Object-Oriented Program in C++,21A,"ZHENG, H",40,0,0,0,0,0,0,0,0,0,0,0,0,40,0,
+F2021,CSCI,211,Object-Oriented Program in C++,21B,"LANDAU, G",30,0,0,0,0,0,0,0,0,0,0,0,0,30,0,
+F2021,CSCI,211,Object-Oriented Program in C++,21C,"LANDAU, G",30,0,0,0,0,0,0,0,0,0,0,0,0,30,0,
+F2021,CSCI,211,Object-Oriented Program in C++,21D,"ZHENG, H",40,0,0,0,0,0,0,0,0,0,0,0,0,40,0,
+F2021,CSCI,211,Object-Oriented Program in C++,21E,"ZHENG, H",30,0,0,0,0,0,0,0,0,0,0,0,0,30,0,
+F2021,CSCI,211,Object-Oriented Program in C++,21F,"ZHOU, L",21,0,0,0,0,0,0,0,0,0,0,0,0,21,0,
+F2021,CSCI,211,Object-Oriented Program in C++,22A,"ZHENG, H",32,0,0,0,0,0,0,0,0,0,0,0,0,32,0,
+F2021,CSCI,211,Object-Oriented Program in C++,22B,"MAGOULIS, M",39,0,0,0,0,0,0,0,0,0,0,0,0,39,0,
+F2021,CSCI,211,Object-Oriented Program in C++,33A,"ALAYEV, Y",45,0,0,0,0,0,0,0,0,0,0,0,0,45,0,
+F2021,CSCI,212,Object-Oriented Prog in Java,33,"TSE, C",45,8,2,3,3,6,1,4,6,0,0,1,11,0,3.026,
+F2021,CSCI,212,Object-Oriented Prog in Java,11,"LORD, K",160,3,17,16,10,21,7,7,10,9,10,18,32,0,2.465,
+F2021,CSCI,212,Object-Oriented Prog in Java,22,"LORD, K",115,4,9,11,6,11,5,5,5,4,7,20,28,0,2.233,
+F2021,CSCI,212,Object-Oriented Prog in Java,11A,"LI, Z",40,0,0,0,0,0,0,0,0,0,0,0,0,40,0,
+F2021,CSCI,212,Object-Oriented Prog in Java,11B,"PATEL, N",40,0,0,0,0,0,0,0,0,0,0,0,0,40,0,
+F2021,CSCI,212,Object-Oriented Prog in Java,11C,"ZHAO, Y",40,0,0,0,0,0,0,0,0,0,0,0,0,40,0,
+F2021,CSCI,212,Object-Oriented Prog in Java,11D,"ZHAO, Y",40,0,0,0,0,0,0,0,0,0,0,0,0,40,0,
+F2021,CSCI,212,Object-Oriented Prog in Java,22A,"LI, Z",39,0,0,0,0,0,0,0,0,0,0,0,0,39,0,
+F2021,CSCI,212,Object-Oriented Prog in Java,22B,"ZHAO, Y",38,0,0,0,0,0,0,0,0,0,0,0,0,38,0,
+F2021,CSCI,212,Object-Oriented Prog in Java,22C,"PATEL, N",38,0,0,0,0,0,0,0,0,0,0,0,0,38,0,
+F2021,CSCI,212,Object-Oriented Prog in Java,33A,"ZHAO, Y",45,0,0,0,0,0,0,0,0,0,0,0,0,45,0,
+F2021,CSCI,220,Discrete Structures,12,"CHYN, X",79,0,13,2,0,8,8,0,25,0,0,6,17,0,2.5,
+F2021,CSCI,220,Discrete Structures,11,"CHYN, X",80,0,5,7,0,8,14,0,21,0,0,8,17,0,2.376,
+F2021,CSCI,220,Discrete Structures,33,"CESARETTI, P",36,0,0,1,0,0,2,2,5,0,0,1,25,0,2.155,
+F2021,CSCI,220,Discrete Structures,34,"CESARETTI, P",38,0,0,1,0,0,2,4,6,0,0,2,22,0,2.02,
+F2021,CSCI,220,Discrete Structures,35,"CESARETTI, P",38,0,1,0,1,0,1,1,7,0,0,4,23,0,1.753,
+F2021,CSCI,240,Computer Org & Assembly Lang,36,"YEH, J",40,0,17,2,4,2,3,3,0,1,0,3,5,0,3.18,
+F2021,CSCI,240,Computer Org & Assembly Lang,37,"YEH, J",40,0,13,4,4,2,4,1,4,2,0,1,5,0,3.157,
+F2021,CSCI,240,Computer Org & Assembly Lang,21,"LI, J",55,0,4,16,19,3,3,0,3,3,3,0,1,0,3.131,
+F2021,CSCI,240,Computer Org & Assembly Lang,32,"FRARY, N",36,2,7,4,3,1,0,3,2,0,4,3,7,0,2.71,
+F2021,CSCI,240,Computer Org & Assembly Lang,34,"FRARY, N",40,0,2,3,7,6,2,4,10,0,0,3,3,0,2.562,
+F2021,CSCI,240,Computer Org & Assembly Lang,33,"FRARY, N",34,0,2,3,5,2,1,3,4,0,2,2,10,0,2.55,
+F2021,CSCI,240,Computer Org & Assembly Lang,35,"YEH, J",40,0,2,4,4,7,3,2,6,1,0,4,7,0,2.527,
+F2021,CSCI,313,Data Structures,38,"WU, S",36,1,3,1,3,2,2,3,7,0,1,2,11,0,2.516,
+F2021,CSCI,313,Data Structures,26,"SVITAK, J",25,0,0,2,1,2,3,3,1,0,5,1,7,0,2.15,
+F2021,CSCI,313,Data Structures,37,"WU, S",31,1,0,0,2,2,0,5,6,0,2,2,11,0,2.105,
+F2021,CSCI,313,Data Structures,14,"SMITH-THOMPSON, A",31,0,0,0,3,2,2,0,2,0,0,4,18,0,1.946,
+F2021,CSCI,313,Data Structures,15,"SMITH-THOMPSON, A",32,0,3,0,0,2,1,5,4,0,0,6,11,0,1.914,
+F2021,CSCI,313,Data Structures,21,"ROZOVSKAYA, A",36,0,2,2,3,3,3,2,3,2,0,11,5,0,1.819,
+F2021,CSCI,313,Data Structures,13,"SMITH-THOMPSON, A",32,0,1,1,1,4,0,3,2,0,0,9,11,0,1.614,
+F2021,CSCI,313,Data Structures,12,"SMITH-THOMPSON, A",30,0,0,1,0,3,2,1,3,0,0,9,11,0,1.389,
+F2021,CSCI,316,Principles of Programming Lang,24,"SVITAK, J",32,0,1,0,3,4,3,3,6,0,0,1,11,0,2.519,
+F2021,CSCI,316,Principles of Programming Lang,36,"SVITAK, J",27,0,0,1,2,2,2,1,4,4,0,1,10,0,2.282,
+F2021,CSCI,316,Principles of Programming Lang,33,"KONG, T",100,2,6,6,3,9,19,6,11,0,1,22,13,2,2.108,
+F2021,CSCI,316,Principles of Programming Lang,25,"SVITAK, J",21,0,0,0,1,1,5,3,5,0,3,1,2,0,2.089,
+F2021,CSCI,316,Principles of Programming Lang,22,"KONG, T",38,3,5,0,3,0,2,4,2,0,1,12,6,0,1.922,
+F2021,CSCI,316,Principles of Programming Lang,21,"KONG, T",38,2,0,2,2,2,3,3,6,0,0,14,4,0,1.618,
+F2021,CSCI,320,Theory of Computation,12,"OBRENIC, B",85,1,6,9,5,8,11,2,10,0,0,11,22,0,2.478,
+F2021,CSCI,320,Theory of Computation,11,"OBRENIC, B",85,1,4,3,9,5,10,4,14,0,0,18,17,0,2.059,
+F2021,CSCI,320,Theory of Computation,33,"BOKLAN, K",105,0,1,1,0,3,0,0,9,0,0,11,80,0,1.388,
+F2021,CSCI,323,Design & Analysis Algorithms,24,"PHILLIPS, T",11,1,1,0,1,1,0,0,0,0,0,0,7,0,3.575,
+F2021,CSCI,323,Design & Analysis Algorithms,23,"PHILLIPS, T",14,2,1,2,0,1,0,2,1,0,0,0,5,0,3.222,
+F2021,CSCI,323,Design & Analysis Algorithms,11,"BROWN, T",20,1,2,1,2,5,0,0,8,0,0,0,1,0,2.805,
+F2021,CSCI,323,Design & Analysis Algorithms,25,"SMITH-THOMPSON, A",35,1,3,4,4,5,0,2,10,0,0,2,2,2,2.697,
+F2021,CSCI,323,Design & Analysis Algorithms,22,"GOSWAMI, M",119,0,3,2,2,10,13,1,32,0,0,22,34,0,1.852,
+F2021,CSCI,331,Database Systems,12,"HELLER, P",23,0,1,2,4,0,5,2,2,0,0,0,6,1,2.919,
+F2021,CSCI,331,Database Systems,14,"HELLER, P",38,1,2,1,5,1,4,5,3,0,1,0,15,0,2.804,
+F2021,CSCI,331,Database Systems,36,"STEINBERG, O",39,1,6,2,4,3,3,5,4,2,1,1,7,0,2.8,
+F2021,CSCI,331,Database Systems,27,"STEINBERG, O",39,0,9,3,0,6,2,2,6,1,6,2,2,0,2.562,
+F2021,CSCI,331,Database Systems,13,"HELLER, P",39,0,0,1,2,1,3,9,5,0,0,0,18,0,2.481,
+F2021,CSCI,331,Database Systems,35,"LEAVITT, D",39,0,1,1,1,9,3,8,6,0,4,0,5,1,2.439,
+F2021,CSCI,331,Database Systems,11,"OBRENIC, B",79,3,2,4,3,5,7,7,14,0,0,24,10,0,1.778,
+F2021,CSCI,334,Data Mining and Warehousing,15,"SY, B",19,0,1,1,1,3,0,1,3,1,0,0,8,0,2.727,
+F2021,CSCI,335,Information Org and Retrieval,11,"GOLDBERG, R",35,2,1,8,7,10,1,1,0,0,0,0,5,0,3.323,
+F2021,CSCI,340,Operating Systems Principles,12,"FLUTURE, S",37,1,3,2,2,1,1,4,4,1,1,2,15,0,2.527,
+F2021,CSCI,340,Operating Systems Principles,37,"SVADLENKA, J",26,1,1,2,1,2,7,1,1,1,5,1,3,0,2.374,
+F2021,CSCI,340,Operating Systems Principles,13,"SVADLENKA, J",32,1,1,1,2,7,3,0,2,0,4,5,6,0,2.131,
+F2021,CSCI,340,Operating Systems Principles,11,"FLUTURE, S",36,2,1,1,2,0,2,1,7,0,1,5,14,0,2.045,
+F2021,CSCI,340,Operating Systems Principles,25,"SVADLENKA, J",37,0,0,1,1,6,1,2,3,2,5,4,12,0,1.868,
+F2021,CSCI,340,Operating Systems Principles,24,"SVADLENKA, J",28,1,1,1,2,3,0,3,0,1,3,6,6,1,1.852,
+F2021,CSCI,340,Operating Systems Principles,26,"SVADLENKA, J",37,1,0,0,1,4,3,1,1,0,4,7,14,1,1.623,
+F2021,CSCI,343,Computer Architecture,23,"RAHMAN, M",37,5,5,7,2,6,1,2,2,0,4,1,2,0,3.023,
+F2021,CSCI,343,Computer Architecture,36,"UPADHYAY, V",33,0,3,0,3,0,0,3,2,0,0,0,22,0,2.982,
+F2021,CSCI,343,Computer Architecture,24,"RAHMAN, M",38,3,2,3,5,5,2,3,5,0,3,1,6,0,2.747,
+F2021,CSCI,343,Computer Architecture,37,"SVITAK, J",35,0,1,4,3,7,3,9,5,2,1,0,0,0,2.654,
+F2021,CSCI,343,Computer Architecture,12,"FLUTURE, S",34,2,2,0,1,1,0,1,4,0,0,2,21,0,2.508,
+F2021,CSCI,343,Computer Architecture,35,"UPADHYAY, V",35,0,0,1,5,0,1,4,8,0,0,1,15,0,2.405,
+F2021,CSCI,343,Computer Architecture,11,"FLUTURE, S",21,0,3,0,0,0,1,0,2,0,0,3,12,0,2.078,
+F2021,CSCI,344,Distributed Systems,20,"FLUTURE, S",22,2,0,0,0,1,1,4,3,0,0,3,8,0,2.064,
+F2021,CSCI,352,Cryptography,24,"BOKLAN, K",15,0,3,1,0,0,1,1,0,0,0,0,9,0,3.45,
+F2021,CSCI,355,Internet and Web Technologies,37,"ABRAMOV, M",38,5,7,7,3,3,3,3,1,0,0,2,3,1,3.229,
+F2021,CSCI,355,Internet and Web Technologies,34,"LAW, R",25,2,4,1,1,1,2,1,2,0,0,7,4,0,2.176,
+F2021,CSCI,355,Internet and Web Technologies,46,"LAW, R",37,0,2,2,4,3,3,2,3,0,0,7,11,0,2.165,
+F2021,CSCI,355,Internet and Web Technologies,32,"LAW, R",18,1,0,0,2,1,3,0,1,0,0,4,6,0,1.975,
+F2021,CSCI,355,Internet and Web Technologies,33,"LAW, R",38,2,2,1,3,3,3,3,4,0,0,13,4,0,1.812,
+F2021,CSCI,355,Internet and Web Technologies,35,"LAW, R",17,2,1,0,0,1,0,0,1,0,0,5,7,0,1.7,
+F2021,CSCI,355,Internet and Web Technologies,31,"LAW, R",33,2,1,1,0,4,3,0,0,0,0,11,11,0,1.627,
+F2021,CSCI,361,Numerical Methods,23,"SMITH-THOMPSON, A",35,3,1,4,5,2,5,0,5,0,0,0,7,3,3.072,
+F2021,CSCI,365,Computational Finance,35,"PANG, C",38,0,3,3,2,3,9,9,9,0,0,0,0,0,2.676,
+F2021,CSCI,370,Software Engineering,33,"GREENBERG, A",36,1,10,1,1,21,0,0,1,0,0,0,1,0,3.314,
+F2021,CSCI,370,Software Engineering,45,"GREENBERG, A",25,1,11,1,2,4,0,3,1,0,0,1,1,0,3.3,
+F2021,CSCI,370,Software Engineering,34,"GREENBERG, A",33,0,8,3,3,12,1,2,1,0,0,1,2,0,3.171,
+F2021,CSCI,370,Software Engineering,11,"TSAI, C",33,0,0,5,4,5,8,1,0,0,1,0,9,0,2.983,
+F2021,CSCI,370,Software Engineering,36,"ABREU, A",36,0,3,9,3,6,4,4,3,0,3,0,1,0,2.92,
+F2021,CSCI,370,Software Engineering,58,"ABREU, A",34,0,0,1,5,5,3,4,6,1,4,3,2,0,2.194,
+F2021,CSCI,370,Software Engineering,37,"ABREU, A",33,0,2,1,1,1,5,5,6,0,7,4,1,0,1.938,
+F2021,CSCI,381,VT: Special Topics in Comp Sci,34,"RODAY, R",37,4,14,8,4,4,0,2,0,0,0,0,1,0,3.65,
+F2021,CSCI,381,VT: Special Topics in Comp Sci,30,"GOLDBERG, R",21,1,2,3,2,6,3,1,1,0,0,0,2,0,3.163,
+F2021,CSCI,381,VT: Special Topics in Comp Sci,32,"PHILLIPS, T",15,3,0,3,0,1,3,1,0,0,0,1,3,0,3.042,
+F2021,CSCI,381,VT: Special Topics in Comp Sci,31,"PANG, C",38,0,1,7,8,8,5,3,3,0,0,1,2,0,2.964,
+F2021,CSCI,381,VT: Special Topics in Comp Sci,12,"GOLDBERG, R",34,2,2,3,2,3,6,4,5,0,0,0,7,0,2.893,
+F2021,CSCI,381,VT: Special Topics in Comp Sci,22,"ROZOVSKAYA, A",33,0,0,2,6,7,5,1,2,0,1,0,9,0,2.875,
+F2021,CSCI,381,VT: Special Topics in Comp Sci,51,"WAXMAN, J",35,6,0,5,4,2,0,1,3,1,1,3,9,0,2.796,
+F2021,CSCI,381,VT: Special Topics in Comp Sci,16,"SY, B",20,0,2,1,0,1,0,3,1,0,0,1,11,0,2.622,
+F2021,CSCI,381,VT: Special Topics in Comp Sci,21,"GOSWAMI, M",28,0,2,4,0,5,1,0,1,0,0,4,10,1,2.5,
+F2021,CSCI,381,VT: Special Topics in Comp Sci,14,"TSAI, C",23,0,0,0,2,1,0,3,0,0,0,2,15,0,2.063,
+F2021,CSCI,381,VT: Special Topics in Comp Sci,13,"BROWN, T",20,1,0,0,0,2,2,1,6,0,1,7,0,0,1.535,
+F2021,CSCI,722,Computability and Complexity,30,"GOLDBERG, R",17,0,6,4,4,0,0,0,0,0,0,0,3,0,3.714,
+,,,,,,,,,,,,,,,,,,,,,
+TERM,SUBJECT,NBR,COURSE NAME,SECTION,PROF,TOTAL,A+,A,A-,B+,B,B-,C+,C,P,C-,D,F,W,INC/NA,AVG GPA
+Spring 2021,CSCI,12,Intro Computers & Computation,21,"WAXMAN, J",110,3,29,15,7,12,7,2,3,0,1,2,2,26,0,3.322891566
+Spring 2021,CSCI,12,Intro Computers & Computation,21A,"HUANG, X",52,0,0,0,0,0,0,0,0,0,0,0,0,0,52,0
+Spring 2021,CSCI,12,Intro Computers & Computation,21B,"HUANG, X",58,0,0,0,0,0,0,0,0,0,0,0,0,0,58,0
+Spring 2021,CSCI,48,Spreadsheet Programming,11,"FRIED, M",135,0,43,13,19,20,10,8,5,1,6,0,1,8,1,3.2672
+Spring 2021,CSCI,48,Spreadsheet Programming,32,"JAGDEO, M",135,24,22,14,17,14,5,6,1,0,2,6,11,11,2,3.054098361
+Spring 2021,CSCI,48,Spreadsheet Programming,45,"GREENBERG, A",45,1,10,0,9,7,3,3,4,0,2,0,3,3,0,2.883333333
+Spring 2021,CSCI,48,Spreadsheet Programming,11A,"FRIED, M",45,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0
+Spring 2021,CSCI,48,Spreadsheet Programming,11B,"FRIED, M",45,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0
+Spring 2021,CSCI,48,Spreadsheet Programming,11C,"YANG, J",45,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0
+Spring 2021,CSCI,48,Spreadsheet Programming,32A,"JAGDEO, M",45,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0
+Spring 2021,CSCI,48,Spreadsheet Programming,32B,"JAGDEO, M",45,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0
+Spring 2021,CSCI,48,Spreadsheet Programming,32C,"JAGDEO, M",45,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0
+Spring 2021,CSCI,48,Spreadsheet Programming,45A,"GREENBERG, A",45,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0
+Spring 2021,CSCI,90,Topics in Computing,31,"CONNOR, T",24,7,6,3,3,0,1,0,1,0,1,1,0,1,0,3.495652174
+Spring 2021,CSCI,100,Information and Intelligence,21,"CASTRO, R",40,2,6,5,3,9,1,1,3,0,3,0,5,0,1,2.723684211
+Spring 2021,CSCI,111,Intro Algorithmic Problem Solv,11,"RYBA, A",180,0,49,4,3,40,5,2,25,1,8,3,2,35,0,3.017021277
+Spring 2021,CSCI,111,Intro Algorithmic Problem Solv,12,"RYBA, A",132,2,24,2,1,48,2,0,20,1,10,2,2,17,1,2.859292035
+Spring 2021,CSCI,111,Intro Algorithmic Problem Solv,33,"GREENBERG, A",42,2,7,0,3,8,0,2,6,0,0,0,8,5,0,2.402777778
+Spring 2021,CSCI,111,Intro Algorithmic Problem Solv,11A,"ZHAO, Y",45,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0
+Spring 2021,CSCI,111,Intro Algorithmic Problem Solv,11C,"LANDAU, G",45,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0
+Spring 2021,CSCI,111,Intro Algorithmic Problem Solv,11E,"SCHLEY, R",45,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0
+Spring 2021,CSCI,111,Intro Algorithmic Problem Solv,11FY,"SCHLEY, R",45,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0
+Spring 2021,CSCI,111,Intro Algorithmic Problem Solv,12A,"LANDAU, G",40,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0
+Spring 2021,CSCI,111,Intro Algorithmic Problem Solv,12B,"GREENBERG, A",17,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0
+Spring 2021,CSCI,111,Intro Algorithmic Problem Solv,12B,"LANDAU, G",17,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0
+Spring 2021,CSCI,111,Intro Algorithmic Problem Solv,12D,"SCHLEY, R",30,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0
+Spring 2021,CSCI,111,Intro Algorithmic Problem Solv,12FY,"SCHLEY, R",45,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0
+Spring 2021,CSCI,111,Intro Algorithmic Problem Solv,33A,"GREENBERG, A",42,0,0,0,0,0,0,0,0,0,0,0,0,0,42,0
+Spring 2021,CSCI,211,Object-Oriented Program in C++,21,"WAXMAN, J",178,11,14,9,10,23,14,11,16,2,0,11,32,22,1,2.260927152
+Spring 2021,CSCI,211,Object-Oriented Program in C++,22,"WAXMAN, J",103,5,6,3,4,11,1,4,11,2,0,6,16,34,0,2.107462687
+Spring 2021,CSCI,211,Object-Oriented Program in C++,33,"ALAYEV, Y",45,0,2,1,2,2,1,1,4,0,0,5,6,21,0,1.7625
+Spring 2021,CSCI,211,Object-Oriented Program in C++,21A,"TSE, C",44,0,0,0,0,0,0,0,0,0,0,0,0,0,44,0
+Spring 2021,CSCI,211,Object-Oriented Program in C++,21C,"CHEN, C",44,0,0,0,0,0,0,0,0,0,0,0,0,0,44,0
+Spring 2021,CSCI,211,Object-Oriented Program in C++,21D,"CHEN, C",45,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0
+Spring 2021,CSCI,211,Object-Oriented Program in C++,21E,"LANDAU, G",45,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0
+Spring 2021,CSCI,211,Object-Oriented Program in C++,22A,"TSE, C",37,0,0,0,0,0,0,0,0,0,0,0,0,0,37,0
+Spring 2021,CSCI,211,Object-Oriented Program in C++,22B,"CHEN, C",22,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0
+Spring 2021,CSCI,211,Object-Oriented Program in C++,22B,"TSE, C",22,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0
+Spring 2021,CSCI,211,Object-Oriented Program in C++,22C,"LANDAU, G",44,0,0,0,0,0,0,0,0,0,0,0,0,0,44,0
+Spring 2021,CSCI,211,Object-Oriented Program in C++,33A,"TSE, C",45,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0
+Spring 2021,CSCI,212,Object-Oriented Prog in Java,11,"LORD, K",135,7,15,11,14,5,15,5,16,0,8,13,9,17,0,2.546610169
+Spring 2021,CSCI,212,Object-Oriented Prog in Java,33,"TSE, C",45,3,1,2,5,6,2,3,3,0,1,1,7,9,2,2.320588235
+Spring 2021,CSCI,212,Object-Oriented Prog in Java,22,"LORD, K",134,5,7,9,11,8,8,7,8,0,8,5,19,39,0,2.251578947
+Spring 2021,CSCI,212,Object-Oriented Prog in Java,11A,"FLUTURE, S",45,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0
+Spring 2021,CSCI,212,Object-Oriented Prog in Java,11B,"WANG, C",45,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0
+Spring 2021,CSCI,212,Object-Oriented Prog in Java,11E,"WANG, C",45,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0
+Spring 2021,CSCI,212,Object-Oriented Prog in Java,22B,"CHEN, C",44,0,0,0,0,0,0,0,0,0,0,0,0,0,44,0
+Spring 2021,CSCI,212,Object-Oriented Prog in Java,22C,"CHEN, C",45,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0
+Spring 2021,CSCI,212,Object-Oriented Prog in Java,22F,"WANG, C",45,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0
+Spring 2021,CSCI,212,Object-Oriented Prog in Java,33A,"ZHAO, Y",45,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0
+Spring 2021,CSCI,220,Discrete Structures,13,"WU, S",41,0,4,3,5,10,6,0,11,1,0,0,0,1,0,2.866666667
+Spring 2021,CSCI,220,Discrete Structures,24,"WU, S",45,0,6,3,4,5,7,0,9,1,0,0,2,8,0,2.783333333
+Spring 2021,CSCI,220,Discrete Structures,37,"WU, S",40,0,2,1,5,5,8,0,12,0,0,0,1,6,0,2.611764706
+Spring 2021,CSCI,220,Discrete Structures,32,"KONG, T",45,4,7,4,1,3,2,3,4,0,0,2,8,7,0,2.457894737
+Spring 2021,CSCI,220,Discrete Structures,36,"CHYN, X",45,0,3,2,0,4,1,0,12,1,0,0,5,17,0,2.151851852
+Spring 2021,CSCI,220,Discrete Structures,25,"CHYN, X",45,0,3,3,0,5,4,0,10,0,0,0,14,6,0,1.766666667
+Spring 2021,CSCI,220,Discrete Structures,11,"CHYN, X",45,0,4,1,0,4,2,0,12,0,1,0,12,8,0,1.744444444
+Spring 2021,CSCI,240,Computer Org & Assembly Lang,27,"LI, J",42,7,17,6,4,2,1,0,1,0,0,0,3,1,0,3.465853659
+Spring 2021,CSCI,240,Computer Org & Assembly Lang,36,"YEH, J",42,0,13,4,6,6,3,2,0,0,1,0,1,5,1,3.305555556
+Spring 2021,CSCI,240,Computer Org & Assembly Lang,33,"YEH, J",42,0,6,4,7,5,4,2,5,0,6,0,0,2,1,2.884615385
+Spring 2021,CSCI,240,Computer Org & Assembly Lang,31,"FRARY, N",42,1,6,4,1,3,7,3,3,0,0,3,1,10,0,2.809375
+Spring 2021,CSCI,240,Computer Org & Assembly Lang,32,"FRARY, N",42,1,2,3,3,6,3,5,3,0,0,1,2,13,0,2.675862069
+Spring 2021,CSCI,240,Computer Org & Assembly Lang,14,"FLUTURE, S",39,0,1,2,0,2,1,3,4,0,0,3,3,19,1,2
+Spring 2021,CSCI,240,Computer Org & Assembly Lang,25,"FLUTURE, S",33,0,2,2,0,0,0,1,3,0,0,1,4,20,0,1.9
+Spring 2021,CSCI,313,Data Structures,38,"LI, Z",25,1,2,3,5,2,2,2,2,0,1,0,1,4,0,2.919047619
+Spring 2021,CSCI,313,Data Structures,25,"FRIED, M",35,0,5,2,4,4,6,6,1,0,0,0,1,6,0,2.917241379
+Spring 2021,CSCI,313,Data Structures,11,"WANG, C",35,11,1,2,3,1,3,2,2,0,0,3,4,3,0,2.75
+Spring 2021,CSCI,313,Data Structures,33,"CHEN, A",32,2,4,4,3,2,1,1,1,0,1,1,6,6,0,2.476923077
+Spring 2021,CSCI,313,Data Structures,26,"YANG, K",35,1,1,0,2,2,7,6,4,0,5,0,2,5,0,2.326666667
+Spring 2021,CSCI,313,Data Structures,37,"YANG, K",31,1,1,0,2,6,2,2,2,0,4,0,4,7,0,2.225
+Spring 2021,CSCI,313,Data Structures,22,"CESARETTI, P",35,0,1,1,0,2,5,3,19,0,0,0,2,2,0,2.184848485
+Spring 2021,CSCI,316,Principles of Programming Lang,21,"KONG, T",35,2,12,0,4,4,1,0,0,0,0,2,5,5,0,2.863333333
+Spring 2021,CSCI,316,Principles of Programming Lang,22,"KONG, T",35,0,7,1,4,0,2,4,6,0,0,0,8,3,0,2.234375
+Spring 2021,CSCI,316,Principles of Programming Lang,35,"YUKAWA, K",34,0,1,5,3,3,1,3,0,0,0,3,8,7,0,2
+Spring 2021,CSCI,316,Principles of Programming Lang,36,"YUKAWA, K",35,0,0,0,4,3,3,4,3,0,2,0,7,9,0,1.880769231
+Spring 2021,CSCI,316,Principles of Programming Lang,27,"SVITAK, J",33,0,1,1,0,1,2,4,6,0,2,1,6,9,0,1.7375
+Spring 2021,CSCI,316,Principles of Programming Lang,24,"SVITAK, J",35,0,0,1,1,4,1,4,4,0,2,8,5,5,0,1.676666667
+Spring 2021,CSCI,316,Principles of Programming Lang,33,"KONG, T",35,1,4,0,3,1,1,3,1,0,0,2,13,6,0,1.603448276
+Spring 2021,CSCI,320,Theory of Computation,11,"OBRENIC, B",91,22,16,2,9,19,4,4,2,0,0,1,4,8,0,3.26626506
+Spring 2021,CSCI,320,Theory of Computation,12,"OBRENIC, B",91,14,13,5,11,17,8,2,5,0,0,1,3,11,0,3.17721519
+Spring 2021,CSCI,320,Theory of Computation,33,"BOKLAN, K",104,0,1,1,0,1,3,0,4,0,0,0,19,71,2,0.924137931
+Spring 2021,CSCI,323,Design & Analysis Algorithms,32,"YUAN, C",37,1,8,11,2,6,4,1,3,0,1,0,0,0,0,3.3
+Spring 2021,CSCI,323,Design & Analysis Algorithms,11,"BROWN, T",35,1,5,2,3,4,8,2,6,0,0,2,1,1,0,2.75
+Spring 2021,CSCI,323,Design & Analysis Algorithms,35,"CESARETTI, P",35,0,0,2,3,8,13,2,4,0,1,0,0,2,0,2.748484848
+Spring 2021,CSCI,323,Design & Analysis Algorithms,37,"GOSWAMI, M",39,2,3,0,3,4,0,1,6,0,0,1,4,15,0,2.383333333
+Spring 2021,CSCI,323,Design & Analysis Algorithms,33,"PHILLIPS, T",35,3,0,0,1,2,4,1,1,0,0,0,5,18,0,2.141176471
+Spring 2021,CSCI,323,Design & Analysis Algorithms,34,"PHILLIPS, T",33,1,2,0,1,0,1,1,4,0,0,0,6,17,0,1.76875
+Spring 2021,CSCI,331,Database Systems,14,"HELLER, P",37,1,2,3,1,9,2,4,4,0,0,0,0,11,0,2.923076923
+Spring 2021,CSCI,331,Database Systems,11,"OBRENIC, B",68,3,7,2,4,13,5,6,9,0,0,0,7,12,0,2.5875
+Spring 2021,CSCI,331,Database Systems,36,"YANG, K",38,0,5,1,3,6,4,4,6,1,0,0,6,2,0,2.388571429
+Spring 2021,CSCI,331,Database Systems,32,"LEAVITT, D",38,0,6,2,0,6,0,3,5,0,0,6,4,6,0,2.259375
+Spring 2021,CSCI,332,Object-Oriented Databases,37,"YUKAWA, K",34,0,0,7,4,5,4,1,1,0,0,0,4,7,0,2.661538462
+Spring 2021,CSCI,334,Data Mining and Warehousing,14,"SY, B",27,0,0,5,3,1,1,1,1,0,2,0,3,10,0,2.458823529
+Spring 2021,CSCI,335,Information Org and Retrieval,31,"GOLDBERG, R",36,0,3,10,7,6,3,1,1,0,0,0,3,2,0,3.014705882
+Spring 2021,CSCI,340,Operating Systems Principles,21,"SVITAK, J",38,0,2,3,2,7,4,6,7,0,1,3,1,2,0,2.5
+Spring 2021,CSCI,340,Operating Systems Principles,22,"FLUTURE, S",38,3,4,1,0,3,2,5,4,0,0,1,4,10,0,2.466666667
+Spring 2021,CSCI,340,Operating Systems Principles,14,"FLUTURE, S",38,0,1,0,4,1,6,3,5,0,0,1,2,15,0,2.360869565
+Spring 2021,CSCI,340,Operating Systems Principles,27,"SVITAK, J",38,0,0,2,2,6,5,4,9,0,2,4,0,4,0,2.355882353
+Spring 2021,CSCI,340,Operating Systems Principles,33,"SVADLENKA, J",33,0,2,1,3,2,1,2,7,0,0,1,7,7,0,1.919230769
+Spring 2021,CSCI,340,Operating Systems Principles,26,"SVADLENKA, J",36,0,3,0,0,1,2,4,2,0,1,2,5,16,0,1.865
+Spring 2021,CSCI,340,Operating Systems Principles,25,"SVADLENKA, J",38,0,2,1,0,3,1,3,2,0,2,5,9,10,0,1.525
+Spring 2021,CSCI,343,Computer Architecture,15,"RAHMAN, M",39,6,6,4,2,1,4,4,6,0,0,3,0,3,0,2.983333333
+Spring 2021,CSCI,343,Computer Architecture,12,"SMITH-THOMPSON, A",40,0,4,5,2,4,5,1,4,0,3,0,2,10,0,2.733333333
+Spring 2021,CSCI,343,Computer Architecture,13,"RAHMAN, M",39,3,6,1,7,6,3,1,3,0,0,2,5,2,0,2.681081081
+Spring 2021,CSCI,343,Computer Architecture,14,"SMITH-THOMPSON, A",40,0,2,2,3,3,5,3,6,0,1,3,3,8,1,2.303225806
+Spring 2021,CSCI,343,Computer Architecture,37,"UPADHYAY, V",39,1,1,0,1,3,0,5,6,0,0,0,3,19,0,2.19
+Spring 2021,CSCI,343,Computer Architecture,26,"SMITH-THOMPSON, A",40,1,0,0,2,4,6,7,4,0,1,3,4,7,1,2.1125
+Spring 2021,CSCI,343,Computer Architecture,31,"SVITAK, J",40,0,0,1,2,5,9,2,6,0,1,6,3,5,0,2.111428571
+Spring 2021,CSCI,344,Distributed Systems,20,"FLUTURE, S",25,0,0,1,1,1,1,1,1,0,0,2,0,17,0,2.375
+Spring 2021,CSCI,355,Internet and Web Technologies,54,"ABRAMOV, M",36,3,12,7,5,1,0,0,2,0,0,0,5,1,0,3.125714286
+Spring 2021,CSCI,355,Internet and Web Technologies,31,"LAW, R",36,2,4,3,2,0,1,1,1,0,0,0,9,13,0,2.117391304
+Spring 2021,CSCI,355,Internet and Web Technologies,36,"LAW, R",35,2,5,1,2,0,0,1,2,0,0,0,9,13,0,2.027272727
+Spring 2021,CSCI,355,Internet and Web Technologies,32,"LAW, R",36,1,3,2,6,0,0,0,1,0,0,0,10,13,0,1.965217391
+Spring 2021,CSCI,355,Internet and Web Technologies,37,"LAW, R",36,2,4,0,0,0,2,1,0,0,0,0,9,18,0,1.761111111
+Spring 2021,CSCI,355,Internet and Web Technologies,35,"UPADHYAY, V",36,0,1,0,0,3,4,2,13,0,0,0,11,2,0,1.6
+Spring 2021,CSCI,355,Internet and Web Technologies,33,"LAW, R",34,2,2,2,1,0,0,2,0,0,0,0,12,13,0,1.49047619
+Spring 2021,CSCI,363,Artificial Intelligence,32,"YUAN, C",34,0,11,3,3,1,2,1,1,0,1,3,0,8,0,3.169230769
+Spring 2021,CSCI,365,Computational Finance,34,"PANG, C",35,1,5,3,5,6,3,1,6,0,0,0,1,4,0,2.967741935
+Spring 2021,CSCI,370,Software Engineering,16,"SY, B",17,0,0,0,1,4,1,0,0,0,0,0,0,11,0,3
+Spring 2021,CSCI,370,Software Engineering,11,"GOLDBERG, R",34,0,5,4,8,5,3,2,2,0,0,0,2,3,0,2.996774194
+Spring 2021,CSCI,370,Software Engineering,33,"ABREU, A",35,0,2,1,3,7,3,7,4,0,0,2,1,5,0,2.56
+Spring 2021,CSCI,370,Software Engineering,55,"ABREU, A",35,0,1,2,2,6,3,4,7,0,0,5,0,5,0,2.41
+Spring 2021,CSCI,370,Software Engineering,27,"SVADLENKA, J",32,0,0,3,4,4,3,3,2,0,1,1,4,7,0,2.32
+Spring 2021,CSCI,370,Software Engineering,34,"ABREU, A",35,0,2,5,3,1,6,2,4,0,0,8,3,1,0,2.241176471
+Spring 2021,CSCI,370,Software Engineering,22,"SVADLENKA, J",32,2,1,0,2,1,1,6,4,0,1,2,5,7,0,1.992
+Spring 2021,CSCI,381,VT: Special Topics in Comp Sci,51,"WAXMAN, J",33,2,8,3,2,6,3,2,0,0,0,1,1,5,0,3.192857143
+Spring 2021,CSCI,381,VT: Special Topics in Comp Sci,22,"LI, J",35,3,2,4,8,8,4,0,2,0,0,0,1,3,0,3.125
+Spring 2021,CSCI,381,VT: Special Topics in Comp Sci,13,"GOLDBERG, R",35,0,5,5,3,7,6,2,2,0,0,0,1,4,0,3.038709677
+Spring 2021,CSCI,381,VT: Special Topics in Comp Sci,21,"ROZOVSKAYA, A",36,3,2,3,2,7,4,3,3,0,2,0,0,7,0,2.95862069
+Spring 2021,CSCI,381,VT: Special Topics in Comp Sci,33,"PANG, C",33,0,3,8,5,5,2,2,7,0,0,0,1,0,0,2.942424242
+Spring 2021,CSCI,381,VT: Special Topics in Comp Sci,36,"GOSWAMI, M",30,1,2,2,3,8,1,0,6,0,0,1,0,6,0,2.875
+Spring 2021,CSCI,381,VT: Special Topics in Comp Sci,23,"SY, B",28,0,0,4,2,2,3,3,0,0,0,0,1,12,1,2.826666667
+Spring 2021,CSCI,381,VT: Special Topics in Comp Sci,25,"PHILLIPS, T",23,2,2,0,0,2,2,0,2,0,0,0,2,11,0,2.616666667
+Spring 2021,CSCI,381,VT: Special Topics in Comp Sci,12,"BROWN, T",37,1,3,1,0,9,5,3,12,0,1,0,1,1,0,2.577777778
+Spring 2021,CSCI,381,VT: Special Topics in Comp Sci,34,"TSAI, C",22,1,0,0,0,6,2,2,4,0,0,0,1,6,0,2.5
+Spring 2021,CSCI,381,VT: Special Topics in Comp Sci,15,"TSAI, C",23,0,0,0,1,2,0,2,3,0,0,1,1,13,0,2.09
+,,,,,,,,,,,,,,,,,,,,,
+Term,Subject,Course Number,Course Description,Class Section,Instructor,Total Enrolled,A+,A,A-,B+,B,B-,C+,C,P,C-,D,F,Withdrawal,Inc/No Grade,Average GPA
+Fall 2020,CSCI,12,Intro Computers & Computation,21,"WAXMAN, J",120,8,22,14,8,13,5,6,2,6,3,3,2,23,5,3.21627907
+Fall 2020,CSCI,12,Intro Computers & Computation,21A,"HUANG, X",60,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0
+Fall 2020,CSCI,12,Intro Computers & Computation,21E,"HUANG, X",60,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0
+Fall 2020,CSCI,48,Spreadsheet Programming,11,"FRIED, M",82,0,22,14,19,18,1,1,0,3,0,0,0,2,2,3.486666667
+Fall 2020,CSCI,48,Spreadsheet Programming,32,"JAGDEO, M",69,2,13,14,12,4,2,0,2,8,1,2,0,7,2,3.394230769
+Fall 2020,CSCI,48,Spreadsheet Programming,45,"GREENBERG, A",39,2,8,3,7,9,1,1,1,1,0,0,0,6,0,3.38125
+Fall 2020,CSCI,48,Spreadsheet Programming,11A,"FRIED, M",39,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0
+Fall 2020,CSCI,48,Spreadsheet Programming,11B,"FRIED, M",43,0,0,0,0,0,0,0,0,0,0,0,0,0,43,0
+Fall 2020,CSCI,48,Spreadsheet Programming,32A,"JAGDEO, M",35,0,0,0,0,0,0,0,0,0,0,0,0,0,35,0
+Fall 2020,CSCI,48,Spreadsheet Programming,32B,"JAGDEO, M",35,0,0,0,0,0,0,0,0,0,0,0,0,0,35,0
+Fall 2020,CSCI,48,Spreadsheet Programming,45A,"GREENBERG, A",39,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0
+Fall 2020,CSCI,111,Intro Algorithmic Problem Solv,12,"RYBA, A",142,3,43,6,3,23,1,0,6,21,1,1,1,22,11,3.4375
+Fall 2020,CSCI,111,Intro Algorithmic Problem Solv,11,"RYBA, A",178,3,41,3,3,36,2,4,1,26,2,1,2,34,20,3.326530612
+Fall 2020,CSCI,111,Intro Algorithmic Problem Solv,33,"GREENBERG, A",37,5,3,0,3,3,2,4,0,4,2,0,0,10,1,3.131818182
+Fall 2020,CSCI,111,Intro Algorithmic Problem Solv,11A,"LANDAU, G",37,0,0,0,0,0,0,0,0,0,0,0,0,0,37,0
+Fall 2020,CSCI,111,Intro Algorithmic Problem Solv,11A,"TSE, C",37,0,0,0,0,0,0,0,0,0,0,0,0,0,37,0
+Fall 2020,CSCI,111,Intro Algorithmic Problem Solv,11B,"YANG, J",38,0,0,0,0,0,0,0,0,0,0,0,0,0,38,0
+Fall 2020,CSCI,111,Intro Algorithmic Problem Solv,11D,"SCHLEY, R",38,0,0,0,0,0,0,0,0,0,0,0,0,0,38,0
+Fall 2020,CSCI,111,Intro Algorithmic Problem Solv,11E,"YANG, K",38,0,0,0,0,0,0,0,0,0,0,0,0,0,38,0
+Fall 2020,CSCI,111,Intro Algorithmic Problem Solv,11FY,"SCHLEY, R",27,0,0,0,0,0,0,0,0,0,0,0,0,0,27,0
+Fall 2020,CSCI,111,Intro Algorithmic Problem Solv,12A,"YANG, J",38,0,0,0,0,0,0,0,0,0,0,0,0,0,38,0
+Fall 2020,CSCI,111,Intro Algorithmic Problem Solv,12B,"LANDAU, G",38,0,0,0,0,0,0,0,0,0,0,0,0,0,38,0
+Fall 2020,CSCI,111,Intro Algorithmic Problem Solv,12E,"SCHLEY, R",38,0,0,0,0,0,0,0,0,0,0,0,0,0,38,0
+Fall 2020,CSCI,111,Intro Algorithmic Problem Solv,12FY,"SCHLEY, R",28,0,0,0,0,0,0,0,0,0,0,0,0,0,28,0
+Fall 2020,CSCI,111,Intro Algorithmic Problem Solv,33A,"GREENBERG, A",38,0,0,0,0,0,0,0,0,0,0,0,0,0,38,0
+Fall 2020,CSCI,112,Intro Algori Prob Solving Java,31,"CONNOR, T",15,9,2,2,0,1,0,0,0,0,0,0,0,1,0,3.885714286
+Fall 2020,CSCI,112,Intro Algori Prob Solving Java,31A,"CONNOR, T",15,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0
+Fall 2020,CSCI,211,Object-Oriented Program in C++,33,"ALAYEV, Y",33,3,1,0,1,1,0,1,0,3,0,0,2,19,2,2.733333333
+Fall 2020,CSCI,211,Object-Oriented Program in C++,21,"WAXMAN, J",177,3,6,4,14,14,14,5,16,45,0,3,3,35,15,2.723170732
+Fall 2020,CSCI,211,Object-Oriented Program in C++,22,"WAXMAN, J",109,3,5,4,4,10,3,2,8,33,0,1,4,22,10,2.720454545
+Fall 2020,CSCI,211,Object-Oriented Program in C++,21A,"LANDAU, G",38,0,0,0,0,0,0,0,0,0,0,0,0,0,38,0
+Fall 2020,CSCI,211,Object-Oriented Program in C++,21B,"TSE, C",36,0,0,0,0,0,0,0,0,0,0,0,0,0,36,0
+Fall 2020,CSCI,211,Object-Oriented Program in C++,21C,"CHEN, C",35,0,0,0,0,0,0,0,0,0,0,0,0,0,35,0
+Fall 2020,CSCI,211,Object-Oriented Program in C++,21E,"LANDAU, G",38,0,0,0,0,0,0,0,0,0,0,0,0,0,38,0
+Fall 2020,CSCI,211,Object-Oriented Program in C++,21F,"TSE, C",30,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0
+Fall 2020,CSCI,211,Object-Oriented Program in C++,22A,"TSE, C",33,0,0,0,0,0,0,0,0,0,0,0,0,0,33,0
+Fall 2020,CSCI,211,Object-Oriented Program in C++,22C,"LANDAU, G",38,0,0,0,0,0,0,0,0,0,0,0,0,0,38,0
+Fall 2020,CSCI,211,Object-Oriented Program in C++,22F,"CHEN, C",38,0,0,0,0,0,0,0,0,0,0,0,0,0,38,0
+Fall 2020,CSCI,211,Object-Oriented Program in C++,33A,"TSE, C",33,0,0,0,0,0,0,0,0,0,0,0,0,0,33,0
+Fall 2020,CSCI,212,Object-Oriented Prog in Java,22,"LORD, K",127,6,11,16,10,18,4,7,6,26,1,1,0,19,2,3.1975
+Fall 2020,CSCI,212,Object-Oriented Prog in Java,11,"LORD, K",151,5,13,15,17,10,8,4,3,24,1,0,3,30,18,3.191139241
+Fall 2020,CSCI,212,Object-Oriented Prog in Java,11A,"CHEN, C",38,0,0,0,0,0,0,0,0,0,0,0,0,0,38,0
+Fall 2020,CSCI,212,Object-Oriented Prog in Java,11B,"WANG, C",38,0,0,0,0,0,0,0,0,0,0,0,0,0,38,0
+Fall 2020,CSCI,212,Object-Oriented Prog in Java,11E,"WANG, C",37,0,0,0,0,0,0,0,0,0,0,0,0,0,37,0
+Fall 2020,CSCI,212,Object-Oriented Prog in Java,11F,"CHEN, C",38,0,0,0,0,0,0,0,0,0,0,0,0,0,38,0
+Fall 2020,CSCI,212,Object-Oriented Prog in Java,22B,"WANG, C",38,0,0,0,0,0,0,0,0,0,0,0,0,0,38,0
+Fall 2020,CSCI,212,Object-Oriented Prog in Java,22D,"WANG, C",38,0,0,0,0,0,0,0,0,0,0,0,0,0,38,0
+Fall 2020,CSCI,212,Object-Oriented Prog in Java,22F,"CHEN, C",51,0,0,0,0,0,0,0,0,0,0,0,0,0,51,0
+Fall 2020,CSCI,212,Object-Oriented Prog in Java,22F,"WANG, C",51,0,0,0,0,0,0,0,0,0,0,0,0,0,51,0
+Fall 2020,CSCI,220,Discrete Structures,25,"WHITE, M",40,1,2,2,2,5,4,0,1,14,0,0,0,4,5,3.164705882
+Fall 2020,CSCI,220,Discrete Structures,23,"WHITE, M",40,2,0,0,1,8,1,0,1,12,0,0,0,13,2,3.076923077
+Fall 2020,CSCI,220,Discrete Structures,12,"WHITE, M",40,3,0,2,2,3,0,1,0,10,0,0,2,15,2,2.869230769
+Fall 2020,CSCI,220,Discrete Structures,37,"CESARETTI, P",40,0,1,4,5,4,7,5,3,5,0,0,1,5,0,2.79
+Fall 2020,CSCI,220,Discrete Structures,31,"KONG, T",44,0,3,2,2,2,8,7,2,6,0,0,1,8,3,2.72962963
+Fall 2020,CSCI,220,Discrete Structures,36,"WANG, X",45,0,2,1,0,6,3,0,0,5,0,0,2,13,13,2.7
+Fall 2020,CSCI,220,Discrete Structures,24,"BOKLAN, K",45,0,0,1,0,0,0,0,1,2,0,0,3,28,10,1.14
+Fall 2020,CSCI,240,Computer Org & Assembly Lang,27,"LI, J",40,6,4,5,8,4,0,0,1,2,0,0,0,8,2,3.532142857
+Fall 2020,CSCI,240,Computer Org & Assembly Lang,32,"FRARY, N",40,2,6,8,3,7,0,0,2,6,0,0,1,3,2,3.327586207
+Fall 2020,CSCI,240,Computer Org & Assembly Lang,36,"YEH, J",39,0,7,7,6,5,4,1,2,3,0,0,0,4,0,3.30625
+Fall 2020,CSCI,240,Computer Org & Assembly Lang,33,"FRARY, N",40,1,4,6,6,6,3,0,2,2,0,0,0,7,3,3.289285714
+Fall 2020,CSCI,240,Computer Org & Assembly Lang,34,"YEH, J",40,0,6,2,4,4,9,1,0,7,0,0,0,5,2,3.2
+Fall 2020,CSCI,240,Computer Org & Assembly Lang,15,"FLUTURE, S",39,0,1,1,0,3,2,0,1,6,1,0,0,23,1,2.866666667
+Fall 2020,CSCI,240,Computer Org & Assembly Lang,21,"FLUTURE, S",40,1,2,2,0,2,5,3,1,4,0,0,2,14,4,2.655555556
+Fall 2020,CSCI,313,Data Structures,54,"ABRAMOV, M",38,11,5,4,2,2,3,1,0,2,0,0,0,8,0,3.635714286
+Fall 2020,CSCI,313,Data Structures,33,"CHEN, A",38,0,20,4,1,2,0,0,3,4,0,0,1,1,2,3.551612903
+Fall 2020,CSCI,313,Data Structures,22,"FRIED, M",38,0,7,3,10,5,2,3,0,5,0,0,0,3,0,3.313333333
+Fall 2020,CSCI,313,Data Structures,11,"WU, S",38,1,4,3,0,5,1,0,3,12,0,0,0,9,0,3.223529412
+Fall 2020,CSCI,313,Data Structures,26,"YANG, K",38,2,0,4,5,2,2,4,4,9,0,0,0,5,1,2.952173913
+Fall 2020,CSCI,313,Data Structures,37,"YANG, K",35,0,3,2,2,5,2,2,3,7,1,0,0,8,0,2.935
+Fall 2020,CSCI,316,Principles of Programming Lang,21,"KONG, T",40,3,8,4,7,3,1,1,1,2,0,0,1,4,5,3.375862069
+Fall 2020,CSCI,316,Principles of Programming Lang,35,"YUKAWA, K",40,0,2,6,8,10,1,0,0,8,0,0,0,5,0,3.307407407
+Fall 2020,CSCI,316,Principles of Programming Lang,22,"KONG, T",40,2,8,2,14,1,2,2,1,4,0,0,1,1,2,3.290909091
+Fall 2020,CSCI,316,Principles of Programming Lang,33,"KONG, T",40,2,5,3,3,2,10,2,1,7,0,0,0,2,3,3.164285714
+Fall 2020,CSCI,316,Principles of Programming Lang,36,"YUKAWA, K",40,0,2,3,5,8,3,1,1,7,0,0,0,8,2,3.130434783
+Fall 2020,CSCI,316,Principles of Programming Lang,24,"SVITAK, J",40,0,0,0,4,2,3,1,3,22,0,0,1,1,3,2.542857143
+Fall 2020,CSCI,320,Theory of Computation,12,"OBRENIC, B",98,42,23,3,6,5,3,1,1,3,0,0,1,8,2,3.744705882
+Fall 2020,CSCI,320,Theory of Computation,11,"OBRENIC, B",98,8,15,3,8,18,3,0,8,15,0,0,2,15,3,3.193846154
+Fall 2020,CSCI,320,Theory of Computation,33,"BOKLAN, K",98,0,0,1,0,2,1,0,2,5,0,0,7,57,23,1.261538462
+Fall 2020,CSCI,323,Design & Analysis Algorithms,11,"BROWN, T",39,5,12,5,5,3,1,0,0,2,0,0,0,3,3,3.7
+Fall 2020,CSCI,323,Design & Analysis Algorithms,35,"PHILLIPS, T",35,4,2,2,1,2,0,0,0,4,0,0,0,18,2,3.7
+Fall 2020,CSCI,323,Design & Analysis Algorithms,37,"CESARETTI, P",35,0,10,12,6,3,0,0,0,3,0,0,0,1,0,3.651612903
+Fall 2020,CSCI,323,Design & Analysis Algorithms,34,"YUAN, C",40,1,2,4,6,6,6,4,2,7,0,0,0,1,1,3.032258065
+Fall 2020,CSCI,323,Design & Analysis Algorithms,23,"GOSWAMI, M",37,0,3,2,1,3,5,0,1,8,0,0,1,4,9,2.95
+Fall 2020,CSCI,323,Design & Analysis Algorithms,22,"GOSWAMI, M",40,0,2,1,1,5,1,2,1,10,0,0,1,8,8,2.807142857
+Fall 2020,CSCI,323,Design & Analysis Algorithms,36,"PHILLIPS, T",33,1,0,0,0,1,1,0,0,10,0,0,1,15,4,2.425
+Fall 2020,CSCI,331,Database Systems,15,"HELLER, P",35,2,3,5,7,4,1,1,0,5,0,0,0,7,0,3.417391304
+Fall 2020,CSCI,331,Database Systems,32,"LEAVITT, D",35,0,10,0,2,3,3,2,0,9,0,0,0,5,1,3.415
+Fall 2020,CSCI,331,Database Systems,11,"OBRENIC, B",50,6,5,2,2,10,2,2,1,13,0,0,0,7,0,3.333333333
+Fall 2020,CSCI,331,Database Systems,14,"HELLER, P",35,3,0,6,5,4,2,5,0,3,0,0,0,7,0,3.184
+Fall 2020,CSCI,334,Data Mining and Warehousing,14,"SY, B",34,0,3,4,6,1,3,0,0,6,0,0,0,10,1,3.394117647
+Fall 2020,CSCI,335,Information Org and Retrieval,31,"GOLDBERG, R",37,1,5,8,4,2,0,2,1,10,0,0,0,3,1,3.452173913
+Fall 2020,CSCI,340,Operating Systems Principles,27,"SVITAK, J",40,1,4,4,1,1,1,3,1,20,0,0,0,1,3,3.29375
+Fall 2020,CSCI,340,Operating Systems Principles,26,"SVADLENKA, J",37,1,1,1,1,1,1,1,0,12,0,0,0,9,9,3.285714286
+Fall 2020,CSCI,340,Operating Systems Principles,22,"FLUTURE, S",40,3,4,3,0,4,4,0,0,8,0,0,1,10,3,3.257894737
+Fall 2020,CSCI,340,Operating Systems Principles,14,"SVADLENKA, J",39,0,5,0,1,3,1,1,0,11,0,0,1,5,11,3.108333333
+Fall 2020,CSCI,340,Operating Systems Principles,25,"FLUTURE, S",40,0,2,2,1,3,1,0,1,10,1,0,0,15,4,3.1
+Fall 2020,CSCI,340,Operating Systems Principles,21,"SVITAK, J",40,0,2,1,0,5,1,0,1,24,0,1,3,0,2,2.314285714
+Fall 2020,CSCI,340,Operating Systems Principles,33,"SVADLENKA, J",40,0,3,0,1,4,2,0,0,13,0,0,5,5,7,2.18
+Fall 2020,CSCI,343,Computer Architecture,15,"RAHMAN, M",40,8,8,8,3,6,2,0,1,3,0,0,0,1,0,3.580555556
+Fall 2020,CSCI,343,Computer Architecture,13,"RAHMAN, M",39,6,4,4,3,9,4,1,1,4,0,0,0,2,1,3.3375
+Fall 2020,CSCI,343,Computer Architecture,26,"SMITH-THOMPSON, A",40,0,4,3,4,4,2,1,2,16,0,1,0,2,1,3.095238095
+Fall 2020,CSCI,343,Computer Architecture,11,"SVITAK, J",34,0,3,0,0,0,4,1,1,18,0,0,0,2,5,3.011111111
+Fall 2020,CSCI,343,Computer Architecture,12,"SMITH-THOMPSON, A",40,0,0,6,2,2,0,1,2,23,0,1,0,1,2,3.007142857
+Fall 2020,CSCI,343,Computer Architecture,37,"SVITAK, J",33,0,2,4,2,8,1,2,3,6,0,1,1,2,1,2.820833333
+Fall 2020,CSCI,343,Computer Architecture,14,"SMITH-THOMPSON, A",40,1,1,1,1,6,2,0,3,20,0,0,2,0,3,2.611764706
+Fall 2020,CSCI,344,Distributed Systems,10,"FLUTURE, S",25,1,0,3,1,0,0,2,0,3,0,0,0,15,0,3.285714286
+Fall 2020,CSCI,355,Internet and Web Technologies,33,"LAW, R",35,3,5,1,0,0,2,0,0,3,0,0,1,14,6,3.425
+Fall 2020,CSCI,355,Internet and Web Technologies,32,"LAW, R",36,5,2,0,2,2,2,2,0,6,0,0,0,8,7,3.373333333
+Fall 2020,CSCI,355,Internet and Web Technologies,36,"LAW, R",36,6,4,1,2,2,0,1,0,3,0,0,2,10,5,3.255555556
+Fall 2020,CSCI,355,Internet and Web Technologies,37,"LAW, R",34,3,1,1,0,0,0,0,0,3,0,1,1,17,7,2.957142857
+Fall 2020,CSCI,355,Internet and Web Technologies,31,"LAW, R",34,2,0,1,2,1,0,0,0,6,0,0,3,16,3,2.366666667
+Fall 2020,CSCI,363,Artificial Intelligence,33,"YUAN, C",36,0,1,4,0,5,2,0,0,13,0,0,1,9,1,3.015384615
+Fall 2020,CSCI,370,Software Engineering,55,"ABREU, A",36,0,7,5,6,0,2,0,0,5,0,1,0,7,3,3.461904762
+Fall 2020,CSCI,370,Software Engineering,33,"ABREU, A",36,0,6,8,2,8,1,1,0,7,0,0,0,3,0,3.430769231
+Fall 2020,CSCI,370,Software Engineering,34,"ABREU, A",36,0,5,6,7,3,1,0,0,3,0,0,2,7,2,3.208333333
+Fall 2020,CSCI,370,Software Engineering,11,"GOLDBERG, R",31,0,3,4,5,3,4,0,0,8,0,0,2,2,0,3.004761905
+Fall 2020,CSCI,370,Software Engineering,27,"SVADLENKA, J",35,1,3,1,2,2,3,0,2,4,1,0,1,8,7,2.88125
+Fall 2020,CSCI,370,Software Engineering,16,"SY, B",27,0,0,2,4,6,1,1,3,1,0,0,1,6,2,2.755555556
+Fall 2020,CSCI,370,Software Engineering,22,"SVADLENKA, J",34,1,2,2,4,4,1,1,0,6,0,0,3,6,4,2.755555556
+Fall 2020,CSCI,381,VT: Special Topics in Comp Sci,15,"HELLER, P",30,5,7,6,7,2,0,0,0,1,0,0,0,1,1,3.677777778
+Fall 2020,CSCI,381,VT: Special Topics in Comp Sci,32,"GOSWAMI, M",36,0,6,0,2,2,4,0,0,8,0,0,0,11,3,3.385714286
+Fall 2020,CSCI,381,VT: Special Topics in Comp Sci,30,"PANG, C",35,0,3,11,9,8,0,1,1,2,0,0,0,0,0,3.354545455
+Fall 2020,CSCI,381,VT: Special Topics in Comp Sci,34,"TSAI, C",37,5,0,3,2,1,4,0,1,6,0,0,0,12,3,3.34375
+Fall 2020,CSCI,381,VT: Special Topics in Comp Sci,13,"GOLDBERG, R",37,1,5,4,7,2,3,0,3,12,0,0,0,0,0,3.28
+Fall 2020,CSCI,381,VT: Special Topics in Comp Sci,23,"PHILLIPS, T",31,4,1,0,2,3,1,1,1,5,0,0,0,12,1,3.276923077
+Fall 2020,CSCI,381,VT: Special Topics in Comp Sci,22,"TSAI, C",37,5,0,1,3,5,1,0,2,10,0,0,0,9,1,3.252941176
+Fall 2020,CSCI,381,VT: Special Topics in Comp Sci,51,"WAXMAN, J",36,5,0,2,4,1,5,2,1,11,0,0,0,5,0,3.185
+Fall 2020,CSCI,381,VT: Special Topics in Comp Sci,12,"BROWN, T",39,1,4,2,2,6,6,3,1,12,0,0,0,1,1,3.084
+Fall 2020,CSCI,381,VT: Special Topics in Comp Sci,21,"ROZOVSKAYA, A",37,0,4,2,1,4,1,5,1,16,0,0,0,3,0,3.05
+Fall 2020,CSCI,722,Computability and Complexity,38,"YUKAWA, K",28,1,1,3,5,3,3,0,0,6,0,0,0,1,5,3.29375
+,,,,,,,,,,,,,,,,,,,,,
+Term,Subject,Course Number,Course Description,Class Section,Instructor,Total Enrolled,A+,A,A-,B+,B,B-,C+,C,P,C-,D,F,Withdrawal,Inc/No Grade,Average GPA
+Spring 2020,CSCI,12,Intro Computers & Computation,21,"WAXMAN, J",135,9,33,20,5,15,4,1,3,16,1,5,1,10,12,3.394845361
+Spring 2020,CSCI,12,Intro Computers & Computation,42,"NIXON, D",22,0,0,1,2,3,1,0,1,0,0,0,0,9,5,3
+Spring 2020,CSCI,12,Intro Computers & Computation,21A,"HUANG, X",13,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0
+Spring 2020,CSCI,12,Intro Computers & Computation,21B,"HUANG, X",30,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0
+Spring 2020,CSCI,12,Intro Computers & Computation,21C,"HUANG, X",24,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0
+Spring 2020,CSCI,12,Intro Computers & Computation,21D,"LANDAU, G",24,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0
+Spring 2020,CSCI,12,Intro Computers & Computation,21E,"LANDAU, G",24,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0
+Spring 2020,CSCI,12,Intro Computers & Computation,21F,"LANDAU, G",20,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0
+Spring 2020,CSCI,12,Intro Computers & Computation,42A,"NIXON, D",23,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0
+Spring 2020,CSCI,48,Spreadsheet Programming,45,"GREENBERG, A",30,1,13,3,4,5,0,0,0,2,0,0,0,1,1,3.665384615
+Spring 2020,CSCI,48,Spreadsheet Programming,11,"FRIED, M",90,1,15,19,20,16,4,1,0,6,0,0,0,5,3,3.439473684
+Spring 2020,CSCI,48,Spreadsheet Programming,32,"GOLDBERG, R",30,2,4,4,6,1,0,1,0,4,0,0,1,3,4,3.363157895
+Spring 2020,CSCI,48,Spreadsheet Programming,44,"MIAH, A",30,1,2,1,0,1,1,1,3,14,0,0,0,5,1,2.97
+Spring 2020,CSCI,48,Spreadsheet Programming,43,"MIAH, A",30,1,1,1,6,3,1,3,1,6,1,0,1,4,1,2.831578947
+Spring 2020,CSCI,48,Spreadsheet Programming,11A,"FRIED, M",30,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0
+Spring 2020,CSCI,48,Spreadsheet Programming,11B,"FRIED, M",30,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0
+Spring 2020,CSCI,48,Spreadsheet Programming,11C,"JAGDEO, M",30,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0
+Spring 2020,CSCI,48,Spreadsheet Programming,32A,"JAGDEO, M",30,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0
+Spring 2020,CSCI,48,Spreadsheet Programming,43A,"JAGDEO, M",30,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0
+Spring 2020,CSCI,48,Spreadsheet Programming,44A,"MIAH, A",30,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0
+Spring 2020,CSCI,48,Spreadsheet Programming,45A,"GREENBERG, A",30,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0
+Spring 2020,CSCI,90,Topics in Computing,33,"CONNOR, T",18,6,6,0,0,3,0,0,0,1,0,0,1,1,0,3.5625
+Spring 2020,CSCI,100,Information and Intelligence,34,"CASTRO, R",20,0,6,4,2,1,1,1,1,2,0,0,0,0,2,3.4625
+Spring 2020,CSCI,111,Intro Algorithmic Problem Solv,23,"YANG, K",91,3,7,7,9,14,9,3,1,18,1,0,0,15,4,3.194444444
+Spring 2020,CSCI,111,Intro Algorithmic Problem Solv,22,"YANG, K",90,2,6,7,7,6,8,8,1,20,5,1,0,18,1,2.950980392
+Spring 2020,CSCI,111,Intro Algorithmic Problem Solv,21,"YANG, K",103,0,3,7,8,15,16,7,4,21,0,1,1,19,1,2.864516129
+Spring 2020,CSCI,111,Intro Algorithmic Problem Solv,34,"GREENBERG, A",53,2,9,2,2,4,5,2,1,9,1,0,6,4,6,2.7
+Spring 2020,CSCI,111,Intro Algorithmic Problem Solv,21A,"ZHANG, X",24,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0
+Spring 2020,CSCI,111,Intro Algorithmic Problem Solv,21B,"WU, S",25,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0
+Spring 2020,CSCI,111,Intro Algorithmic Problem Solv,21C,"ZHAO, Y",24,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0
+Spring 2020,CSCI,111,Intro Algorithmic Problem Solv,21D,"WHITE, M",30,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0
+Spring 2020,CSCI,111,Intro Algorithmic Problem Solv,22A,"ZHAO, Y",27,0,0,0,0,0,0,0,0,0,0,0,0,0,27,0
+Spring 2020,CSCI,111,Intro Algorithmic Problem Solv,22B,"ZHAO, Y",14,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0
+Spring 2020,CSCI,111,Intro Algorithmic Problem Solv,22C,"YANG, J",19,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0
+Spring 2020,CSCI,111,Intro Algorithmic Problem Solv,22D,"MAGOULIS, M",30,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0
+Spring 2020,CSCI,111,Intro Algorithmic Problem Solv,23A,"SCHLEY, R",25,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0
+Spring 2020,CSCI,111,Intro Algorithmic Problem Solv,23B,"MAGOULIS, M",30,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0
+Spring 2020,CSCI,111,Intro Algorithmic Problem Solv,23C,"ZHAO, Y",14,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0
+Spring 2020,CSCI,111,Intro Algorithmic Problem Solv,23D,"WU, S",23,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0
+Spring 2020,CSCI,111,Intro Algorithmic Problem Solv,34A,"GREENBERG, A",30,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0
+Spring 2020,CSCI,111,Intro Algorithmic Problem Solv,34B,"CHEN, C",23,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0
+Spring 2020,CSCI,211,Object-Oriented Program in C++,21,"WAXMAN, J",156,8,6,8,7,9,6,2,4,62,0,2,6,16,20,2.870689655
+Spring 2020,CSCI,211,Object-Oriented Program in C++,22,"WAXMAN, J",159,9,9,4,7,12,7,5,10,45,2,6,4,19,20,2.742666667
+Spring 2020,CSCI,211,Object-Oriented Program in C++,33,"ALAYEV, Y",18,1,0,0,0,1,0,0,0,4,0,1,0,6,5,2.666666667
+Spring 2020,CSCI,211,Object-Oriented Program in C++,21A,"TSE, C",24,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0
+Spring 2020,CSCI,211,Object-Oriented Program in C++,21B,"SUN, Y",25,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0
+Spring 2020,CSCI,211,Object-Oriented Program in C++,21C,"CERVERIZZO, E",28,0,0,0,0,0,0,0,0,0,0,0,0,0,28,0
+Spring 2020,CSCI,211,Object-Oriented Program in C++,21D,"CERVERIZZO, E",25,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0
+Spring 2020,CSCI,211,Object-Oriented Program in C++,21E,"SUN, Y",24,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0
+Spring 2020,CSCI,211,Object-Oriented Program in C++,21F,"TSE, C",30,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0
+Spring 2020,CSCI,211,Object-Oriented Program in C++,22A,"ZHANG, G",28,0,0,0,0,0,0,0,0,0,0,0,0,0,28,0
+Spring 2020,CSCI,211,Object-Oriented Program in C++,22B,"YANG, J",24,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0
+Spring 2020,CSCI,211,Object-Oriented Program in C++,22C,"SUN, Y",25,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0
+Spring 2020,CSCI,211,Object-Oriented Program in C++,22D,"CERVERIZZO, E",24,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0
+Spring 2020,CSCI,211,Object-Oriented Program in C++,22E,"TSE, C",28,0,0,0,0,0,0,0,0,0,0,0,0,0,28,0
+Spring 2020,CSCI,211,Object-Oriented Program in C++,22F,"SUN, Y",30,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0
+Spring 2020,CSCI,211,Object-Oriented Program in C++,33B,"TSE, C",18,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0
+Spring 2020,CSCI,212,Object-Oriented Prog in Java,12,"LORD, K",163,13,24,13,13,16,10,6,7,25,1,2,1,23,9,3.259433962
+Spring 2020,CSCI,212,Object-Oriented Prog in Java,33,"WANG, R",36,2,4,4,4,3,2,2,0,7,0,0,1,5,2,3.227272727
+Spring 2020,CSCI,212,Object-Oriented Prog in Java,21,"LORD, K",158,15,16,14,9,20,10,4,5,27,0,1,4,20,13,3.190816327
+Spring 2020,CSCI,212,Object-Oriented Prog in Java,12A,"WANG, C",25,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0
+Spring 2020,CSCI,212,Object-Oriented Prog in Java,12B,"WANG, C",25,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0
+Spring 2020,CSCI,212,Object-Oriented Prog in Java,12C,"KIM, S",30,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0
+Spring 2020,CSCI,212,Object-Oriented Prog in Java,12D,"ZHENG, H",30,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0
+Spring 2020,CSCI,212,Object-Oriented Prog in Java,12E,"KIM, S",24,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0
+Spring 2020,CSCI,212,Object-Oriented Prog in Java,12F,"MAGOULIS, M",29,0,0,0,0,0,0,0,0,0,0,0,0,0,29,0
+Spring 2020,CSCI,212,Object-Oriented Prog in Java,21A,"WANG, C",30,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0
+Spring 2020,CSCI,212,Object-Oriented Prog in Java,21B,"ZHENG, H",30,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0
+Spring 2020,CSCI,212,Object-Oriented Prog in Java,21C,"WANG, C",25,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0
+Spring 2020,CSCI,212,Object-Oriented Prog in Java,21D,"KIM, S",19,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0
+Spring 2020,CSCI,212,Object-Oriented Prog in Java,21E,"KIM, S",30,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0
+Spring 2020,CSCI,212,Object-Oriented Prog in Java,21F,"ZHENG, H",25,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0
+Spring 2020,CSCI,212,Object-Oriented Prog in Java,33B,"WANG, R",36,0,0,0,0,0,0,0,0,0,0,0,0,0,36,0
+Spring 2020,CSCI,220,Discrete Structures,32,"KONG, T",40,0,6,3,3,8,3,0,1,7,0,0,0,3,6,3.295833333
+Spring 2020,CSCI,220,Discrete Structures,13,"WHITE, M",38,0,2,5,2,2,2,1,2,17,0,0,0,0,5,3.175
+Spring 2020,CSCI,220,Discrete Structures,24,"WHITE, M",38,3,0,4,5,4,2,0,2,14,1,0,1,0,2,3.018181818
+Spring 2020,CSCI,220,Discrete Structures,11,"WANG, X",38,0,2,2,1,4,0,2,1,10,0,1,2,8,5,2.553333333
+Spring 2020,CSCI,220,Discrete Structures,35,"BOKLAN, K",97,0,2,0,2,0,0,0,5,5,0,0,2,56,25,2.236363636
+Spring 2020,CSCI,240,Computer Org & Assembly Lang,34,"FRARY, N",35,3,5,4,5,3,2,2,0,6,0,0,0,2,3,3.429166667
+Spring 2020,CSCI,240,Computer Org & Assembly Lang,32,"YEH, J",33,0,8,2,3,7,9,1,0,2,0,0,0,1,0,3.23
+Spring 2020,CSCI,240,Computer Org & Assembly Lang,36,"YEH, J",35,1,3,3,6,5,4,2,1,9,0,0,0,0,1,3.172
+Spring 2020,CSCI,240,Computer Org & Assembly Lang,23,"FLUTURE, S",64,1,5,1,3,1,4,1,3,24,1,0,0,16,4,3.07
+Spring 2020,CSCI,240,Computer Org & Assembly Lang,11,"FLUTURE, S",43,4,1,0,3,1,4,0,4,7,0,0,0,10,9,3.041176471
+Spring 2020,CSCI,240,Computer Org & Assembly Lang,35,"FRARY, N",35,0,1,0,3,5,6,2,4,8,0,0,1,2,3,2.622727273
+Spring 2020,CSCI,313,Data Structures,37,"YANG, K",24,2,3,4,3,1,0,0,0,7,0,0,0,3,1,3.669230769
+Spring 2020,CSCI,313,Data Structures,51,"YANG, K",24,1,6,3,3,2,4,0,0,2,0,0,0,2,1,3.463157895
+Spring 2020,CSCI,313,Data Structures,32,"CHEN, A",33,0,12,2,5,2,1,0,1,6,0,0,1,1,2,3.441666667
+Spring 2020,CSCI,313,Data Structures,52,"ABRAMOV, M",33,6,2,4,4,2,4,2,2,3,0,0,0,3,1,3.284615385
+Spring 2020,CSCI,313,Data Structures,31,"WHITE, M",33,4,0,3,0,3,2,1,2,11,0,0,0,2,5,3.186666667
+Spring 2020,CSCI,313,Data Structures,26,"YANG, K",33,1,3,5,5,6,6,2,1,3,0,0,0,0,1,3.165517241
+Spring 2020,CSCI,313,Data Structures,15,"TSAI, C",30,2,1,1,0,0,0,0,0,8,0,0,1,4,13,3.14
+Spring 2020,CSCI,313,Data Structures,33,"WHITE, M",33,3,2,0,1,0,3,0,2,14,0,1,1,4,2,2.8
+Spring 2020,CSCI,316,Principles of Programming Lang,21,"KONG, T",39,1,14,0,9,1,1,0,0,6,0,0,0,2,5,3.669230769
+Spring 2020,CSCI,316,Principles of Programming Lang,33,"KONG, T",39,0,12,3,8,1,2,0,2,6,0,0,0,2,3,3.496428571
+Spring 2020,CSCI,316,Principles of Programming Lang,22,"KONG, T",39,0,9,4,4,4,3,1,1,4,0,0,1,1,7,3.274074074
+Spring 2020,CSCI,316,Principles of Programming Lang,36,"YUKAWA, K",37,0,3,2,3,6,5,0,2,13,0,0,0,1,2,3.085714286
+Spring 2020,CSCI,316,Principles of Programming Lang,35,"YUKAWA, K",39,0,2,2,3,6,5,1,1,11,0,0,1,4,3,2.90952381
+Spring 2020,CSCI,316,Principles of Programming Lang,24,"SVITAK, J",35,0,0,1,3,2,2,3,2,14,0,1,1,3,3,2.46
+Spring 2020,CSCI,320,Theory of Computation,12,"OBRENIC, B",102,23,19,8,6,20,3,4,2,15,0,0,0,0,2,3.514117647
+Spring 2020,CSCI,320,Theory of Computation,11,"OBRENIC, B",102,12,21,6,6,20,7,1,3,16,0,0,0,2,8,3.436842105
+Spring 2020,CSCI,320,Theory of Computation,33,"BOKLAN, K",100,1,0,0,2,5,2,0,8,10,0,0,4,44,24,2.136363636
+Spring 2020,CSCI,323,Design & Analysis Algorithms,34,"PHILLIPS, T",23,3,2,0,1,3,1,0,0,3,0,0,0,8,2,3.5
+Spring 2020,CSCI,323,Design & Analysis Algorithms,12,"TEITELMAN, L",99,5,22,10,13,18,1,0,8,14,0,0,0,5,3,3.384415584
+Spring 2020,CSCI,323,Design & Analysis Algorithms,21,"BROWN, T",36,4,8,2,1,8,3,1,4,4,0,0,1,0,0,3.159375
+Spring 2020,CSCI,323,Design & Analysis Algorithms,33,"PHILLIPS, T",36,3,4,3,1,4,3,0,0,7,0,0,2,8,1,3.125
+Spring 2020,CSCI,323,Design & Analysis Algorithms,35,"YUKAWA, K",36,0,0,0,3,2,5,3,1,9,1,0,0,7,5,2.666666667
+Spring 2020,CSCI,331,Database Systems,11,"OBRENIC, B",35,17,3,3,2,1,0,1,1,4,0,0,0,3,0,3.75
+Spring 2020,CSCI,331,Database Systems,26,"HELLER, P",32,4,2,3,0,6,1,0,0,7,0,0,0,9,0,3.4875
+Spring 2020,CSCI,331,Database Systems,14,"HELLER, P",32,0,6,4,4,1,3,1,3,7,0,0,0,3,0,3.245454545
+Spring 2020,CSCI,331,Database Systems,15,"HELLER, P",32,4,3,2,1,6,8,0,1,4,0,0,0,3,0,3.212
+Spring 2020,CSCI,331,Database Systems,13,"HELLER, P",32,3,3,0,3,3,3,1,2,5,0,0,0,9,0,3.183333333
+Spring 2020,CSCI,331,Database Systems,32,"LEAVITT, D",35,0,4,1,2,4,3,4,1,7,0,0,0,7,2,3.031578947
+Spring 2020,CSCI,335,Information Org and Retrieval,31,"GOLDBERG, R",32,0,5,2,3,3,4,4,2,7,0,0,0,2,0,3.056521739
+Spring 2020,CSCI,340,Operating Systems Principles,25,"FLUTURE, S",35,1,4,3,1,0,1,0,2,21,0,0,0,2,0,3.425
+Spring 2020,CSCI,340,Operating Systems Principles,22,"SVITAK, J",35,3,2,3,8,3,3,0,1,10,0,0,0,1,1,3.330434783
+Spring 2020,CSCI,340,Operating Systems Principles,27,"SVITAK, J",35,0,5,2,7,8,5,0,0,5,0,0,0,2,1,3.259259259
+Spring 2020,CSCI,340,Operating Systems Principles,23,"FLUTURE, S",35,0,3,3,2,1,5,2,0,13,0,0,0,1,5,3.175
+Spring 2020,CSCI,340,Operating Systems Principles,11,"SVADLENKA, J",33,1,3,1,1,5,2,0,1,11,0,0,1,5,2,3.026666667
+Spring 2020,CSCI,340,Operating Systems Principles,34,"SVADLENKA, J",33,1,3,2,0,2,0,3,2,9,0,0,2,5,4,2.686666667
+Spring 2020,CSCI,340,Operating Systems Principles,26,"SVADLENKA, J",33,0,4,2,1,4,3,0,2,6,0,2,2,4,3,2.64
+Spring 2020,CSCI,343,Computer Architecture,13,"SMITH-THOMPSON, A",36,2,9,0,4,6,0,0,2,10,0,0,0,2,1,3.443478261
+Spring 2020,CSCI,343,Computer Architecture,12,"SMITH-THOMPSON, A",36,1,6,3,6,2,1,1,1,14,0,0,0,0,1,3.423809524
+Spring 2020,CSCI,343,Computer Architecture,24,"SMITH-THOMPSON, A",36,3,4,4,1,4,0,2,1,17,0,0,0,0,0,3.405263158
+Spring 2020,CSCI,343,Computer Architecture,35,"SVITAK, J",33,0,1,1,1,3,3,3,2,12,1,0,0,4,2,2.713333333
+Spring 2020,CSCI,343,Computer Architecture,11,"SVITAK, J",34,0,1,0,1,4,1,2,3,15,1,1,0,4,1,2.521428571
+Spring 2020,CSCI,343,Computer Architecture,16,"WU, S",36,1,2,2,0,3,3,1,1,15,0,3,2,3,0,2.433333333
+Spring 2020,CSCI,344,Distributed Systems,10,"FLUTURE, S",18,0,2,1,1,0,0,2,0,5,0,0,0,6,1,3.266666667
+Spring 2020,CSCI,355,Internet and Web Technologies,12,"TEITELMAN, L",35,1,10,6,6,4,2,0,0,5,0,0,0,1,0,3.565517241
+Spring 2020,CSCI,355,Internet and Web Technologies,11,"TEITELMAN, L",35,1,11,7,2,5,4,0,0,1,0,0,0,3,1,3.543333333
+Spring 2020,CSCI,355,Internet and Web Technologies,15,"TEITELMAN, L",35,3,8,5,2,4,3,0,1,5,0,0,0,2,2,3.507692308
+Spring 2020,CSCI,355,Internet and Web Technologies,26,"TEITELMAN, L",35,3,7,6,6,3,2,0,2,4,0,0,0,2,0,3.462068966
+Spring 2020,CSCI,355,Internet and Web Technologies,33,"LAW, R",32,3,2,2,1,2,2,0,2,5,0,0,1,7,5,3.073333333
+Spring 2020,CSCI,355,Internet and Web Technologies,34,"LAW, R",30,3,0,1,2,1,1,2,2,2,0,0,0,6,10,3.05
+Spring 2020,CSCI,355,Internet and Web Technologies,37,"LAW, R",31,1,0,3,2,3,0,1,0,0,0,0,4,10,7,2.357142857
+Spring 2020,CSCI,361,Numerical Methods,32,"MANE, S",30,3,1,9,3,5,3,0,0,5,0,0,0,1,0,3.429166667
+Spring 2020,CSCI,361,Numerical Methods,24,"MANE, S",30,5,4,7,0,4,2,0,3,4,0,0,0,1,0,3.412
+Spring 2020,CSCI,370,Software Engineering,25,"MANE, S",35,5,9,8,3,1,2,0,1,3,0,0,0,3,0,3.651724138
+Spring 2020,CSCI,370,Software Engineering,51,"ABREU, A",35,0,12,2,3,4,2,0,0,10,0,0,0,1,1,3.595652174
+Spring 2020,CSCI,370,Software Engineering,37,"MANE, S",35,3,7,3,3,1,2,1,2,10,0,0,0,3,0,3.440909091
+Spring 2020,CSCI,370,Software Engineering,11,"GOLDBERG, R",35,1,8,11,4,3,4,1,0,1,0,0,1,1,0,3.393939394
+Spring 2020,CSCI,370,Software Engineering,14,"SY, B",17,0,0,1,1,2,5,0,0,3,0,0,0,4,1,2.944444444
+Spring 2020,CSCI,370,Software Engineering,22,"SVADLENKA, J",34,3,2,1,4,2,2,2,1,7,2,0,1,3,4,2.915
+Spring 2020,CSCI,370,Software Engineering,26,"SVADLENKA, J",34,0,2,1,5,5,3,3,0,2,0,0,2,9,2,2.771428571
+Spring 2020,CSCI,381,VT: Special Topics in Comp Sci,26,"PHILLIPS, T",26,5,0,0,0,1,1,0,0,10,0,0,0,7,2,3.671428571
+Spring 2020,CSCI,381,VT: Special Topics in Comp Sci,33,"ALARCON RAMIREZ, A",30,3,11,1,7,1,0,1,0,3,0,0,0,2,1,3.670833333
+Spring 2020,CSCI,381,VT: Special Topics in Comp Sci,25,"MANE, S",30,6,4,8,2,1,1,0,1,7,0,0,0,0,0,3.647826087
+Spring 2020,CSCI,381,VT: Special Topics in Comp Sci,30,"PANG, C",35,1,9,5,8,7,2,0,0,3,0,0,0,0,0,3.478125
+Spring 2020,CSCI,381,VT: Special Topics in Comp Sci,13,"GOLDBERG, R",32,0,6,5,4,5,7,0,0,3,0,0,0,2,0,3.318518519
+Spring 2020,CSCI,381,VT: Special Topics in Comp Sci,23,"TSAI, C",30,1,2,1,4,2,1,0,1,4,0,0,0,10,4,3.3
+Spring 2020,CSCI,381,VT: Special Topics in Comp Sci,22,"WAXMAN, J",32,2,2,4,6,3,2,1,1,7,0,0,0,3,1,3.3
+Spring 2020,CSCI,381,VT: Special Topics in Comp Sci,12,"BROWN, T",32,0,8,3,3,5,1,1,3,4,0,0,0,3,1,3.291666667
+Spring 2020,CSCI,381,VT: Special Topics in Comp Sci,21,"ROZOVSKAYA, A",32,2,1,5,3,3,4,2,0,10,0,0,0,1,1,3.24
+Spring 2020,CSCI,381,VT: Special Topics in Comp Sci,14,"SY, B",20,0,2,1,1,2,5,0,2,5,0,0,0,2,0,2.961538462
+Spring 2020,CSCI,715,Distributed Computing,10,"FLUTURE, S",10,0,1,1,2,0,0,0,0,6,0,0,0,0,0,3.575
