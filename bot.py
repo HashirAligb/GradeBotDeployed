@@ -4,7 +4,6 @@ import matplotlib.pyplot as plt
 import json
 import os
 from dotenv import load_dotenv
-# Potentially keep this commented out if you don't need it for local testing anymore
 #from keep_alive import keep_alive
 
 load_dotenv()
