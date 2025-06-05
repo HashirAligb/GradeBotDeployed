@@ -51,18 +51,13 @@ def create_chart(grades, name, course_name=None):
 async def grades(ctx, *, args: str):
     print(f"Received command: {args}")
     parts = args.strip().split()
-    if len(parts) < 3:
-        await ctx.send("Please provide a course number, professor's last name, and term (e.g., !grades 111 BOKLAN FA24)")
+    if len(parts) < 2:
+        await ctx.send("Please provide at least a course number and professor's last name (e.g., !grades 111 BOKLAN)")
         return
 
     # Parse arguments
-    course_nbr_input = parts[0]
+    course_nbr_input = parts[0].strip()
     prof_last_name_input = parts[1].strip().upper()
-    term_input_raw = parts[2].strip()
-    
-    # Normalize the input term
-    term_lookup_key = normalize_term(term_input_raw)
-    
 
     # Load the JSON data
     try:
@@ -74,7 +69,7 @@ async def grades(ctx, *, args: str):
         return
 
     # Find matching course data
-    matching_key = None
+    matching_entries = []
     for key in data:
         # Split from right to handle potential commas in professor names
         parts = key.rsplit(', ', 2) 
@@ -88,18 +83,41 @@ async def grades(ctx, *, args: str):
             
         # Compare using the normalized input term
         if (course.strip() == course_nbr_input and 
-            prof.split(',')[0].strip().upper() == prof_last_name_input and 
-            term == term_lookup_key):
-            matching_key = key
-            break
+            prof.split(',')[0].strip().upper() == prof_last_name_input):
+            matching_entries.append(data[key])
 
-    if not matching_key:
-        # Provide feedback including the normalized term attempted
-        await ctx.send(f"No data found for CSCI {course_nbr_input} with Professor {prof_last_name_input} in {term_input_raw} (looked for {term_lookup_key})")
+    if not matching_entries:
+        await ctx.send(f"No data found for CSCI {course_nbr_input} with Professor {prof_last_name_input} in any term.")
         return
 
-    course_data = data[matching_key]
-    
+    # If term is not provided, list available terms
+    if len(parts) == 2:
+        available_terms = sorted(list(set([entry['term'] for entry in matching_entries])))
+        terms_list = ", ".join(available_terms)
+        await ctx.send(f"Data available for CSCI {course_nbr_input} with Professor {prof_last_name_input} in the following terms: {terms_list}")
+        return
+
+    # If term is provided, proceed with lookup for the specific term
+    term_input_raw = parts[2].strip()
+    term_lookup_key = normalize_term(term_input_raw)
+
+    matching_entry = None
+    for entry in matching_entries:
+        if entry['term'] == term_lookup_key:
+            matching_entry = entry
+            break
+
+    if not matching_entry:
+        available_terms = sorted(list(set([entry['term'] for entry in matching_entries])))
+        terms_list = ", ".join(available_terms)
+        response = f"No data found for CSCI {course_nbr_input} with Professor {prof_last_name_input} in {term_input_raw} (looked for {term_lookup_key})."
+        if available_terms:
+             response += f" Data is available for the following terms: {terms_list}"
+        await ctx.send(response)
+        return
+
+    course_data = matching_entry
+
     # Create and send the chart
     create_chart(course_data['grades'], course_data['name'], f"CSCI {course_data['course']}")
     file = discord.File("grade_chart.png")
