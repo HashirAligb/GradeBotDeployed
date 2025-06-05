@@ -59,6 +59,11 @@ async def grades(ctx, *, args: str):
     course_nbr_input = parts[0].strip()
     prof_last_name_input = parts[1].strip().upper()
 
+    # Store the raw term input if provided
+    term_input_raw = None
+    if len(parts) >= 3:
+        term_input_raw = parts[2].strip().upper()
+
     # Load the JSON data
     try:
         with open('grades.json', 'r') as f:
@@ -70,21 +75,24 @@ async def grades(ctx, *, args: str):
 
     # Find matching course data
     matching_entries = []
+    available_terms = []  # Track available terms for error message
+
     for key in data:
         # Split from right to handle potential commas in professor names
-        parts = key.rsplit(', ', 2)
-        if len(parts) == 3:
-            prof, course, term = parts
-        elif len(parts) == 2: # Handle cases where there\'s no comma in prof name
-            prof, course_term = parts
+        parts_key = key.rsplit(', ', 2)
+        if len(parts_key) == 3:
+            prof, course, term = parts_key
+        elif len(parts_key) == 2:  # Handle cases where there\'s no comma in prof name
+            prof, course_term = parts_key
             course, term = course_term.rsplit(', ', 1)
         else:
-            continue # Skip this key if format is unexpected
+            continue  # Skip this key if format is unexpected
 
-        # Compare using the normalized input term
+        # Check if this matches the course and professor
         if (course.strip() == course_nbr_input and
             prof.split(',')[0].strip().upper() == prof_last_name_input):
             matching_entries.append(data[key])
+            available_terms.append(term.strip())
 
     if not matching_entries:
         await ctx.send(f"No data found for CSCI {course_nbr_input} with Professor {prof_last_name_input} in any term.")
@@ -103,49 +111,34 @@ async def grades(ctx, *, args: str):
         file = discord.File("grade_chart.png")
 
         grade_lines = [f"{grade}: {count}" for grade, count in course_data['grades'].items() if count > 0]
-        grade_text = "\n".join(grade_lines)
-        response = (
-            f"**Professor {course_data['name']} - CSCI {course_data['course']} ({course_data['term']})**\n"
-            f"Average GPA: {course_data['avg_gpa']:.2f}\n\n"
-            f"Grade Breakdown:\n{grade_text}"
-        )
+        response = f"**Grade Distribution for CSCI {course_data['course']} - {course_data['name']} ({course_data['term']})**\n" + "\n".join(grade_lines)
+
         await ctx.send(response, file=file)
         return
 
-    # If term is provided, proceed with lookup for the specific term
-    term_input_raw = parts[2].strip()
-    term_lookup_key = normalize_term(term_input_raw)
+    # If term is provided, look for exact match
+    if term_input_raw:
+        for entry in matching_entries:
+            if entry['term'].upper() == term_input_raw:
+                course_data = entry
 
-    matching_entry = None
-    for entry in matching_entries:
-        if entry['term'] == term_lookup_key:
-            matching_entry = entry
-            break
+                # Create and send the chart and response message
+                create_chart(course_data['grades'], course_data['name'], f"CSCI {course_data['course']}")
+                file = discord.File("grade_chart.png")
 
-    if not matching_entry:
-        available_terms = sorted(list(set([entry['term'] for entry in matching_entries])))
-        terms_list = ", ".join(available_terms)
-        response = f"No data found for CSCI {course_nbr_input} with Professor {prof_last_name_input} for term {term_input_raw}."
-        if available_terms:
-             response += f" Data is available for: {terms_list}"
-        await ctx.send(response)
+                grade_lines = [f"{grade}: {count}" for grade, count in course_data['grades'].items() if count > 0]
+                response = f"**Grade Distribution for CSCI {course_data['course']} - {course_data['name']} ({course_data['term']})**\n" + "\n".join(grade_lines)
+
+                await ctx.send(response, file=file)
+                return
+
+        # If we get here, the term was not found
+        available_terms_unique = sorted(set(available_terms))
+        terms_list = ", ".join(available_terms_unique)
+
+        await ctx.send(f"No data found for CSCI {course_nbr_input} with Professor {prof_last_name_input} for term {term_input_raw}.\n"
+                      f"Available terms for this professor and course: {terms_list}")
         return
-
-    course_data = matching_entry
-
-    # Create and send the chart
-    create_chart(course_data['grades'], course_data['name'], f"CSCI {course_data['course']}")
-    file = discord.File("grade_chart.png")
-
-    # Create response message
-    grade_lines = [f"{grade}: {count}" for grade, count in course_data['grades'].items() if count > 0]
-    grade_text = "\n".join(grade_lines)
-    response = (
-        f"**Professor {course_data['name']} - CSCI {course_data['course']} ({course_data['term']})**\n"
-        f"Average GPA: {course_data['avg_gpa']:.2f}\n\n"
-        f"Grade Breakdown:\n{grade_text}"
-    )
-    await ctx.send(response, file=file)
 
 @bot.event
 async def on_ready():
