@@ -111,7 +111,11 @@ async def grades(ctx, *, args: str):
         file = discord.File("grade_chart.png")
 
         grade_lines = [f"{grade}: {count}" for grade, count in course_data['grades'].items() if count > 0]
-        response = f"**Grade Distribution for CSCI {course_data['course']} - {course_data['name']} ({course_data['term']})**\n" + "\n".join(grade_lines)
+        response = (
+            f"**Grade Distribution for CSCI {course_data['course']} - {course_data['name']} ({course_data['term']})**\n"
+            f"Average GPA: {course_data['avg_gpa']:.2f}\n\n"
+            + "\n".join(grade_lines)
+        )
 
         await ctx.send(response, file=file)
         return
@@ -127,7 +131,11 @@ async def grades(ctx, *, args: str):
                 file = discord.File("grade_chart.png")
 
                 grade_lines = [f"{grade}: {count}" for grade, count in course_data['grades'].items() if count > 0]
-                response = f"**Grade Distribution for CSCI {course_data['course']} - {course_data['name']} ({course_data['term']})**\n" + "\n".join(grade_lines)
+                response = (
+                    f"**Grade Distribution for CSCI {course_data['course']} - {course_data['name']} ({course_data['term']})**\n"
+                    f"Average GPA: {course_data['avg_gpa']:.2f}\n\n"
+                    + "\n".join(grade_lines)
+                )
 
                 await ctx.send(response, file=file)
                 return
