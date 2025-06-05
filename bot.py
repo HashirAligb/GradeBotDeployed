@@ -4,7 +4,6 @@ import matplotlib.pyplot as plt
 import json
 import os
 from dotenv import load_dotenv
-# Potentially keep this commented out if you don't need it for local testing anymore
 #from keep_alive import keep_alive
 
 load_dotenv()
@@ -52,7 +51,7 @@ async def grades(ctx, *, args: str):
     print(f"Received command: {args}")
     parts = args.strip().split()
     if len(parts) < 2:
-        await ctx.send("Please provide at least a course number and professor\'s last name (e.g., !grades 111 BOKLAN)")
+        await ctx.send("Please provide at least a course number and professor's last name (e.g., !grades 111 BOKLAN)")
         return
 
     # Parse arguments
@@ -82,7 +81,7 @@ async def grades(ctx, *, args: str):
         parts_key = key.rsplit(', ', 2)
         if len(parts_key) == 3:
             prof, course, term = parts_key
-        elif len(parts_key) == 2:  # Handle cases where there\'s no comma in prof name
+        elif len(parts_key) == 2:  # Handle cases where there's no comma in prof name
             prof, course_term = parts_key
             course, term = course_term.rsplit(', ', 1)
         else:
@@ -111,7 +110,20 @@ async def grades(ctx, *, args: str):
         file = discord.File("grade_chart.png")
 
         grade_lines = [f"{grade}: {count}" for grade, count in course_data['grades'].items() if count > 0]
-        response = f"**Grade Distribution for CSCI {course_data['course']} - {course_data['name']} ({course_data['term']})**\n" + "\n".join(grade_lines)
+        
+        # Safely get GPA with error handling
+        gpa_text = ""
+        if 'avg_gpa' in course_data and course_data['avg_gpa'] is not None:
+            try:
+                gpa_text = f"Average GPA: {float(course_data['avg_gpa']):.2f}\n\n"
+            except (ValueError, TypeError):
+                gpa_text = ""
+        
+        response = (
+            f"**Grade Distribution for CSCI {course_data['course']} - {course_data['name']} ({course_data['term']})**\n"
+            f"{gpa_text}"
+            + "\n".join(grade_lines)
+        )
 
         await ctx.send(response, file=file)
         return
@@ -127,7 +139,20 @@ async def grades(ctx, *, args: str):
                 file = discord.File("grade_chart.png")
 
                 grade_lines = [f"{grade}: {count}" for grade, count in course_data['grades'].items() if count > 0]
-                response = f"**Grade Distribution for CSCI {course_data['course']} - {course_data['name']} ({course_data['term']})**\n" + "\n".join(grade_lines)
+                
+                # Safely get GPA with error handling
+                gpa_text = ""
+                if 'avg_gpa' in course_data and course_data['avg_gpa'] is not None:
+                    try:
+                        gpa_text = f"Average GPA: {float(course_data['avg_gpa']):.2f}\n\n"
+                    except (ValueError, TypeError):
+                        gpa_text = ""
+                
+                response = (
+                    f"**Grade Distribution for CSCI {course_data['course']} - {course_data['name']} ({course_data['term']})**\n"
+                    f"{gpa_text}"
+                    + "\n".join(grade_lines)
+                )
 
                 await ctx.send(response, file=file)
                 return
@@ -145,7 +170,5 @@ async def on_ready():
     print(f'Logged in as {bot.user} (ID: {bot.user.id})')
     print('------')
 
-# This was likely for Replit, keep commented out for Railway
+# This was for Replit, keepin commented out for Railway
 # keep_alive()
-
-bot.run(TOKEN)  
