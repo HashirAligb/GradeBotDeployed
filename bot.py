@@ -8,7 +8,6 @@ from dotenv import load_dotenv
 
 load_dotenv()
 TOKEN = os.getenv("DISCORD_TOKEN")
-print(f"TOKEN: {repr(TOKEN)}")
 
 intents = discord.Intents.default()
 intents.message_content = True
@@ -32,6 +31,7 @@ def normalize_term(term):
     return term
 
 def create_chart(grades, name, course_name=None):
+    """Draw a bar chart of the grades and save it as grade_chart.png"""
     labels = list(grades.keys())
     values = [grades[label] for label in labels]
     plt.figure(figsize=(10, 6))
@@ -48,6 +48,7 @@ def create_chart(grades, name, course_name=None):
 
 @bot.command()
 async def grades(ctx, *, args: str):
+    """!grades <course> <prof last name> [term] - send the grade breakdown and chart"""
     print(f"Received command: {args}")
     parts = args.strip().split()
     if len(parts) < 2:
@@ -56,6 +57,7 @@ async def grades(ctx, *, args: str):
 
     # Parse arguments
     course_nbr_input = parts[0].strip()
+    # uppercase so matching isn't case sensitive (json names are compared uppercased too)
     prof_last_name_input = parts[1].strip().upper()
 
     # Store the raw term input if provided
@@ -77,7 +79,7 @@ async def grades(ctx, *, args: str):
     available_terms = []  # Track available terms for error message
 
     for key in data:
-        # Split from right to handle potential commas in professor names
+        # keys look like "Last, First, 111, FA23" - split from the right since prof names have commas
         parts_key = key.rsplit(', ', 2)
         if len(parts_key) == 3:
             prof, course, term = parts_key
@@ -99,7 +101,7 @@ async def grades(ctx, *, args: str):
 
     # If term is not provided, find the most recent term and display it
     if len(parts) == 2:
-        # Sort entries by term to find the most recent
+        # sorts by the term string (e.g. "FA23") and grabs the last one
         most_recent_entry = sorted(matching_entries, key=lambda x: x['term'])[-1]
         course_data = most_recent_entry
 
@@ -109,6 +111,7 @@ async def grades(ctx, *, args: str):
         create_chart(course_data['grades'], course_data['name'], f"CSCI {course_data['course']}")
         file = discord.File("grade_chart.png")
 
+        # avg_gpa comes straight from the source CSV, we don't calculate it
         grade_lines = [f"{grade}: {count}" for grade, count in course_data['grades'].items() if count > 0]
         response = (
             f"**Grade Distribution for CSCI {course_data['course']} - {course_data['name']} ({course_data['term']})**\n"
@@ -149,6 +152,7 @@ async def grades(ctx, *, args: str):
 
 @bot.event
 async def on_ready():
+    """Print a message once the bot is logged in"""
     print(f'Logged in as {bot.user} (ID: {bot.user.id})')
     print('------')
 

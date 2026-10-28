@@ -36,7 +36,8 @@ def normalize_column_headers(headers):
         'W': 'W',
         'Withdrawal': 'W'
     }
-    # Process headers: remove newlines, strip whitespace, then map and lowercase (except for grades)
+    # different blocks use different header names, so clean them up and map to one set of names
+    # (grade columns like A+, B- keep their case, everything else gets lowercased)
     cleaned_headers = [h.replace('\n', '').strip() for h in headers]
     
     grades_to_preserve_case = ['A+', 'A', 'A-', 'B+', 'B', 'B-', 'C+', 'C', 'C-', 'D+', 'D', 'F', 'W', 'P', 'INC/NA', 'inc_na']
@@ -45,6 +46,8 @@ def normalize_column_headers(headers):
 
 def parse_grades(csv_file):
     """Parse the CSV file and return normalized grade data"""
+    # the CSV is really several tables stacked on top of each other, each with its own header row,
+    # so we read it in blocks and keep each block's headers with its rows
     current_block_rows = []
     all_data_blocks = []
     current_headers = None
@@ -128,7 +131,7 @@ def parse_grades(csv_file):
                  final_grades['INC/NA'] = 0
 
 
-            # Get average GPA
+            # avg GPA is taken from the CSV as-is, not calculated from the grade counts
             try:
                 avg_gpa = float(data.get('avg_gpa', '0'))
             except (ValueError, TypeError):
@@ -148,6 +151,7 @@ def parse_grades(csv_file):
     return result
 
 def main():
+    """Parse the CSV and write the results to grades.json"""
     input_file = "CSCI_ALL - Sheet1.csv"
     output_file = "grades.json"
     
