@@ -1,3 +1,6 @@
+"""Live Discord bot that answers !grades with a professor's grade breakdown for a CSCI course.
+Reads grades.json, which parse_grades.py builds offline from the CSV."""
+
 import discord
 from discord.ext import commands
 import matplotlib.pyplot as plt
@@ -14,7 +17,9 @@ intents.message_content = True
 bot = commands.Bot(command_prefix="!", intents=intents)
 
 def normalize_term(term):
-    """Normalize term format to FA/SP + YY format"""
+    """Turns a term like 'Fall 2023' or 'F23' into 'FA23' (same idea for spring, 'SP24').
+    Copied from parse_grades.py so user input could match the term format in grades.json.
+    Nothing in bot.py calls it right now."""
     term = term.strip().upper()
     if 'FALL' in term or term.startswith('F'):
         # Handle both YYYY and YY year formats
@@ -31,7 +36,9 @@ def normalize_term(term):
     return term
 
 def create_chart(grades, name, course_name=None):
-    """Draw a bar chart of the grades and save it as grade_chart.png"""
+    """Takes a {grade: count} dict plus the prof and course names, saves a bar chart to grade_chart.png.
+    Discord needs an actual image file to attach, so we write one to disk.
+    Called by the !grades command, which sends the file right after."""
     labels = list(grades.keys())
     values = [grades[label] for label in labels]
     plt.figure(figsize=(10, 6))
@@ -48,7 +55,9 @@ def create_chart(grades, name, course_name=None):
 
 @bot.command()
 async def grades(ctx, *, args: str):
-    """!grades <course> <prof last name> [term] - send the grade breakdown and chart"""
+    """Takes "<course> <prof last name> [term]" and replies with grade counts, avg GPA, and a chart.
+    This is the bot's only command, so it does all the lookup work against grades.json.
+    Discord calls it when someone types !grades in a channel."""
     print(f"Received command: {args}")
     parts = args.strip().split()
     if len(parts) < 2:
@@ -83,7 +92,7 @@ async def grades(ctx, *, args: str):
         parts_key = key.rsplit(', ', 2)
         if len(parts_key) == 3:
             prof, course, term = parts_key
-        elif len(parts_key) == 2:  # Handle cases where there\'s no comma in prof name
+        elif len(parts_key) == 2:  # only 2 pieces means a field is missing (a prof name without a comma still splits into 3)
             prof, course_term = parts_key
             course, term = course_term.rsplit(', ', 1)
         else:
@@ -142,7 +151,7 @@ async def grades(ctx, *, args: str):
                 await ctx.send(response, file=file)
                 return
 
-        # If we get here, the term was not found
+        # no entry matched that term, so list the terms we do have so the user can try again
         available_terms_unique = sorted(set(available_terms))
         terms_list = ", ".join(available_terms_unique)
 
@@ -152,7 +161,9 @@ async def grades(ctx, *, args: str):
 
 @bot.event
 async def on_ready():
-    """Print a message once the bot is logged in"""
+    """Prints the bot's name and ID once it connects to Discord.
+    Just a quick sign in the logs that login worked.
+    discord.py calls it automatically after bot.run()."""
     print(f'Logged in as {bot.user} (ID: {bot.user.id})')
     print('------')
 

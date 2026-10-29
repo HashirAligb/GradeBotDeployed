@@ -1,9 +1,15 @@
+"""Offline step that turns the messy grades CSV into grades.json.
+Run it by hand (python parse_grades.py) whenever the CSV changes.
+bot.py only ever reads grades.json, never the CSV."""
+
 import csv
 import json
 from collections import defaultdict
 
 def normalize_term(term):
-    """Normalize term format to FA/SP + YY format"""
+    """Turns a term like 'Fall 2023' or 'F23' into 'FA23', or 'Spring 2024' into 'SP24'.
+    The CSV writes terms a few different ways, so this keeps the json keys consistent.
+    Called by parse_grades() when it builds each key."""
     term = term.strip().upper()
     if 'FALL' in term or term.startswith('F'):
         # Extract year, handle both YYYY and YY
@@ -20,7 +26,9 @@ def normalize_term(term):
     return term
 
 def normalize_column_headers(headers):
-    """Normalize column headers to a standard format"""
+    """Takes a raw header row and returns cleaned names like 'term', 'professor', 'avg_gpa'.
+    Different blocks in the CSV label the same column differently, so this maps them to one name.
+    Called by parse_grades() every time it finds a header row."""
     header_map = {
         'TERM': 'term',
         'Term': 'term',
@@ -45,7 +53,9 @@ def normalize_column_headers(headers):
     return [header_map.get(h, h if h in grades_to_preserve_case else h.lower()) for h in cleaned_headers]
 
 def parse_grades(csv_file):
-    """Parse the CSV file and return normalized grade data"""
+    """Reads the CSV and returns a dict keyed by "PROF, COURSE, TERM" with grade counts and avg GPA.
+    This is the cleanup step, so the bot never has to deal with the messy CSV.
+    Called by main(), which writes the result to grades.json."""
     # the CSV is really several tables stacked on top of each other, each with its own header row,
     # so we read it in blocks and keep each block's headers with its rows
     current_block_rows = []
@@ -56,14 +66,14 @@ def parse_grades(csv_file):
         reader = csv.reader(f)
         
         for row in reader:
-            if not any(row):  # Empty row indicates block separator
+            if not any(row):  # a blank row ends the current block, so save it and start fresh
                 if current_block_rows:
                     if current_headers:
                          all_data_blocks.append((current_headers, current_block_rows))
                     current_block_rows = []
                     current_headers = None # Reset headers for the next block
             elif any(cell.strip() for cell in row):
-                 # Check if this row is a header row
+                 # any row with a TERM cell is a header row, and it starts a new block
                  if any(cell.strip().upper().replace('\n', '') in ('TERM', 'Term') for cell in row):
                      if current_block_rows and current_headers:
                           all_data_blocks.append((current_headers, current_block_rows))
@@ -137,7 +147,7 @@ def parse_grades(csv_file):
             except (ValueError, TypeError):
                 avg_gpa = 0.0
 
-            # Only add if the key doesn't exist (to avoid potential duplicates or summary rows)
+            # first row wins: if the key is already there, skip this row (avoids duplicates and summary rows)
             if key not in result:
                  result[key] = {
                     "name": prof,
@@ -151,7 +161,9 @@ def parse_grades(csv_file):
     return result
 
 def main():
-    """Parse the CSV and write the results to grades.json"""
+    """Runs parse_grades() on the CSV and writes the result to grades.json.
+    This is what runs when you do python parse_grades.py.
+    Rerun it whenever the CSV changes, since bot.py only reads the json."""
     input_file = "CSCI_ALL - Sheet1.csv"
     output_file = "grades.json"
     
